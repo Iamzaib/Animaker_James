@@ -7,3 +7,7 @@ header, footer{
     background-color: #212121;
     color: #ffffff;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
