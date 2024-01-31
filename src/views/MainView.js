@@ -1,10 +1,13 @@
 import { Link } from 'react-router-dom';
+import Component from '../components/Component';
 
 const AdminView = props => {
 	return (
 		<>
-			<h2>Main View</h2>
-			<Link to='/auth'>Auth View</Link>
+			{/* <h2 className=' font-bold'>Main View</h2> */}
+			<Component />
+			{/* <Link to='/auth'>Auth View</Link> */}
+
 		</>
 	);
 };
