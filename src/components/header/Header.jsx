@@ -10,7 +10,7 @@ export default function Header() {
     return (
         <div>
             {/* Large screens */}
-            <div className='bg-[#2727d0]  hidden md:flex justify-between items-center text-white  md:px-20 lg:px-32 py-2 text-[16px]'>
+            <div className='bg-[#2727d0]  fixed-top hidden md:flex justify-between items-center text-white  md:px-20 lg:px-32 py-2 text-[16px]'>
                 <div>
                     <img src={logo} alt='logo' className='w-[180px]' />
                 </div>

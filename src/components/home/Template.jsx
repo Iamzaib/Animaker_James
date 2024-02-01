@@ -9,7 +9,7 @@ export default function Template() {
         <div className='mt-20'>
 
             {/* This div is for heading */}
-            <div className='w-[50%]'>
+            <div className='md:w-[50%] md:relative top-48'>
                 <h1 className='text-3xl font-bold px-4'>1000s of Unique Video Templates</h1>
                 <p className='px-4 text-gray-400 text-lg'>Pick from 1000s of templates! Use them to create videos in under 5 minutes!</p>
             </div>
@@ -18,8 +18,9 @@ export default function Template() {
             <div className='mt-4 p-3'>
                 <video
                     // controls
-                    className='w-[100%] h-[50%] rounded-xl'
+                    className=' rounded-xl'
                     loop 
+                    autoPlay
                 >
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.

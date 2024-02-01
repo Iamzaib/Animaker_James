@@ -1,9 +1,9 @@
 import React from 'react'
-import video from '../../assets/img/Editing-Tools.mp4';
+import video from '../../assets/img/Video editing tools.mp4';
 export default function EditingTools() {
     return (
         // this is outer div
-        <div className='mt-6  p-3 bg-white'>
+        <div className='p-3 rounded-3xl'>
 
             {/* this div is for heading and other thing */}
             <div className='md:w-[70%] md:relative md:text-white top-44 p-2'>
@@ -17,6 +17,7 @@ export default function EditingTools() {
                     // controls
                     className='w-[100%] rounded-xl'
                     loop
+                    autoPlay
                 >
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.

@@ -4,6 +4,9 @@ import HeroSection from '../components/home/HeroSection'
 import Awards from '../components/home/Awards'
 import Template from '../components/home/Template'
 import EditingTools from '../components/home/EditingTools';
+import FaqSection from '../components/home/Faq'
+import Reviews from '../components/home/Reviews'
+import FirstVideo from '../components/home/FirstVideo'
 
 export default function LandingPage() {
   return (
@@ -12,11 +15,14 @@ export default function LandingPage() {
 
       {/* This div is for wrap the other component */}
       <div className='bg-zinc-200'>
-        <div className='lg:mx-36'> 
+        <div className='lg:mx-36'>
           <Awards />
           <Template />
-          <EditingTools/>
-
+          <EditingTools />
+          <Reviews/>
+          <FaqSection />
+          <FirstVideo/>
+          
         </div>
 
       </div>
