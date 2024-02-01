@@ -27,7 +27,7 @@ export default function Header() {
                         Login
                     </button>
                     <button className='bg-yellow-500 rounded-full px-3 py-1 font-bold'>
-                        Signup
+                        Sign Up
                     </button>
                     <button>
                         <BiWorld size={30} />
@@ -92,7 +92,7 @@ export default function Header() {
                                 Login
                             </button>
                             <button className='bg-[#ff8825] rounded-full px-2 py-1 font-bold border-b-2 my-2 w-[100px]'>
-                                Signup
+                                Sign Up
                             </button>
                             <button className='border-b-2 my-2'>
                                 <BiWorld size={30} />

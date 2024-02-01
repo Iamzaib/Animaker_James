@@ -6,7 +6,7 @@ const HeroSection = () => {
         <div className="flex flex-col lg:w-full sm:w-[80%] justify-center items-center font-sans gap-4">
           <h1 className="w-fit text-center h-fit text-[40px] md:text-[60px] font-extrabold text-white mb-[16px]">
             The Future of <br />
-            Video Making Starts Here.
+            Video Making Starts Here. 
           </h1>
           <p className="text-center font-semibold text-[18px] text-white w-[80%]">
             A breakthrough AI-Powered platform to create Animation and Live-Action videos for non-designers & professionals from early-stage startups to seasoned Fortune 500 companies.
