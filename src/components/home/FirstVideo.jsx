@@ -11,11 +11,8 @@ export default function FirstVideo() {
                 <p className='text-white text-xl md:text-6xl font-bold' data-aos="fade-up" data-aos-duration="1000">The world is waiting </p>
                 <p className='text-white text-xl  md:text-6xl font-bold' data-aos="fade-up" data-aos-duration="1000"> for your first video!</p>
 
-                {/* <div className="gradient-border mt-5">
-                    <button className="inner-button font-bold bg-[#2727d0] text-white text-[26px]">Create for free</button>
-                </div> */}
                 <div className="gradient-border mt-5">
-                    <button className="inner-button font-bold bg-[#2727d0] text-white text-[26px] hover:shadow-purple transition-all duration-300">
+                    <button className="inner-button py-2 lg:py-10 px-3 md:px-60 font-bold bg-[#2727d0] text-white text-[18px] md:text-[26px] hover:shadow-purple transition-all duration-300">
                         Create for free
                     </button>
                 </div>

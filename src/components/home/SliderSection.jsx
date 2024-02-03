@@ -42,7 +42,7 @@ const SliderSection = () => {
     };
 
     return (
-        <div className="flex flex-col w-full mx-auto h-fit">
+        <div className="flex flex-col w-full mx-auto h-fit px-2">
             {/* Heading Div */}
             <div className="flex flex-col md:mx-20 mt-24 ">
                 <h1 className="flex justify-center md:justify-start md:text-[55px] text-[40px] bg-gradient-to-b from-[#3939D4] font-sans-serif to-[#8F3CEB] font-extrabold text-transparent bg-clip-text">
@@ -54,11 +54,11 @@ const SliderSection = () => {
             </div>
                               {/* Selector Div */}
             <div className="inline-flex h-fit justify-center w-full  ">
-                <ul className="flex justify-evenly border-2 border-b-[#797979] border-transparent cursor-pointer overflow-hidden">
+                <ul className="flex justify-evenly border-2 border-b-[#797979] border-transparent cursor-pointer  overflow-auto">
                     {labels.map((label, index) => (
                         <h1
                             key={index}
-                            className={`list-none font-bold text-[20px] text-[#0a0f4098] p-4 cursor-pointer ${
+                            className={`list-none font-bold text-[16px] md:text-[20px] text-[#0a0f4098] p-4 cursor-pointer ${
                                 activeIndex === index
                                     ? "  border-4 border-b-[#0A0F40] text-[#0a0f40] font-bold border-transparent"
                                     : ""
@@ -77,7 +77,7 @@ const SliderSection = () => {
                         <div className="md:relative md:bottom-16 md:left-4 lg:left-6"
                         >
                           { activeIndex ===  index ?
-                          <><img src={image} className="  object-fit"  /></>
+                          <><img src={image} className="  object-fit" data-aos="fade-left" data-aos-duration="1000" /></>
                           :
                           ''
                           } 
@@ -92,7 +92,7 @@ const SliderSection = () => {
                             key={index} 
                         >
                            { activeIndex ===  index ?
-                          <><h2 className="font-bold text-[25px]  text-[#0a0f40] p-4">{heading}</h2></>
+                          <><h2 className="font-bold text-[25px]  text-[#0a0f40] p-4" data-aos="fade-left" data-aos-duration="1000">{heading}</h2></>
                           :
                           ''
                           } 
@@ -107,7 +107,7 @@ const SliderSection = () => {
                             
                         >
                            { activeIndex ===  index ?
-                          <><p className="font-normal text-[25px]  text-center emd:text-left text-[#0a0f40d8] md:w-96 ">{description}</p></>
+                          <><p className="font-normal px-1 text-[18px] mx-auto text-[#0a0f40d8] md:w-96 " data-aos="fade-left" data-aos-duration="1000">{description}</p></>
                           :
                           ''
                           } 

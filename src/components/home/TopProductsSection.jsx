@@ -56,7 +56,7 @@ export default function TopProductsSection() {
   ]
   return (
     // This is the outer dvi
-    <div className='mt-20'>
+    <div className='mt-20 px-1'>
       <div className='w-full md:w-[65%]lg:w-[55%] mx-auto' >
         <h1 className='font-bold text-[30px] md:text-[50px]' data-aos="zoom-in-up" data-aos-duration="2000">Top-notch Products</h1>
         <h1 className='font-bold text-[30px] md:text-[50px]' data-aos="zoom-in-up" data-aos-duration="2000">for <span className='text-[#2727d0]'>top notch Creaters</span> </h1>

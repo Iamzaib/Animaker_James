@@ -9,7 +9,7 @@ const WhyAnimaker = () => {
             {/* Outer Div */}
             <div className=" flex flex-col w-full mx-auto h-fit ">
                 {/* Heading Div */}
-                <div className=" flex flex-col md:mx-44">
+                <div className=" flex flex-col md:mx-28">
                     <h1 className=" flex justify-center md:justify-start md:text-[55px] text-[40px] bg-gradient-to-r from-[#3939D4] to-[#8F3CEB] font-bold text-transparent bg-clip-text">
                         <span className=" text-[#0A0F40] font-bold">Why</span>{" "}
                         Animaker?
@@ -23,23 +23,25 @@ const WhyAnimaker = () => {
                 <div className="flex flex-col w-full mx-auto h-fit p-2 gap-2 ">
                     {/* Video 1 */}
                     <div className="  md:bg-opacity-0 bg-[white] rounded-3xl flex flex-col w-full ">
-                    <div className='md:w-[70%] md:relative md:text-[#0A0F40] left-32 top-44 p-2  '>
-                <h1 className='text-2xl md:text-3xl font-bold mb-2 flex text-center '>Effortless Creation  Powered by Animaker AI</h1>
-                <p className='md:w-[55%] text-xl flex justify-center md:justify-start text-[#bcc5ce]'>Armed with AI powered tools, any person  can now create a studio quality animated video in an instant</p>
-            </div>
-                    <div class="">
-                    <video
-                            loop
-                            autoPlay
-                            width="1000"
-                            height="auto"
-                            className=" rounded-xl mx-auto shadow-lg md:border-4 md:border-l-[#6FFEE3] md:border-t-[#6FFEE3] md:border-b-[#95bffd] md:border-r-[#9CC2FD]"
-                        >
-                            <source src={video} type="video/mp4" />
-                            Your browser does not support the video tag.
-                        </video>
-</div>
-</div>
+                        <div className='md:w-[70%] md:relative md:text-[#0A0F40] left-32 top-44 p-2  '>
+                            <h1 className='text-2xl md:text-3xl font-bold mb-2 flex text-center '>Effortless Creation  Powered by Animaker AI</h1>
+                            <p className='md:w-[55%] text-xl flex justify-center md:justify-start text-[#bcc5ce]'>Armed with AI powered tools, any person  can now create a studio quality animated video in an instant</p>
+                        </div>
+                        <div class="">
+                            <video
+                                loop
+                                autoPlay
+                                muted
+                                width="1000"
+                                height="auto"
+                                className="rounded-xl mx-auto shadow-lg md:border-4 md:border-l-[#6FFEE3] md:border-t-[#6FFEE3] md:border-b-[#95bffd] md:border-r-[#9CC2FD]"
+                            >
+                                <source src={video} type="video/mp4" />
+                                Your browser does not support the video tag.
+                            </video>
+
+                        </div>
+                    </div>
                     {/* Video-2 Video 3 Outer-Div */}
                     <div className=" flex flex-col md:flex-row mx-auto  border-none md:gap-2 gap-4 ">
                         {/* Video-2  */}
@@ -57,24 +59,24 @@ const WhyAnimaker = () => {
                                     unique characters for your brand.
                                 </p>
                             </div>
-                            
+
                             <div className="">
-                            <video
-                                loop
-                                // controls
-                                autoPlay
-                                width="500"
-                                height="auto"
-                                className=" rounded-xl mx-auto shadow-lg"
-                            >
-                                <source src={video1} type="video/mp4" />
-                                Your browser does not support the video tag.
-                            </video>
+                                <video
+                                    loop
+                                    autoPlay
+                                    muted
+                                    width="500"
+                                    height="auto"
+                                    className=" rounded-xl mx-auto shadow-lg"
+                                >
+                                    <source src={video1} type="video/mp4" />
+                                    Your browser does not support the video tag.
+                                </video>
                             </div>
                         </div>
                         <div className="  mt-[-90px] ">
                             {/* Video-3  */}
-                            <div    className=" relative sm:top-32 top-44 mx-auto  ">
+                            <div className=" relative sm:top-32 top-44 mx-auto  ">
                                 <h2
                                     className="  font-bold text-[#ffffff] flex justify-center md:ml-4
                                  text-[25px] "
@@ -87,11 +89,12 @@ const WhyAnimaker = () => {
                                     creativity.
                                 </p>
                             </div>
-                                
+
                             <video
                                 loop
-                                // controls
                                 autoPlay
+                                muted
+                                // controls
                                 width="500"
                                 height="auto"
                                 className=" rounded-xl mx-auto shadow-lg"

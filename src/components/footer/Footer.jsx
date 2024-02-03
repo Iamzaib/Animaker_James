@@ -84,7 +84,7 @@ export default function Footer() {
             {/* This div is for footer logo and copy right line */}
 
             <div className='text-center'>
-                <img src={logo} alt="footer logo" className='w-[80px] mx-auto pb-3' />
+                <img src={logo} alt="footer logo" className='w-[80px] mx-auto pb-3 pt-5' />
                 <h3 className='text-white text-[30px] font-bold'> <span className='font-bold text-[30px] text-[#f99420]'>Videos</span>, Done Right!</h3>
                 <h4 className='text-gray-400 pt-2'>Copyright © 2024 <span className='text-[#f99420] hover:underline '>Animaker</span> Inc, All rights reserved</h4>
             </div>

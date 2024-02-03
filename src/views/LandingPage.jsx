@@ -7,7 +7,7 @@ import EditingTools from '../components/home/EditingTools';
 import FaqSection from '../components/home/Faq'
 import Reviews from '../components/home/Reviews'
 import WhyAnimaker from '../components/home/WhyAnimaker'
-// import TopProductsSection from '../components/home/TopProductsSection'
+import TopProductsSection from '../components/home/TopProductsSection'
 import FirstVideo from '../components/home/FirstVideo'
 import SliderSection from '../components/home/SliderSection'
 
@@ -23,12 +23,11 @@ export default function LandingPage() {
           <WhyAnimaker />
           <Template />
           <EditingTools />
+          <SliderSection/>
           <TopProductsSection />
           <Reviews/>
           <FaqSection />
           <FirstVideo/>
-
-          
         </div>
       </div>
 
