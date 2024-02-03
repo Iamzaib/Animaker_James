@@ -9,10 +9,10 @@ const WhyAnimaker = () => {
             {/* Outer Div */}
             <div className=" flex flex-col w-full mx-auto h-fit ">
                 {/* Heading Div */}
-                <div className=" flex flex-col md:mx-20   ">
+                <div className=" flex flex-col md:mx-44">
                     <h1 className=" flex justify-center md:justify-start md:text-[55px] text-[40px] bg-gradient-to-r from-[#3939D4] to-[#8F3CEB] font-bold text-transparent bg-clip-text">
                         <span className=" text-[#0A0F40] font-bold">Why</span>{" "}
-                        Animaker
+                        Animaker?
                     </h1>
                     <p className="flex justify-center md:justify-start text-[#A7B2BF] md:w-96 text-[22px] text-center md:font-bold mt-2">
                         Meet the World’s most complete Animation & Video Making
@@ -20,10 +20,15 @@ const WhyAnimaker = () => {
                     </p>
                 </div>
                 {/* Video Tags */}
-                <div className="flex flex-col w-full mx-auto h-fit p-2 gap-2">
+                <div className="flex flex-col w-full mx-auto h-fit p-2 gap-2 ">
                     {/* Video 1 */}
-                    <div className="mx-auto border ">
-                        <video
+                    <div className="  md:bg-opacity-0 bg-[white] rounded-3xl flex flex-col w-full ">
+                    <div className='md:w-[70%] md:relative md:text-[#0A0F40] left-32 top-44 p-2  '>
+                <h1 className='text-2xl md:text-3xl font-bold mb-2 flex text-center '>Effortless Creation  Powered by Animaker AI</h1>
+                <p className='md:w-[55%] text-xl flex justify-center md:justify-start text-[#bcc5ce]'>Armed with AI powered tools, any person  can now create a studio quality animated video in an instant</p>
+            </div>
+                    <div class="">
+                    <video
                             loop
                             autoPlay
                             width="1000"
@@ -33,7 +38,8 @@ const WhyAnimaker = () => {
                             <source src={video} type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>
-                    </div>
+</div>
+</div>
                     {/* Video-2 Video 3 Outer-Div */}
                     <div className=" flex flex-col md:flex-row mx-auto  border-none md:gap-2 gap-4 ">
                         {/* Video-2  */}
@@ -51,7 +57,8 @@ const WhyAnimaker = () => {
                                     unique characters for your brand.
                                 </p>
                             </div>
-
+                            
+                            <div className="">
                             <video
                                 loop
                                 // controls
@@ -63,10 +70,11 @@ const WhyAnimaker = () => {
                                 <source src={video1} type="video/mp4" />
                                 Your browser does not support the video tag.
                             </video>
+                            </div>
                         </div>
                         <div className="  mt-[-90px] ">
                             {/* Video-3  */}
-                            <div className=" relative sm:top-32 top-44 mx-auto  ">
+                            <div    className=" relative sm:top-32 top-44 mx-auto  ">
                                 <h2
                                     className="  font-bold text-[#ffffff] flex justify-center md:ml-4
                                  text-[25px] "
@@ -79,7 +87,7 @@ const WhyAnimaker = () => {
                                     creativity.
                                 </p>
                             </div>
-
+                                
                             <video
                                 loop
                                 // controls

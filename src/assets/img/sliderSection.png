@@ -1,0 +1,3937 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://www.animaker.com/ -->
+<html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="MSSmartTagsPreventParsing" content="true">
+<meta name="google-site-verification" content="h3RSZax6F2yw8xYQIMBvnrDRjbB3KGIx4uV_fEL41vM">
+<!-- <meta name="referrer" content="same-origin" /> -->
+<title>Animaker, Make Animated Videos with AI for Free</title>
+<meta name="keywords" content="Animated Video, animaker, make online video, make videos online, create videos online, explainer video, demo video, video maker, make animation, make video">
+<meta name="title" content="Animaker, Make Animated Videos with AI for Free">
+<meta name="description" content="Animaker is an online AI animation generator and video maker that brings studio quality video content within everyone&#39;s reach. Animated Videos, Done Right!">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:site_name" content="Animaker">
+<meta property="og:title" content="Animaker, Make Animated Videos with AI for Free">
+<meta property="og:type" content="Animation">
+<meta property="og:image" content="https://www.animaker.com/Animaker-Home/new-assets/Homepage-OG.webp">
+<meta property="og:image:url" content="https://www.animaker.com/Animaker-Home/new-assets/Homepage-OG.webp">
+<meta property="og:image:width" content="140">
+<meta property="og:image:height" content="140">
+<meta property="og:image:type" content="image/png">
+<meta property="og:description" content="Animaker is an online AI animation generator and video maker that brings studio quality video content within everyone&#39;s reach. Animated Videos, Done Right!">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@theanimaker">
+<meta name="twitter:title" content="Animaker, Make Animated Videos with AI for Free">
+<meta name="twitter:description" content="Animaker is an online AI animation generator and video maker that brings studio quality video content within everyone&#39;s reach. Animated Videos, Done Right!">
+<meta name="twitter:image" content="https://www.animaker.com/Animaker-Home/new-assets/Homepage-OG.webp">
+<link rel="publisher" href="https://plus.google.com/+Animaker">
+<meta name="p:domain_verify" content="a2341da4202b781231e7a09853ce2c20">
+<link rel="shortcut icon" type="image/png" href="https://www.animaker.com/static/assets/images/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./sliderSection_files/css2" rel="stylesheet">
+<!-- <link rel="stylesheet" type="text/css" href="static/assets/css/font-v1.css"> -->
+<!-- <link href="https://www.animaker.com/Animaker-Home/bootstrap-v1.min.css" rel="stylesheet"> -->
+ <!-- Latest compiled and minified CSS -->
+ <link rel="stylesheet" href="./sliderSection_files/bootstrap.min.css">
+ <!-- <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    </noscript> -->
+ 
+ <!-- jQuery library -->
+ <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script> -->
+ 
+ <!-- Popper JS -->
+ <!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script> -->
+
+ <script type="text/javascript" async="" src="./sliderSection_files/s87fnug5"></script><script type="text/javascript" async="" src="./sliderSection_files/js"></script><script async="" src="./sliderSection_files/analytics.js.download"></script><script async="" src="./sliderSection_files/analytics.js.download"></script><script src="./sliderSection_files/growsumo.min.js.download" type="text/javascript" async=""></script><script src="./sliderSection_files/jquery-1.11.0-v2.min.js.download"></script>
+ 
+ <!-- Latest compiled JavaScript -->
+ <script src="./sliderSection_files/bootstrap.bundle.min.js.download"></script> 
+
+ <!-- SWIPER LIBRARY -->
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/> -->
+<link rel="stylesheet" href="./sliderSection_files/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+    <noscript>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+    </noscript>
+<script src="./sliderSection_files/swiper-bundle.min.js.download"></script>
+
+<!-- AOS LIBRARY -->
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css"> -->
+<link rel="stylesheet" href="./sliderSection_files/aos.css" as="style" onload="this.onload=null;this.rel=&#39;stylesheet&#39;">
+<noscript>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+</noscript>
+<script src="./sliderSection_files/aos.js.download"></script>
+
+
+<link rel="stylesheet" type="text/css" href="./sliderSection_files/home-v23.css">
+<!-- <link rel="preload" href="https://www.animaker.com/Animaker-Home/home-v23.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://www.animaker.com/Animaker-Home/home-v23.css">
+</noscript> -->
+<!-- <link href="https://www.animaker.com/Animaker-Home/bootstrap-datetimepicker.min.css" rel="stylesheet"> -->
+<link rel="canonical" href="https://www.animaker.com/">
+<link rel="alternate" hreflang="en" href="https://www.animaker.com/">
+<link rel="alternate" hreflang="es" href="https://www.animaker.es/">
+<link rel="alternate" hreflang="pt" href="https://www.animaker.co/">
+<link rel="alternate" hreflang="de" href="https://www.animaker.de/">
+<link rel="alternate" hreflang="fr" href="https://www.animaker.fr/">
+<link rel="alternate" hreflang="kr" href="https://www.animaker.kr/">
+<link rel="alternate" hreflang="ru" href="https://www.animaker.ru/">
+<link rel="alternate" hreflang="it" href="https://www.animaker.it/">
+<link rel="alternate" hreflang="ja" href="https://www.animaker.jp/">
+<link rel="alternate" hreflang="pl" href="https://www.animaker.pl/">
+<link rel="alternate" hreflang="nl" href="https://www.animaker.com/nl">
+<link rel="alternate" hreflang="zh-hk" href="https://www.animaker.hk/">
+<link rel="alternate" hreflang="x-default" href="https://www.animaker.com/">
+<link rel="stylesheet" href="./sliderSection_files/home-style12.css">
+<!-- <link rel="preload" href="https://www.animaker.com/Animaker-Home/home-style12.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://www.animaker.com/Animaker-Home/home-style12.css">
+</noscript> -->
+
+
+<link href="./sliderSection_files/header-updated-v2.css" rel="stylesheet" type="text/css">
+<!-- <link rel="preload" href="https://www.animaker.com/assets/css/header-updated-v2.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript>
+  <link rel="stylesheet" href="https://www.animaker.com/assets/css/header-updated-v2.css">
+</noscript> -->
+<script src="./sliderSection_files/client" defer=""></script>
+<!-- Partner stack Reward -->
+<script type="text/javascript">(function() {var gs = document.createElement('script');gs.src = 'https://snippet.growsumo.com/growsumo.min.js';gs.type = 'text/javascript';gs.async = 'true';gs.onload = gs.onreadystatechange = function() {var rs = this.readyState;if (rs && rs != 'complete' && rs != 'loaded') return;try {growsumo._initialize('pk_M048pZFDfZKpjCXc3l6WjrY8YUVhf3js');if (typeof(growsumoInit) === 'function') {growsumoInit();}} catch (e) {}};var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gs, s);})();</script>
+    <!-- <script src='https://accounts.google.com/gsi/client' async defer ></script> -->
+
+
+<!-- Google Analytics -->
+<script defer="">
+  (function(i,s,o,g,r,a,m)
+  {
+  i["GoogleAnalyticsObject"]=r;
+  i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })
+  (window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-46163621-1', 'animaker.com');
+  ga('send', 'pageview');
+  </script>
+<style>
+  /* ADJUSTMENT FOR MAINTENANCE BAR */
+  header{
+    top:0px;
+  }
+  header.header_area{
+    top:0;
+}
+
+.header_helobar_div .helobar+header.header_area{
+    top:50px;
+}
+  /* hello bar css in login page */
+.header_helobar_div{
+    height: 120px;
+    position: fixed;
+    z-index: 9999;
+    top: 0px;
+    width: 100%;
+  }
+.helobar{
+    height: 50px;
+    /* background: linear-gradient(to right, #8e2de2, #4a00e0); */
+    background: linear-gradient(to right, #ee0979, #ff6a00);
+    text-align: center;
+    padding-top:1.5px;
+    display:
+    none;
+  }
+.helobar_content{
+    display: inline-block;
+    color: #fff;
+    margin: 12px 0;
+    margin-right: 20px;
+  }
+.helobar_content p{
+    margin-bottom: 0;
+    font-weight: 400;
+    font-family: 'PT Sans';
+    letter-spacing: 0.5px;
+    font-size:15px;
+  }
+.helobar_button{
+    display: inline-block;
+    color: #fff;
+  }
+.helobar_button .save_btn{
+    color: #fff;
+    padding: 6px 22px;
+    border-radius: 18px;
+    border-bottom: 2px solid transparent;
+    background-image: linear-gradient(to right, #503df9, #9e52f7);
+    opacity: 0.8;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'PT Sans';
+    font-size:14px;
+}
+  .helobar_close{
+    width: 24px;
+    /* float: right; */
+    position: absolute;
+    right: 20px;
+    top: 13px;
+    cursor:pointer;
+  }
+  @media (max-width:720px) {
+    .helobar {
+      display: none !important;
+      height:auto;
+    }
+    /* ADJUSTMENT FOR MAINTENANCE BAR */
+  header{
+    top:70px;
+  }
+  .herosection_content{
+    padding: 120px 0 0 0;
+
+  }
+  .helobar_content{
+    margin-right:0px;
+    margin: 12px 5px
+  }
+  .helobar_content p{
+    font-size: 14px;
+  }
+  .helobar_close{
+    display: none;
+  }
+  .header_helobar_div .helobar+header.header_area{
+    top:70px;
+  }
+  }
+#credential_picker_container{
+  top:66px !important;
+  display:block !important;
+}
+
+.ad_bar{
+  height: 50px;
+    /* background: linear-gradient(to right, #8e2de2, #4a00e0); */
+    background: linear-gradient(to right, #ee0979, #ff6a00);
+    text-align: center;
+    padding-top:1.5px;
+    display:none;
+}
+.ad_bar_content{
+  display: inline-block;
+    color: #fff;
+    margin: 12px 0;
+    margin-right: 20px;
+}
+.ad_bar_content p{
+    margin-bottom: 0;
+    font-weight: 400;
+    font-family: 'PT Sans';
+    letter-spacing: 0.5px;
+    font-size:15px;
+}
+.ad_bar_button{
+  display: inline-block;
+    color: #fff;
+}
+.ad_bar_button .save_btn{
+  color: #fff;
+    padding: 6px 22px;
+    border-radius: 18px;
+    border-bottom: 2px solid transparent;
+    background-image: linear-gradient(to right, #503df9, #9e52f7);
+    opacity: 0.8;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'PT Sans';
+    font-size:14px;
+}
+.ad_bar_close{
+    width: 24px;
+    /* float: right; */
+    position: absolute;
+    right: 20px;
+    top: 13px;
+    cursor:pointer;
+}
+
+
+.cookie_section {
+    bottom: 0;
+    position: fixed;
+    /* background-color: #100F0F; */
+    width: 65%;
+    text-align: center;
+    z-index: 99999;
+    /* border-radius: 5px; */
+    margin: 0px 19%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 6px 15px #00000029;
+    border-radius: 12px;
+}
+.cookie_section .cookie_text {
+    margin: 0;
+    color: #ACA9A9;
+    font-family: 'PT Sans';
+    font-size: 18px;
+    padding: 18px 0px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    color: #000000;
+    font: normal normal normal 16px/26px Inter;
+}
+.cookie_section .cookie_text .accept_button {
+    cursor: pointer;
+    /* background-color: #f5811a; */
+    padding: 8px 30px 7px 30px;
+    border-radius: 15px;
+    color: #fff;
+    background: transparent linear-gradient(90deg, #6DE19B 0%, #6CEEDB 88%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(75deg, #FF5500 0%, #FFDA60 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 63px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+.tab_buttons{
+  margin-top:30px;
+}
+.users_logo,.animos_logo,.assets_logo{
+  padding-bottom:20px;
+}
+.users_count,.animos_count,.assets_count{
+  padding-bottom: 12px;
+}
+.customers{
+  margin:50px 0 100px 0;
+}
+
+.ball1{
+  z-index: 0;
+  display: none;
+}
+
+#footerWrapper {
+    background: #221E2F;
+}
+#footerWrapper ul li{
+  font-family: 'PT Sans';
+  color:#AFAFAF;
+}
+.footer_animaker{
+  color: #AFAFAF;
+}
+.navigation-portrait .nav-menus-wrapper{
+  display:none;
+}
+#animaker_pricing_list{
+    max-width: 870px;
+}
+#animaker_pricing_list .megamenu-list{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center;
+}
+#animaker_pricing_list li{
+  width:25%;
+  /* display: inline-block; */
+}
+
+#animaker_pricing_list .pricing_img{
+    width: 170px;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#animaker_pricing_list .pricing_img.free{
+  background: #F5F5F5;
+}
+header .nav-menu li .megamenu-lists .custommenu.freeplan:hover{
+  background: #EBEBEB;
+}
+#animaker_pricing_list .pricing_img.starter{
+  background: #FFF8DE;
+}
+header .nav-menu li .megamenu-lists .custommenu.starter:hover{
+  background: #FFECAA;
+}
+#animaker_pricing_list .pricing_img.pro{
+  background: #EDF9FF;
+}
+header .nav-menu li .megamenu-lists .custommenu.pro:hover{
+  background: #C6ECFF;
+}
+#animaker_pricing_list .pricing_img.enterprise{
+  background: #F7F0FF;
+}
+header .nav-menu li .megamenu-lists .custommenu.enterprise:hover{
+  background: #F0E3FF;
+}
+header .nav-menu li #animaker_pricing_list .megamenu-lists .custommenu{
+display: block !important;
+}
+header .nav-menu li #animaker_pricing_list .megamenu-lists::after{
+    background-color: #fff;
+
+}
+header .nav-menu li #animaker_pricing_list .megamenu-lists .custommenu p{
+    font-size: 14px;
+    width: 180px;
+    height:auto;
+    margin-bottom: 12px;
+
+}
+header .nav-menu li #animaker_pricing_list .megamenu-lists .megamenu-list li a:before{
+    background: transparent;
+}
+#animaker_pricing_list .desktop{
+  position: relative;
+  bottom: 20px;
+  margin-bottom: 20px;
+}
+#animaker_pricing_list .desktop a{
+  color: #9458F0!important;
+  font-weight: bold;
+  padding: 10px 30px 10px 20px;
+  background: #F2EAFF;
+  margin-left: 40px;
+  margin-top: 20px;
+  width:auto;
+  /* opacity: 0.3; */
+  border-radius: 3px;
+}
+@media (max-width:991px) {
+  .header .menus .mobile-menu-icon span.menu-bar-icon{
+    background-color: #000;
+  }
+  .header .menus .mob-menu.active li a {
+    background:transparent;
+}
+.nav-menus-wrapper{
+   display:none;
+  }
+  #animaker_pricing_list .megamenu-list{
+    flex-direction: column;
+  }
+  #animaker_pricing_list li{
+    width:100%;
+  }
+  #animaker_pricing_list .desktop{
+    position: unset;
+    margin-top: 30px;
+  }
+  #animaker_pricing_list .desktop a{
+    margin-left: 0;
+  }
+  
+  .new_home_section{
+    background: transparent;
+  }
+  .hero-section-wrapper{
+    background-image: linear-gradient(180deg, #2A39D0, #9C3DEF);
+  }
+  
+}
+@media (max-width:850px) {
+  .ad_bar {
+    display: none !important;
+}
+}
+@media screen and (max-width: 640px) {
+  .gOULTz video {
+      width: 100% !important;
+      height: 100% !important;
+  }
+  .customers {
+    margin: 50px 0 80px 0;
+}
+  .tab_section h3{
+    margin-bottom: 30px;
+  }
+  .tab_buttons {
+    margin-top: 0px;
+}
+.animaker_users_description .mainDescriptionSection .animakerAnimosCreated, .animaker_users_description .mainDescriptionSection .animakerAssestsCollection, .animaker_users_description .mainDescriptionSection .animakerUsersCreated, .animaker_users_description .usersHeader{
+  padding-bottom:40px;
+}
+
+  .cookie_section{
+    width: 100%;
+    margin: 0 auto;
+  }
+  .cookie_section .cookie_text{
+    margin: 0;
+    color: #000;
+    font-family: 'PT Sans';
+    font-size: 15px;
+    padding: 18px 0px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+  }
+  .cookie_section .cookie_text .accept_button{
+    cursor: pointer;
+    /* background-color: #f5811a; */
+    padding: 2px 27px 2px 27px;
+    border-radius: 15px;
+    color: #fff;
+    background: transparent linear-gradient(75deg, #FF5500 0%, #FFDA60 100%) 0% 0% no-repeat padding-box;
+    display: block;
+    width: 100px;
+    margin: auto;
+  }
+}
+
+/* mobile popup */
+.appopen {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  display: none;
+}
+
+@media screen and (max-width: 579px) {
+  .appopen {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.1);
+    z-index: 2147483003;
+  }
+  .appopen .apppopup {
+    width: 100%;
+    height: auto;
+    background: #fff;
+    border-radius: 15px 15px 0 0;
+    position: fixed;
+    bottom: 0;
+  }
+  .appopen h6 {
+    font-size: 1.125rem;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 1px solid #f2f2f2;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    position: relative;
+  }
+  .appopen .popclosed {
+    position: absolute;
+    right: 35px;
+    top: 23px;
+    cursor: pointer;
+  }
+  .appopen .popcnt {
+    display: -webkit-box;
+    display: -ms-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 10px 10px 25px;
+  }
+  .appopen .popcnt .item {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+    padding: 10px 15px;
+  }
+  .appopen .popcnt .item .applogo {
+    font-size: 1.125rem;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 600;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .appopen .popcnt .item .applogo img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+  }
+  .appopen .popcnt .item .imgbtn a {
+    display: inline-block;
+  }
+  .appopen .popcnt .item .imgbtn a img {
+    width: 150px;
+    height: auto;
+  }
+  .appopen .popcnt .item .imgbtn .btn {
+    background: #e5e5e5;
+    padding: 10px;
+    color: #000;
+    text-align: center;
+    min-width: 150px;
+    font-weight: 600;
+    font-size: 0.9375rem;
+    font-family: 'PT Sans', sans-serif;
+  }
+  .appopen.popopen {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .appopen h6 {
+    font-size: 1rem;
+  }
+  .appopen .popcnt .item .applogo {
+    font-size: 1rem;
+  }
+  .appopen .popcnt .item .imgbtn a img {
+    width: 120px;
+  }
+  .appopen .popcnt .item .imgbtn .btn {
+    padding: 10px;
+    min-width: 120px;
+  }
+}
+
+
+
+</style>
+<script type="text/javascript">
+//  // Header class add-on on scroll
+//   $(window).scroll(function() {
+//     var scroll = $(window).scrollTop();
+//     if (scroll >= 120) {
+//         $("header").addClass("scrolled");
+//     } else {
+//         $("header").removeClass("scrolled");
+//     }
+// });
+</script>
+
+
+<!-- Google Analytics -->
+<script defer="">
+  (function(i,s,o,g,r,a,m)
+  {
+  i["GoogleAnalyticsObject"]=r;
+  i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })
+  (window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-46163621-1', 'animaker.com');
+  ga('send', 'pageview');
+</script>
+
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@graph":
+[{
+  "@type": "Corporation",
+  "name": "Animaker",
+  "url": "https://www.animaker.com/",
+  "logo": "static/assets/images/animaker-new-logo.png",
+  "sameAs": [ "https://www.facebook.com/theanimaker",
+  "https://twitter.com/animakerhq",
+  "https://www.instagram.com/theanimaker/",
+  "https://www.youtube.com/user/AniMakerVideos",
+  "https://in.linkedin.com/company/animaker" ]
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "Pricing",
+  "url": "https://www.animaker.com/pricing"
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "Templates",
+  "url": "https://www.animaker.com/templates"
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "About Us",
+  "url": "https://www.animaker.com/company"
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "Register",
+  "url": "https://tool.animaker.com/register"
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "Tutorial",
+  "url": "https://tutorial.animaker.com"
+},
+{
+  "@type": "SiteNavigationElement",
+  "name": "Blog",
+  "url": "/blog"
+}]
+}
+</script>
+
+
+<style>
+  /* New Style for page revamp */
+  header .nav-menu li a{
+    font: normal normal normal 15px/19px 'Inter',sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+  }
+  
+  header .nav-menu li a.login,
+  header.scrolled .nav-menu li a.login{
+    border: none;
+    font-weight: normal;
+    border-radius: 20px;
+  }
+  header .nav-menu li:hover a.login{
+    border: 1px solid #fff;
+    box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25);
+  }
+  header.scrolled .nav-menu li:hover a.login{
+    border: 1px solid #f1821e;
+  }
+  header .nav-menu li a.signup{
+    /* background: transparent linear-gradient(111deg, #FF9966 0%, #FF5E62 100%); */
+    background: transparent linear-gradient(75deg, #FF5500 0%, #FFDA60 100%) 0% 0% no-repeat padding-box;
+    border-radius: 62px;
+    font-weight: bold;
+    margin-right: 0;
+  }
+  header .nav-menu li:hover a.signup{
+    border: 1px solid rgba(147, 162, 177, 0.25);
+    box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25);
+  }
+  header .nav-menu li:hover a.signup .grad-shadow-bg{
+    display: block;
+    content: '';
+    width: 90px;
+    height: 35px;
+    background: transparent linear-gradient(75deg, #FF5500 0%, #FFDA60 100%) 0% 0% no-repeat padding-box;
+    filter: blur(25px);
+    -webkit-filter: blur(14px);
+    position: absolute;
+    z-index: -1;
+    top: 20px;
+  }
+
+  .header_area.scrolled img.animaker-logo{
+    content:url('https://www.animaker.com/Animaker-Home/new-assets/animaker-logo-black.png');
+  }
+
+  .new_home_section{
+    background: url('https://www.animaker.com/Animaker-Home/new-assets/Hero Background.webp');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: auto;
+    background-color: #2A39D0;  
+  }
+.hero-section-wrapper{
+  padding:130px 25px 180px 25px;
+  margin-bottom: -8px;
+}
+.hero-section-content {
+  /* padding: 130px 25px 50px 25px; */
+  text-align: center;
+}
+.hero-section-content h1 {
+  text-align: center;
+  font: normal normal 800 60px/70px 'Inter', sans-serif;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  margin:0px 0 15px 0 !important;
+}
+.hero-section-content p{
+  text-align: center;
+font: normal normal normal 18px/30px 'Inter', sans-serif;
+letter-spacing: 0px;
+color: #FFFFFF;
+margin: 0;
+}
+.hero-section-content button{
+  width: 320px;
+  height: 64px;
+  text-align: center;
+  font: normal normal 600 24px/24px 'Inter', sans-serif;;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  background: transparent;
+  border-radius: 50px;
+  border-width: 5px;
+  border-style: solid;
+  border-image-source: linear-gradient(330deg, #9DFF71 0%, #FFD88D 30%, #FF76D5 65%, #55BEFF 100%);
+  border-image-slice: 1;
+  border-top-right-radius: 5px;
+}
+
+/* a.rainbow-btn {
+    margin: 43px auto 62px auto;
+    width: 320px;
+    text-align: center;
+    position: relative;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 6px;
+    box-sizing: border-box;
+    display: block;
+    z-index: 2;
+    overflow: hidden;
+    padding: 3px;
+    height: 64px; 
+    border-radius: 40px;
+}
+.rainbow-btn:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    background: linear-gradient(330deg, #9DFF71 0%, #FFD88D 30%, #FF76D5 65%, #55BEFF 100%);
+    background-size: 50% 100%
+}
+.rainbow-btn span {
+    position: relative;
+    z-index: 2;
+    padding: .875rem 0;
+    font-size: 1.1rem;
+    text-decoration: none;
+    align-items: center;
+    background: #5e34c8;
+    border-radius: 40px;
+    display: block;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 100%;
+    font: normal bold normal 25px/32px 'Inter', sans-serif;
+}
+.rainbow-btn:focus:before,
+.rainbow-btn:hover:before {
+    animation: rainbow-btn .75s linear infinite
+}
+a.rainbow-btn:hover{
+  text-decoration: none;
+  color:white;
+}
+@keyframes rainbow-btn {
+    to {
+        transform: translateX(-50%)
+    }
+} */
+
+/* ANIMATION ISSUE */
+
+a.rainbow-btn{
+  position: relative;
+  background: linear-gradient(330deg, #9DFF71 0%, #FFD88D 30%, #FF76D5 65%, #55BEFF 100%);
+  /* background-size: 50% 100%; */
+  margin: 43px auto 62px auto;
+  padding:0;
+  width: 320px;
+  height: 64px;
+  text-align: center;
+  color: #ffffff;
+  display: block;
+  cursor: pointer;
+  border-radius: 40px;
+  font:normal bold normal 25px/32px 'Inter', sans-serif;
+}
+a.rainbow-btn:before{
+  content: '';
+  z-index: 1;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 70%;
+  top: 15%;
+  left: 0;
+  transition: 0.3s opacity ease-in-out;
+  filter: blur(5px);
+  opacity: 0;
+  background: linear-gradient(330deg, #9DFF71 0%, #FFD88D 30%, #FF76D5 65%, #55BEFF 100%);
+  /* background-size: 50% 100%; */
+}
+a.rainbow-btn:after{
+  content: 'Create for Free';
+  text-align: center;
+  color: white;
+  background-color: #5128c6;
+
+  font:normal bold normal 25px/32px 'Inter', sans-serif;
+  width: calc(100% - 6px);
+  height: calc(100% - 6px);
+  top: 3px;
+  left: 3px;
+  border-radius: 40px;
+  z-index: 5;
+  position: absolute;
+  display: block;
+  padding: 10px;
+  
+}
+a.rainbow-btn:focus:before,
+a.rainbow-btn:hover:before {
+  opacity: 1;
+  transition: 0.3s opacity ease-in-out;
+  filter: blur(25px);
+  background: linear-gradient(330deg, #9DFF71 0%, #FFD88D 30%, #FF76D5 65%, #55BEFF 100%);
+  /* background-size: 50% 100%; */
+  /* animation: rainbow-btn .75s linear infinite; */
+}
+a.rainbow-btn:hover{
+  text-decoration: none;
+  color:white;
+}
+
+
+.d-flex{
+  display: flex;
+}
+.brand-logo-hz-carousal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  overflow: auto;
+  max-width: 795px;
+}
+.brand-item {
+  padding: 0 35px;
+}
+
+
+.user-count-content {
+  text-align: center;
+  text-align: center;
+  max-width: 960px;
+  margin: auto;
+}
+.user-count-content .d-flex .col {
+  margin: auto;
+}
+.user-count-content .d-flex > .col:last-child{
+  padding-left: 0;
+  border-left: 1px solid #A871E1;
+}
+.user-count h1 {
+  font: normal normal bold 28px/26px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #BD80FF;
+  margin: 12px 30px;
+}
+.user-count h2{
+  font: normal normal bold 14px/26px 'Inter',sans-serif;
+  letter-spacing: 5.6px;
+  color: #BD80FF;
+}
+
+.why-animaker{
+  background-image: linear-gradient(#8f2fc0, #0A0F40);
+  /* transform: translateY(-67px); */
+}
+.why-animaker-content {
+  padding-bottom: 90px;
+  box-shadow: 0px -20px 17px #7B28B567;
+  border-radius: 100px;
+  background: #EDF1F5;
+}
+
+.why-animaker .container{
+  max-width: 975px;
+}
+
+.product-carousal .container,
+.animaker-products .container,
+.security-section .container,
+.faqs .container,
+.first-video .container{
+  max-width: 1030px;
+}
+.meet-products .container,
+.product-carousal .container{
+  max-width: 1035px;
+}
+.animaker-testimonials .container{
+  max-width: 1040px;
+}
+.animaker-products .container{
+  max-width: 1050px;
+}
+
+.video-holder {
+  position: relative;
+}
+.video-placeholder {
+  width: 100%;
+  max-width: 1005px;
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-22%);
+}
+
+.why-animaker-content h3{
+  font: normal normal 800 18px/26px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  margin-bottom: 16px;
+}
+.why-animaker-content p{
+  font: normal normal bold 15px/23px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #A7B2BF;
+  max-width: 253px;
+
+}
+.badges-stack {
+  width: 100%;
+  max-width: 560px;
+  margin-left: auto;
+  display: block;
+}
+
+.why-animaker-content h1{
+  text-align: left;
+  font: normal normal 800 55px/65px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+.why-animaker-content p.bolder{
+  text-align: left;
+  font: normal normal bold 22px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #A7B2BF;
+  max-width: 340px;
+  margin-top:20px;
+}
+.tile-card{
+  border-radius: 20px;
+  background: white;
+  padding: 40px 40px 0 40px;
+  margin: 15px;
+  position: relative;
+}
+.meet-products h2,
+.tile-card h2{
+  text-align: left;
+  font: normal normal bold 28px/36px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+.meet-products p,
+.tile-card p{
+  text-align: left;
+  font: normal normal normal 18px/26px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #A7B2BF;
+  max-width: 485px;
+}
+.tile-card p{
+  color: #0A0F40;
+  font: normal normal normal 24px/40px 'Inter',sans-serif;
+}
+.tile-card img{
+  width: 100%;
+}
+.tile-card.yellow-bg{
+  background: #FFDB74;
+}
+.tile-card.video-library-bg{
+  background-image: url('https://www.animaker.com/Animaker-Home/new-assets/video-library.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 609px;
+}
+.tile-card.video-templates-bg{
+  background-image: url('https://www.animaker.com/Animaker-Home/new-assets/video-templates-grapic.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 423px;
+}
+.video-editing-bg{
+  /* background-image: url('https://www.animaker.com/Animaker-Home/new-assets/video-editing-graphic.png'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* height: 609px; */
+  margin: 15px 5px;
+}
+
+.product-wrapper {
+  position: relative;
+}
+.product-wrapper img.product-graphic {
+  width: 100%;
+  margin: 10px;
+  width: calc(100% - 20px);
+  border-radius: 20px;
+  /* box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25);
+  -webkit-box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25); */
+  box-shadow: 0px 2px 4px 0px rgba(147, 162, 177, 0.25);
+  -webkit-box-shadow: 0px 2px 4px 0px rgba(147, 162, 177, 0.25);
+  transition: all 200ms ease-in-out;
+}
+.product-graphic:hover {
+  border: 1px solid rgba(147, 162, 177, 0.25);
+  box-shadow: 0px 6px 10px 0px rgba(147, 162, 177, 0.25);
+  -webkit-box-shadow: 0px 6px 10px 0px rgba(147, 162, 177, 0.25);
+  transform: scale(1.015);
+  -webkit-transform: scale(1.015);
+  /* filter: brightness(1.3); */
+  transition: all 200ms cubic-bezier(0.19, 1, 0.22, 1);
+  -webkit-transition: all 200ms cubic-bezier(0.19, 1, 0.22, 1);
+  /* box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25); */
+  /* -webkit-box-shadow: 0px 4px 8px 0px rgba(147, 162, 177, 0.25); */
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+}
+.product-wrapper.animaker img.product-graphic {
+    width: calc(100% + 13px);
+    box-shadow: none;
+    margin: 0;
+    border: none;
+}
+
+.product-wrapper.deck img.product-graphic,
+.product-wrapper.steve img.product-graphic,
+.product-wrapper.subtitle img.product-graphic{
+  margin-top: 0;
+}
+.product-wrapper .product-content {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: calc(100% - 70px);
+  padding: 30px;
+  pointer-events: none;
+}
+
+.product-content img.product-logo,
+.product-content img.product-arrow{
+  width: auto;
+}
+.product-content img.product-arrow{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.product-cards .product-content p{
+  text-align: left;
+  font: normal normal normal 17px/26px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  margin-top: 15px;
+  max-width: none;
+}
+.meet-animation .meet-animation-content,
+.product-carousal-head,
+.animaker-products-content .product-head,
+.testimonials-head{
+  margin:120px 0 0 80px;
+}
+.animaker-products-content .product-head{
+  /* margin-top: 60px; */
+}
+.animaker-products-content .product-head p.bolder{
+  margin-bottom: 80px;
+}
+.product-wrapper.vmaker .product-content{
+  padding: 20px;
+}
+.product-wrapper.deck .product-content {
+  padding: 140px 12px 20px 12px
+}
+.product-wrapper.steve .product-content{
+  padding: 140px 10px 10px 10px;
+}
+.product-wrapper.subtitle .product-content{
+  padding: 145px 10px 10px 10px;
+}
+.product-wrapper.show .product-content{
+  padding: 140px 20px 10px 20px;
+}
+.product-wrapper.picmaker .product-content{
+  padding: 140px 20px 10px 20px;
+}
+.product-wrapper.voice .product-content{
+  padding: 140px 10px 10px 20px;
+}
+
+.product-wrapper.vmaker .product-content p,
+.product-wrapper.steve .product-content p,
+.product-wrapper.show .product-content p,
+.product-wrapper.voice .product-content p{
+  color: white;
+}
+
+.video-library h2,
+.video-library p,
+.video-editing-bg h2,
+.video-editing-bg p{
+  color: white;
+}
+.character-builder p,
+.effortless-ai p{
+  /* color:#0A0F40 ; */
+}
+.character-builder {
+  margin-right: 10px;
+}
+.video-library {
+  margin-left: 10px;
+}
+.video-templates{
+  margin-top: 15px;
+}
+.video-editing-bg{
+  margin: 15px 0 0 0;
+}
+.character-builder .bg-vid-container,
+.video-library .bg-vid-container,
+.video-templates .bg-vid-container,
+.video-editing-bg .bg-vid-container{
+  margin: 0;
+}
+.product-wrapper img.product-graphic
+
+.review-section .navigation-toggle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: absolute;
+  right: 40px;
+  bottom: 40px;
+}
+.review-section .navigation-toggle img.nav-arrow-icon {
+  width: auto;
+  margin: 10px;
+}
+.tile-card img.author-img {
+  width: auto;
+  height: 171px;
+  width: 171px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.review-section h1 {
+  font: normal normal bold 24px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  margin-top: 20px !important; 
+  margin-bottom: 8px;
+}
+.review-section h3 {
+  font: normal normal normal 18px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  margin-top: 0 !important;
+  margin-bottom: 30px;
+}
+.review-section p {
+  font: normal normal normal 18px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  padding-right: 0;
+  max-width: 442px;
+}
+
+.stats-section h1 {
+  font: normal normal 800 50px/65px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+.stats-section h6 {
+  font: normal normal normal 16px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+
+img.security-badge {
+  width: 100%;
+}
+.security-section .d-flex {
+  align-items: center;
+  justify-content: center;
+}
+.security-section h4 {
+  font: normal normal 600 24px/52px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+.d-flex.security-badge-grp{
+  align-items: center;
+  justify-content: space-between;
+}
+
+img.blog-image {
+  width: 100%;
+  /* width: auto; */
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+}
+.blog-content h3 {
+  text-align: center;
+  font: normal normal bold 20px/25px 'Inter',sans-serif;
+  letter-spacing: 0.16px;
+  color: #0A0F40;
+  margin-top: 40px !important;
+}
+.blog-content a:hover{
+  text-decoration: none;
+}
+
+section.blog-link {
+  padding: 0 0 80px 0;
+  display: none;
+}
+ul.blog-head {
+  display: inline-flex;
+  margin: 0 0 90px 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+ul.blog-head li {
+  padding: 30px 32.5px;
+  text-align: center;
+  font: normal normal normal 18px/24px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  border-bottom: 1px solid #DBDBDB;
+  cursor: pointer;
+}
+ul.blog-head li.active {
+  font-weight: bold;
+  border-image-source: linear-gradient(98deg, #2A39D0 0%, #9C3DEF 100%);
+  border-bottom-width: 4px;
+  border-bottom-style: solid;
+  border-image-slice: 1;
+}
+
+#faqs .card,
+#faqs .card .card-header{
+  background: transparent;
+}
+#faqs .card .card-header:not(.collapsed) {
+  background: #FFFFFF;
+  border-radius: 20px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  padding-left: 31px;
+  padding-right: 31px;
+}
+#faqs .card .card-body:not(.collapsed) {
+  background: #FFFFFF;
+  border-radius: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+#faqs .card .card-header{
+    border-radius: 4px;
+    font: normal normal bold 18px/27px 'Inter',sans-serif;
+    letter-spacing: 0px;
+    color: #0A0F40;
+    padding: 40px 20px 0;
+    transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    display: -webkit-box;
+    display: -ms-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+#faqs .card .card-header.collapsed{
+    padding-left: 31px;
+    padding-right: 31px;
+    font-weight: normal;
+    padding-bottom: 31px;
+    border-bottom: 2px solid #C7D1DB;
+    border-radius: 0;
+}
+.why-animaker-content #faqs .card .card-body p{
+  max-width: none;
+  text-align: left;
+  font: normal normal normal 18px/30px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+}
+#faqs .card{
+  border:none;
+  cursor: pointer;
+}
+#faqs .card .card-body{
+  padding: 20px 20px 40px;
+  padding-left: 31px;
+  padding-right: 31px;
+  transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    display: -webkit-box;
+    display: -ms-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+#faqs .card .card-header:after {
+  
+    content: url('https://www.animaker.com/Animaker-Home/new-assets/icon-collapse.svg');
+}
+#faqs .card .card-header.collapsed:after {
+    content: url('https://www.animaker.com/Animaker-Home/new-assets/icon-expand1.svg');
+}
+section.faq-questions h1{
+  text-align: center;
+  font: normal normal 800 55px/46px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #0A0F40;
+  margin-bottom: 80px;
+}
+.first-video-content {
+  background: url('https://www.animaker.com/Animaker-Home/new-assets/first-video-bg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 70px;
+  padding: 120px 140px;
+}
+section.first-video {
+  /* margin: 140px 0; */
+  margin: 140px 0 230px 0;
+}
+.first-video-content h1{
+  text-align: center;
+  font: normal normal bold 60px/70px 'Inter',sans-serif;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  margin: 0 !important;
+}
+.first-video-content a.rainbow-btn{
+  margin: 60px auto auto auto;
+}
+section.first-video .rainbow-btn::after{
+  background: #7330c4;
+}
+footer{
+  background: #0A0F40;
+}
+
+footer .logo img {
+  width: auto;
+  max-width: 86px;
+}
+img.slider-graphic-img{
+  width: 100%;
+}
+.product-carousal-content img.slider-graphic-img{
+  transform: translateY(-60px);
+  position: absolute;
+}
+
+section.awards-section {
+  padding: 520px 0 0 0;
+}
+.meet-animation .meet-animation-content{
+  margin:120px 0 0 50px;
+}
+.meet-products .effortless-ai{
+  margin: 80px 0 20px;
+  padding: 0;
+}
+
+.bg-vid-container{
+  position: relative;
+  margin:7.5px;
+}
+.bg-vid-wrapper{
+
+}
+.bg-vid-container .bg-vid-wrapper video{
+  border-radius: 20px;
+}
+.bg-vid-content{
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 30px;
+  width: 100%;
+}
+.bg-vid-content p,
+.meet-animation-content p.bolder,
+.animaker-products-content p.bolder,
+.animaker-testimonials-content p.bolder{
+  max-width: none;
+}
+.row.no-gutters > div {
+  padding: 0;
+}
+.effortless-ai .bg-vid-container{
+  margin:0;
+}
+
+.carousal-section {
+  margin-top: 80px;
+}
+.carousal-section .tile-card{
+  padding: 30px;
+  margin: 0;
+  box-shadow: 0px 7px 15px #93A2B114;
+  border-radius: 20px;
+}
+.carousal-section .tile-card.review-section{
+  padding: 100px;
+  margin: 2.5px;
+}
+.carousal-section .slider-content{
+  padding: 90px 60px;
+}
+
+section.security-section {
+  margin: 70px 0;
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+}
+
+.carousal-section .tile-card .slider-content h2 {
+  font: normal normal bold 32px/36px 'Inter',sans-serif;
+}
+
+.animaker-testimonials .swiper-button-prev::after,
+.animaker-testimonials .swiper-button-next::after{
+  content: '';
+  display: none;
+}
+.animaker-testimonials .swiper-button-prev{
+  position: initial;
+  margin-right: 55px;
+  margin-top: 0px;
+}
+
+.scroll-parent {
+  position: relative;
+  width: 100vw;
+  height: 84px;
+  overflow-x: hidden;
+  max-width: 750px;
+}
+
+.scroll-element {
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  animation: primary 10s linear infinite;
+  padding-top: 25px;
+}
+
+.primary {
+  animation: primary 10s linear infinite;
+}
+
+.secondary {
+  animation: secondary 10s linear infinite;
+}
+
+.scroll-element .brand-logo {
+  padding: 0 45px;
+}
+
+@keyframes primary {
+  from {
+    left: 0%;
+  }
+  to {
+    left: -100%;
+  }
+}
+
+@keyframes secondary {
+  from {
+    left: 100%;
+  }
+  to {
+    left: 0%;
+  }
+}
+
+footer *{
+  font-family: 'Inter',sans-serif;
+}
+.submenu-indicator.first,.nav-menus-wrapper-close-button.first{
+
+display: none !important;
+
+}
+
+
+.product-carousal-head p.bolder{
+  max-width: none;
+}
+.awards-section p{
+  font-weight: normal;
+}
+
+header .nav-menu li a.hvbtm::after{
+  bottom:5px;
+}
+.submenu-indicator-chevron{
+  border-color: transparent #ffff #ffff transparent;
+}
+.scrolled .submenu-indicator-chevron{
+  border-color: transparent #343a40 #343a40 transparent;
+}
+.blog-link .carousal-section{
+  width: 100%;
+}
+.blog-link ul.blog-head{
+  margin-bottom: 0;
+}
+.hero-video{
+  border-radius: 20px;
+  box-shadow: 0px 15px 35px #7C7C7C33;
+  -webkit-box-shadow: 0px 15px 35px #7C7C7C33;
+}
+.review-section .navigation-toggle{
+  display: flex;
+  justify-content: flex-end;
+}
+.product-carousal-content ul.blog-head{
+  margin-bottom: 50px;
+}
+.product-carousal-content .carousal-section{
+  margin-top: 0;
+}
+.product-carousal-content .carousal-section .swiper{
+  /* height: 500px; */
+}
+.product-carousal-content .carousal-section .tile-card{
+  margin-top: 40px;
+  padding: 15px;
+}
+.product-carousal-content .carousal-section .one .slider-content{
+  padding: 40px 90px 40px 80px;
+}
+.product-carousal-content .carousal-section .two .slider-content{
+  padding: 40px 40px 40px 80px;
+}
+.product-carousal-content .carousal-section .three .slider-content{
+  padding: 40px 70px 50px 80px;
+}
+.product-carousal-content .carousal-section .four .slider-content{
+  padding: 40px 60px 80px 80px;
+}
+.product-carousal-content .carousal-section .five .slider-content{
+  padding: 40px 70px 40px 80px;
+}
+.product-carousal-content .carousal-section .tile-card .slider-content h2{
+  margin: 0 0 30px 0 !important;
+  font:normal normal bold 24px/24px 'Inter',sans-serif;
+}
+
+
+.col.author-section {
+  padding: 0;
+  flex: 1.5;
+  border-right: 1px solid #DBDFFF;
+}
+.col.stats-section {
+  padding: 0 0 0 30px;
+  flex: 1;
+}
+.grad-bg {
+  position: relative;
+  background: url('https://www.animaker.com/Animaker-Home/new-assets/effortless-border-gradient.svg');
+  background-size: 100%;
+  height: 500px;
+  width: 100%;
+  z-index: 1;
+}
+.grad-video-wrapper {
+  position: absolute;
+  top: 80px;
+  left: 18px;
+  width: calc(100% - 36px);
+}
+.show-mobile,
+.show-mobile.video-holder{
+    display: none;
+  }
+  .hide-mobile.video-holder{
+    display: block;
+  }
+  .product-head h1 br.mobile-show{
+    display: none !important;
+  }
+  .bg-vid-wrapper video{
+    border-radius: 20px;
+  }
+
+
+  @media only screen and (max-width:992px){
+    header .nav-menu li a{
+      color: #000 !important;
+    }
+    header .nav-menu li a.login {
+    color: #000;
+    border: 1px solid #f1821e;
+    margin: 12px 30px;
+    border-radius: 5px;
+   }
+   header .nav-menu li a.signup{
+    color:#fff !important;
+   }
+   .submenu-indicator-chevron{
+    border-color: transparent #343a40 #343a40 transparent;
+   }
+  }
+
+@media only screen and (max-width:768px){
+  .show-mobile{
+    display: block;
+  }
+  .new_home_section{
+    background-size: cover;
+    background: none;
+    }
+  .hero-section-content h1{
+    font:normal normal 800 42px/52px 'Inter', sans-serif;
+  }
+  .new_home_section p br,
+  .new_home_section h1 br{
+    display: none !important;
+  }
+  .product-head h1 br.mobile-show{
+    display: block !important;
+  }
+  .user-count-content .d-flex > .col:last-child{
+    border-left: none;
+  }
+  .user-count-content .d-flex,
+  .security-section .d-flex{
+    flex-direction: column;
+  }
+  .scroll-parent{
+    width: 100%;
+  }
+  .scroll-element{
+    display: flex;
+  }
+  .scroll-element .brand-logo {
+    padding: 20px;
+  }
+  .hero-section-wrapper{
+    padding-bottom: 100px;
+  }
+  section.awards-section{
+    padding: 30px;
+  }
+  .hero-video.video-placeholder{
+    width: 100%;
+    position: initial;
+    transform:none;
+    margin-bottom: 50px;
+  }
+  .why-animaker-content{
+    padding: 0px 0 60px 0;
+    border-radius: 0;
+  }
+  .why-animaker-content h1,
+  .why-animaker-content h3,
+  .why-animaker-content p{
+    text-align: center !important;
+    max-width: none;
+  }
+  .badges-stack{
+    margin: 30px 0;
+  }
+  .meet-animation .meet-animation-content,
+  .product-carousal-head,
+  .animaker-products-content .product-head,
+  .testimonials-head{
+    margin: 0;
+  }
+  .video-editing-bg h2 {
+    color: #0A0F40;
+  }
+
+  .video-editing-bg p {
+      color: #A7B2BF;
+  }
+  .bg-vid-container .bg-vid-wrapper video{
+    width: 100%;
+  }
+  section.first-video{
+    margin: 50px 0;
+  }
+  .first-video-content{
+    padding: 40px 20px;
+    border-radius: 20px;
+  }
+  .first-video-content h1{
+    font:normal normal bold 26px/36px 'Inter',sans-serif;
+  }
+  .first-video-content a.rainbow-btn{
+    margin: 30px auto auto auto;
+  }
+  section.faq-questions h1{
+    font:normal normal 800 32px/42px 'Inter',sans-serif;
+  }
+  .security-section h4{
+    text-align: center;
+  }
+  img.security-badge{
+    max-width: 200px !important;
+    margin: 20px 0;
+  }
+  .grad-bg{
+    display: none;
+  }
+  .grad-video-wrapper{
+    width: 100%;
+  }
+  .meet-products h2, .tile-card h2{
+    text-align: center;
+    font:normal normal bold 22px/32px 'Inter',sans-serif;
+  }
+  .effortless-ai .grad-video-wrapper{
+    position: initial;
+  }
+  .effortless-ai .grad-video-wrapper{
+    position: initial;
+    background: white;
+    box-shadow: 0px 7px 15px #93A2B114;
+    border-radius: 20px;
+    margin-top: 20px;
+  }
+  .effortless-ai .bg-vid-content,
+  .video-templates .bg-vid-content,
+  .video-editing-bg .bg-vid-content{
+    position: initial;
+  }
+  .effortless-ai .bg-vid-container,
+  .video-templates .bg-vid-container,
+  .video-editing-bg .bg-vid-container{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .video-templates,
+  .video-editing-bg{
+    background: white;
+    box-shadow: 0px 7px 15px #93A2B114;
+    border-radius: 20px;
+    /* margin-top: 20px; */
+  }
+  .video-editing-bg .bg-vid-wrapper {
+    position: relative;
+    top: 6px;
+  }
+  .video-editing-bg .bg-vid-wrapper video{
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+  .bg-vid-content{
+    padding: 15px;
+  }
+  .meet-products .effortless-ai{
+    margin: 20px 0;
+  }
+  .character-builder,
+  .video-library{
+    margin: 10px 0;
+  }
+  section.product-carousal{
+    padding: 30px 0;
+  }
+  .carousal-section .slider-content{
+    padding: 10px !important;
+  }
+  .why-animaker-content h1{
+    font: normal normal 800 28px/38px 'Inter',sans-serif;
+  }
+  img.animaker-grad-txt {
+    width: 100%;
+  }
+  .animaker-products-content .product-head p.bolder{
+    margin-bottom: 40px;
+  }
+  .animaker-testimonials .carousal-section{
+    margin-top: 30px;
+  }
+  .carousal-section .tile-card.review-section{
+    padding: 30px;
+  }
+  .animaker-testimonials .swiper-slide .d-flex{
+    display: block !important;
+  }
+  .tile-card img.author-img{
+    margin: auto;
+    display: block;
+  }
+  .col.author-section{
+    border-right: 0;
+  }
+  .stats-section h6{
+    text-align: center;
+  }
+  .review-section .navigation-toggle{
+    justify-content: space-between;
+  }
+  .why-animaker-content .product-head h1,
+  .why-animaker-content .testimonials-head h1{
+    font: normal normal 800 36px/46px 'Inter',sans-serif;
+  }
+  .why-animaker-content #faqs .card .card-body p{
+    text-align: left !important;
+    width: calc(100% - 30px);
+  }
+  .tile-card p,
+  .why-animaker-content p.bolder{
+    font:normal normal normal 18px/28px 'Inter',sans-serif;
+  }
+  .product-wrapper.deck .product-content,
+  .product-wrapper.steve .product-content,
+  .product-wrapper.voice .product-content{
+    padding-top: 160px;
+  }
+  .product-wrapper.show .product-content,
+  .product-wrapper.picmaker .product-content,
+  .product-wrapper.subtitle .product-content{
+    padding-top: 170px;
+  }
+  .first-video-content h1{
+    font:normal normal 700 24px/34px 'Inter',sans-serif;
+  }
+  .hero-section-wrapper .container{
+    padding: 0;
+  }
+  .show-mobile.video-holder{
+    display: block;
+  }
+  .hide-mobile.video-holder{
+    display: none;
+  }
+  .meet-animation-content h1{
+    font:normal normal 800 40px/50px 'Inter',sans-serif;
+  }
+  .meet-animation-content img.animaker-grad-txt{
+    width: 60%;
+  }
+  .product-carousal-head img.animaker-grad-txt{
+    width: 70%;
+  }
+  .product-carousal-content ul.blog-head{
+    overflow: auto;
+    justify-content: start;
+    margin: 0 20px 40px 20px;
+    width: calc(100% - 40px);
+  }
+  .product-carousal-content ul.blog-head::-webkit-scrollbar {
+    display: none;
+  }
+  .product-content img.product-logo{
+    display: block;
+    margin: auto;
+  }
+  a.rainbow-btn{
+    height: 54px;
+    width: 260px;
+  }
+  .rainbow-btn span,
+  a.rainbow-btn:after{
+    background: #613cdf;
+    padding: 10px;
+    font:normal bold normal 18px/28px 'Inter', sans-serif;
+  }
+  .hero-section-content .rainbow-btn span,
+  .hero-section-content .a.rainbow-btn:after{
+    background: #613cdf;
+  }
+  section.first-video .rainbow-btn span,
+  section.first-video .rainbow-btn:after{
+    background: #7130c4;
+  }
+  .product-wrapper.animaker .product-content{
+    padding: 0;
+  }
+  .product-wrapper .product-content img.product-logo{
+    margin-left: 0;
+  }
+  .product-cards .product-content p{
+    text-align: left !important;
+  }
+  .col.stats-section{
+    padding: 0 15px;
+  }
+  .product-carousal-content .carousal-section .tile-card{
+    margin-top: 0;
+  }
+  .product-carousal-content img.slider-graphic-img{
+    position: initial;
+    transform: none;
+  }
+  .product-carousal-content .carousal-section .tile-card .slider-content h2{
+    margin: 15px 0 !important;
+    font: normal normal bold 20px/24px 'Inter',sans-serif;
+  }
+  .product-wrapper.deck img.product-graphic,
+  .product-wrapper.steve img.product-graphic,
+  .product-wrapper.subtitle img.product-graphic{
+    margin-top: 10px;
+  }
+  .why-animaker-content .product-head h1{
+    margin-top: 40px !important;
+  }
+  .why-animaker-content .testimonials-head h1{
+    margin-top: 50px !important;
+  }
+  ul.blog-head li{
+    padding: 15px 20px;
+  }
+  .meet-products h2{
+    margin-top: 0!important;
+  }
+  .video-editing-bg{
+    margin-top: 20px;
+  }
+  .icon-left-arrow,
+  .icon-right-arrow{
+    position: initial;
+  }
+  .icon-left-arrow .slider-arrow{
+    position: absolute;
+    top: 27px;
+    left: 10px;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+  }
+  .icon-right-arrow .slider-arrow{
+    position: absolute;
+    top: 26px;
+    right: 10px;
+  }
+  .product-wrapper.animaker img.product-graphic{
+    content: url('https://www.animaker.com/Animaker-Home/new-assets/Graphic-Animaker-Mobile.webp');
+    display: block;
+    width: calc(100% - 22px);
+    margin: 10px;
+  }
+}
+
+</style>
+<script type="application/ld+json"> 
+  {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+      "@type": "Question",
+      "name": "What is Animaker?",
+      "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Animaker is an online video-making platform that can help beginners, professionals, and everyone else create animated and live-action videos in a matter of minutes."
+      }
+  }, {
+      "@type": "Question",
+      "name": "How to use Animaker?",
+      "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sign up with a free account on <a href='https://www.animaker.com' target='_blank'>animaker.com</a>, and that’s it. You can now use this awesome platform to create super cool videos."
+      }
+  }, {
+      "@type": "Question",
+      "name": "How much does Animaker cost?",
+      "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There are different pricing plans (Free, Basic, Starter, Pro) available on Animaker. Check out the <a href='https://app.animaker.com/pricing' target='_blank'>pricing page</a> to know more about each plan."
+      }
+  }, {
+      "@type": "Question",
+      "name": "Is Animaker free?",
+      "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, there is a free-forever plan for Animaker available. You can signup for this plan via <a href='https://www.animaker.com' target='_blank'>animaker.com</a>. To enjoy other premium features, you can upgrade your subscription. Check out the <a href='https://app.animaker.com/pricing' target='_blank'>pricing page</a> to learn more about the different pricing plans available."
+      }
+  },
+  {
+    "@type": "Question",
+    "name": "Is there a common plan to access the premium features of Animaker and its product ecosystem premium features?",
+    "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We are in the process of building such a common plan to give access to Animaker’s suite of products. Kindly contact our support team for more details."
+    }
+}
+  ]
+} 
+  </script>
+
+  <!-- Google tag (gtag.js) -->
+<script async="" src="./sliderSection_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-52ELKQ0ET2');
+</script>
+<link id="googleidentityservice" type="text/css" media="all" rel="stylesheet" href="./sliderSection_files/style"><style id="googleidentityservice_button_styles">.qJTHM{-webkit-user-select:none;color:#202124;direction:ltr;-webkit-touch-callout:none;font-family:"Roboto-Regular",arial,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400;margin:0;overflow:hidden;-webkit-text-size-adjust:100%}.ynRLnc{left:-9999px;position:absolute;top:-9999px}.L6cTce{display:none}.bltWBb{word-break:break-all}.hSRGPd{color:#1a73e8;cursor:pointer;font-weight:500;text-decoration:none}.Bz112c-W3lGp{height:16px;width:16px}.Bz112c-E3DyYd{height:20px;width:20px}.Bz112c-r9oPif{height:24px;width:24px}.Bz112c-uaxL4e{-webkit-border-radius:10px;border-radius:10px}.LgbsSe-Bz112c{display:block}.S9gUrf-YoZ4jf,.S9gUrf-YoZ4jf *{border:none;margin:0;padding:0}.fFW7wc-ibnC6b>.aZ2wEe>div{border-color:#4285f4}.P1ekSe-ZMv3u>div:nth-child(1){background-color:#1a73e8!important}.P1ekSe-ZMv3u>div:nth-child(2),.P1ekSe-ZMv3u>div:nth-child(3){background-image:linear-gradient(to right,rgba(255,255,255,.7),rgba(255,255,255,.7)),linear-gradient(to right,#1a73e8,#1a73e8)!important}.haAclf{display:inline-block}.nsm7Bb-HzV7m-LgbsSe{-webkit-border-radius:4px;border-radius:4px;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-transition:background-color .218s,border-color .218s;transition:background-color .218s,border-color .218s;-webkit-user-select:none;-webkit-appearance:none;background-color:#fff;background-image:none;border:1px solid #dadce0;color:#3c4043;cursor:pointer;font-family:"Google Sans",arial,sans-serif;font-size:14px;height:40px;letter-spacing:0.25px;outline:none;overflow:hidden;padding:0 12px;position:relative;text-align:center;vertical-align:middle;white-space:nowrap;width:auto}@media screen and (-ms-high-contrast:active){.nsm7Bb-HzV7m-LgbsSe{border:2px solid windowText;color:windowText}}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe{font-size:14px;height:32px;letter-spacing:0.25px;padding:0 10px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe{font-size:11px;height:20px;letter-spacing:0.3px;padding:0 8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe{padding:0;width:40px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe{width:32px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe{width:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK{-webkit-border-radius:20px;border-radius:20px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.pSzOP-SxQuSe{-webkit-border-radius:16px;border-radius:16px}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK.purZT-SxQuSe{-webkit-border-radius:10px;border-radius:10px}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc{border:none;color:#fff}.nsm7Bb-HzV7m-LgbsSe.MFS4be-v3pZbf-Ia7Qfc{background-color:#1a73e8}.nsm7Bb-HzV7m-LgbsSe.MFS4be-JaPV2b-Ia7Qfc{background-color:#202124;color:#e8eaed}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:18px;margin-right:8px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:14px;min-width:14px;width:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{height:10px;min-width:10px;width:10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin-left:8px;margin-right:-4px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:10px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:8px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c{padding:4px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-top-left-radius:3px;border-top-left-radius:3px;-webkit-border-bottom-left-radius:3px;border-bottom-left-radius:3px;display:-webkit-box;display:-webkit-flex;display:flex;justify-content:center;-webkit-align-items:center;align-items:center;background-color:#fff;height:36px;margin-left:-10px;margin-right:12px;min-width:36px;width:36px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c,.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf .nsm7Bb-HzV7m-LgbsSe-Bz112c{margin:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:28px;margin-left:-8px;margin-right:10px;min-width:28px;width:28px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{height:16px;margin-left:-6px;margin-right:8px;min-width:16px;width:16px}.nsm7Bb-HzV7m-LgbsSe.Bz112c-LgbsSe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:3px;border-radius:3px;margin-left:2px;margin-right:0;padding:0}.nsm7Bb-HzV7m-LgbsSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:18px;border-radius:18px}.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:14px;border-radius:14px}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:8px;border-radius:8px}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-flex-direction:row;flex-direction:row;justify-content:space-between;-webkit-flex-wrap:nowrap;flex-wrap:nowrap;height:100%;position:relative;width:100%}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX{justify-content:center}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:1;flex-grow:1;font-family:"Google Sans",arial,sans-serif;font-weight:500;overflow:hidden;text-overflow:ellipsis;vertical-align:top}.nsm7Bb-HzV7m-LgbsSe.purZT-SxQuSe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-weight:300}.nsm7Bb-HzV7m-LgbsSe .oXtfBe-l4eHX .nsm7Bb-HzV7m-LgbsSe-BPrWId{-webkit-flex-grow:0;flex-grow:0}.nsm7Bb-HzV7m-LgbsSe .nsm7Bb-HzV7m-LgbsSe-MJoBVe{-webkit-transition:background-color .218s;transition:background-color .218s;bottom:0;left:0;position:absolute;right:0;top:0}.nsm7Bb-HzV7m-LgbsSe:hover,.nsm7Bb-HzV7m-LgbsSe:focus{-webkit-box-shadow:none;box-shadow:none;border-color:#d2e3fc;outline:none}.nsm7Bb-HzV7m-LgbsSe:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.04)}.nsm7Bb-HzV7m-LgbsSe:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(66,133,244,.1)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:hover .nsm7Bb-HzV7m-LgbsSe-MJoBVe,.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:focus .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.24)}.nsm7Bb-HzV7m-LgbsSe.MFS4be-Ia7Qfc:active .nsm7Bb-HzV7m-LgbsSe-MJoBVe{background:rgba(255,255,255,.32)}.nsm7Bb-HzV7m-LgbsSe .n1UuX-DkfjY{-webkit-border-radius:50%;border-radius:50%;display:-webkit-box;display:-webkit-flex;display:flex;height:20px;margin-left:-4px;margin-right:8px;min-width:20px;width:20px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId{font-family:"Roboto";font-size:12px;text-align:left}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .ssJRIf,.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .fmcmS{overflow:hidden;text-overflow:ellipsis}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;color:#5f6368;fill:#5f6368;font-size:11px;font-weight:400}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.MFS4be-Ia7Qfc .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff{color:#e8eaed;fill:#e8eaed}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-BPrWId .K4efff .Bz112c{height:18px;margin:-3px -3px -3px 2px;min-width:18px;width:18px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-top-left-radius:0;border-top-left-radius:0;-webkit-border-bottom-left-radius:0;border-bottom-left-radius:0;-webkit-border-top-right-radius:3px;border-top-right-radius:3px;-webkit-border-bottom-right-radius:3px;border-bottom-right-radius:3px;margin-left:12px;margin-right:-10px}.nsm7Bb-HzV7m-LgbsSe.jVeSEe.JGcpL-RbRzK .nsm7Bb-HzV7m-LgbsSe-Bz112c-haAclf{-webkit-border-radius:18px;border-radius:18px}.L5Fo6c-sM5MNb{border:0;display:block;left:0;position:relative;top:0}.L5Fo6c-bF1uUb{-webkit-border-radius:4px;border-radius:4px;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0}.L5Fo6c-bF1uUb:focus{border:none;outline:none}sentinel{}</style></head>
+<body style="" data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0" cz-shortcut-listen="true">
+
+  
+  <div id="g_id_onload" data-client_id="503029046724-lm63a9ie522hrgm783uit8ai2s1v59os.apps.googleusercontent.com" data-login_uri="https://accounts.animaker.com/googleonetap/?trackId=qu5jtuflrvjft05fx0hp&amp;language=en"></div>
+
+  <div class="cookie_section" style="display: none;">
+    <p class="cookie_text"><img src="./sliderSection_files/cookieicon.svg" style="width:20px;" alt="cookie-icon"> We use cookies to provide a personalised experience for our users. Read more from our <a href="https://www.animaker.com/terms-policy" style="color:#000;font: normal normal normal 16px/26px Inter;" class="terms_link">Cookie Policy.</a>  <span class="accept_button">Got it</span></p>
+  </div>
+
+
+<div class="ball1"></div>
+
+<div class="new_home_section">
+  <div class="header_helobar_div">
+    
+    
+    <!-- Header -->
+    <header class="header_area scrolled" style="top: 0px;">
+      <div class="main_header_area animated">
+          <nav id="navigation1" class="navigation navigation-landscape">
+            <div class="nav-header">
+              <a class="nav-brand" href="https://www.animaker.com/"><img src="./sliderSection_files/animaker-logo.png" alt="animakerlogo" class="animaker-logo"> </a>
+              <div class="nav-toggle"></div>
+            </div>
+
+            <div class="nav-menus-wrapper" style="transition-property: none;"><span class="nav-menus-wrapper-close-button">✕</span><span class="nav-menus-wrapper-close-button first">✕</span>
+              <ul class="nav-menu align-to-right">
+                  <li class="">
+                      <a class="hvbtm" href="https://www.animaker.com/#" style="cursor:pointer;">Product<span class="submenu-indicator first"><span class="submenu-indicator-chevron"></span></span><span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+                      <div class="megamenu-panel nav-submenu" style="left: 0px; margin: 0px auto; display: none; right: 0px;">
+                          <div class="megamenu-lists">
+                              <ul class="megamenu-list list-col-4">
+                                  <li>
+                                      <a class="custommenu animaker " href="https://www.animaker.com/" target="_blank">
+                                          <img src="./sliderSection_files/animakericon.png" alt="animakericon">
+                                          <div>
+                                              <h3>Animaker</h3>
+                                              <p>Create studio quality animation and live-action videos for every moment of your life in less than 5 mins!</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li class="">
+                                      <a class="custommenu picmaker mt10" href="https://www.picmaker.com/" target="_blank">
+                                          <img src="./sliderSection_files/picmakericon.png" alt="picmakericon">
+                                          <div>
+                                              <h3>Picmaker</h3>
+                                              <p>Revolutionize your social media strategy with our advanced AI-powered social media management tool.</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu vmaker mt10" href="https://www.vmaker.com/" target="_blank">
+                                          <img src="./sliderSection_files/vmakericon.png" alt="vmakericon">
+                                          <div>
+                                              <h3>Vmaker</h3>
+                                              <p>Record screen, webcam or both with audio to create engaging video content.</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu voice mt10" href="https://www.animaker.com/voice" target="_blank">
+                                          <img src="./sliderSection_files/voiceicon.png" alt="voiceicon">
+                                          <div>
+                                              <h3>Voice</h3>
+                                              <p>Convert any text into ultra realistic Human-like voiceovers using a Neural TTS Engine.</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu subtitle mt10" href="https://www.animaker.com/subtitle-generator" target="_blank">
+                                          <img src="./sliderSection_files/subtitleicon.svg" alt="subtitleicon">
+                                          <div>
+                                              <h3>Subtitle Generator</h3>
+                                              <p>Add Subtitles to videos in one click using our AI-powered Subtitle Generator</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                              </ul>
+                              <ul class="megamenu-list list-col-4">
+                                  <li class="">
+                                      <a class="custommenu show" href="https://www.getshow.io/" target="_blank">
+                                          <img src="./sliderSection_files/showicon.png" alt="showicon">
+                                          <div>
+                                              <h3>Show</h3>
+                                              <p>AI-Powered Emailer to send flawless Outbound Emails at scale</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu steve mt10" href="https://www.steve.ai/" target="_blank">
+                                          <img src="./sliderSection_files/steveicon.png" alt="steveicon">
+                                          <div>
+                                              <h3>Steve.ai</h3>
+                                              <p>Create Videos using Text within seconds with the help of a patented AI platform.</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu deck mt10" href="https://www.animaker.com/deck" target="_blank">
+                                          <img src="./sliderSection_files/deckicon.png" alt="deckicon">
+                                          <div>
+                                              <h3>Deck</h3>
+                                              <p>Break presentation stereotypes with an Avatar powered Presentation Maker!</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                                  <li>
+                                      <a class="custommenu deck mt10" href="https://www.animaker.com/enterprise" target="_blank">
+                                          <img src="./sliderSection_files/enterpriseicon.webp" alt="enterpriseicon">
+                                          <div>
+                                              <h3>Enterprise</h3>
+                                              <p>The complete video creation suite to meet every visual communication need of your enterprise.</p>
+                                          </div>
+                                      </a>
+                                  </li>
+                              </ul>
+                              <ul class="megamenu-list pd25 list-col-5">
+                                  <h3>Video types</h3>
+                                  <li><a href="https://www.animaker.com/christmas-video-maker" target="_blank">Christmas Video Greeting</a></li>
+                                  <li><a href="https://www.animaker.com/facebook-video-maker" target="_blank">Facebook Video</a></li>
+                                  <li><a href="https://www.animaker.com/cartoon-maker" target="_blank">Cartoon Video</a></li>
+                                  <li><a href="https://www.animaker.com/advertisement-maker" target="_blank">Advertisement Video</a></li>
+                                  <li><a href="https://www.animaker.com/youtube-video-maker" target="_blank">Youtube Video</a></li>
+                                  <li><a href="https://www.animaker.com/birthday-video-maker" target="_blank">Birthday Video</a></li>
+                                  <li><a href="https://www.animaker.com/marketing-video-maker" target="_blank">Marketing Video Maker</a></li>
+                                  <li class=""><a href="https://www.animaker.com/holiday-video-maker" target="_blank">Holiday Video Maker</a></li>
+                                  <li><a href="https://www.animaker.com/lyric-video-maker" target="_blank">Lyric Video</a></li>
+                                  <li><a href="https://www.animaker.com/instagram-video-maker" target="_blank">Instagram Video</a></li>
+                                  <li><a href="https://www.animaker.com/text-animation-maker" target="_blank">Text Animation</a></li>
+                                  <li><a href="https://www.animaker.com/video-resume-software" target="_blank">Video Resume</a></li>
+                                  <li><a href="https://www.animaker.com/voice-generator" target="_blank">Voice Generator</a></li>
+                              </ul>
+                              <ul class="megamenu-list pd25 list-col-5">
+                                  <h3>Products</h3>
+                                  <li><a href="https://www.animaker.com/avatar-maker" target="_blank">Avatar Maker</a></li>
+                                  <li><a href="https://www.animaker.com/video-presentation-maker" target="_blank">Presentation Maker </a></li>
+                                  <li><a href="https://www.animaker.com/explainer-video-software" target="_blank">Explainer Video </a></li>
+                                  <li><a href="https://www.animaker.com/online-video-editor" target="_blank">Video Editor </a></li>
+                                  <li><a href="https://www.animaker.com/vertical-video" target="_blank">Vertical Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/2d-animation-software" target="_blank">2D Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/intro-maker" target="_blank">Intro Maker </a></li>
+                                  <li class=""><a href="https://www.animaker.com/photo-video-maker" target="_blank">Photo Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/promo-video-maker" target="_blank">Promo Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/music-video-maker" target="_blank">Music Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/slideshow-video-maker" target="_blank">Slideshow Video Maker </a></li>
+                                  <li><a href="https://www.animaker.com/enterprise" target="_blank">Animaker Enterprise </a></li>
+                                  <li><a href="https://www.animaker.com/invitation-video-maker" target="_blank">Invitation Video Maker </a></li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+
+                  <li class="">
+                    <a class="hvbtm" href="https://www.animaker.com/#" style="cursor:pointer;">Resources<span class="submenu-indicator first"><span class="submenu-indicator-chevron"></span></span><span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+                    <div class="megamenu-panel nav-submenu" id="animaker_resource_list" style="left: 0px; margin: 0px auto; display: none; right: 0px;">
+                        <div class="megamenu-lists">
+                            <ul class="megamenu-list list-col-6 separator">
+                                
+                                <li class="">
+                                    <a class="custommenu blog " href="https://www.animaker.com/blog" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="./sliderSection_files/blogicon.svg" alt="Animaker Blog" style="width:60px">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Blog</h3>
+                                            <p>Get access to articles &amp; guides for your Journey with Animaker</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="">
+                                    <a class="custommenu hub mt10" href="https://www.animaker.com/hub" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="./sliderSection_files/hubicon.svg" alt="Animaker Hub" style="width:60px;">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Knowledge Hub</h3>
+                                            <p>Get access to Animaker's Knowledge Hub for video marketing</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="custommenu tips mt10" href="https://www.instagram.com/animakerhq/" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="./sliderSection_files/tipsicon.svg" alt="Tips and Hacks" style="width:60px;">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Tips and Hacks</h3>
+                                            <p>Get access to Tips and Hacks from our Instagram feed!</p>
+                                        </div>
+                                    </a>
+                                </li>
+
+                                <li>
+                                  <a class="custommenu produpdate mt10" href="https://new.animaker.com/" target="_blank">
+                                      <div class="dynamictemplate">
+                                          <img src="./sliderSection_files/productupdates_icon.svg" alt="Product Updates" style="width:60px;">
+                                      </div>
+                                      
+                                      <div>
+                                          <h3>Product Updates</h3>
+                                          <p>Get updated about the recent feature releases and updates</p>
+                                      </div>
+                                  </a>
+                              </li>
+                                
+                            </ul>
+                            <ul class="megamenu-list list-col-6">
+                              
+                                <li>
+                                    <a class="custommenu webinar" href="https://app.animaker.com/webinar" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="./sliderSection_files/webinaricon.svg" alt="Animaker Webinar" style="width:60px;">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Webinars</h3>
+                                            <p>Get trained by our experts and become a certified video maker!</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                <!-- <li>
+                                    <a class="custommenu affiliate mt10" href="https://animaker.com/affiliate" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="https://www.animaker.com/Animaker-Home/affiliateicon.svg" alt="Affiliate Program" style="width:60px;">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Affiliate Program</h3>
+                                            <p>Get a chance to earn along with us as an affiliate partner.</p>
+                                        </div>
+                                    </a>
+                                </li> -->
+                                <li>
+                                    <a class="custommenu tutorials mt10" href="https://www.youtube.com/animaker" target="_blank">
+                                        <div class="dynamictemplate">
+                                            <img src="./sliderSection_files/tutorialsicon.svg" alt="Animaker Tutorials" style="width:60px;">
+                                        </div>
+                                        
+                                        <div>
+                                            <h3>Tutorials</h3>
+                                            <p>Get access to exclusive tutorials on our YouTube Channel!</p>
+                                        </div>
+                                    </a>
+                                </li>
+                                
+                            </ul>
+                            
+                        </div>
+                    </div>
+                </li>
+
+                  
+                  <li><a class="hvbtm" href="https://www.animaker.com/features" target="_blank">Features</a></li>
+                  <li class="">
+                    <a class="hvbtm" href="https://app.animaker.com/pricing" style="cursor:pointer;" target="_blank">Pricing<span class="submenu-indicator first"><span class="submenu-indicator-chevron"></span></span></a>
+                    
+                </li>
+
+                  <li class=""><a class="login" href="https://accounts.animaker.com/login/animaker">Login</a></li>
+                  <li><a class="signup" href="https://accounts.animaker.com/register/animaker?trackId=qu5jtuflrvjft05fx0hp"><div class="grad-shadow-bg"></div> Sign Up</a></li>
+                  <li>
+                      <a class="globe" href="https://www.animaker.com/#"><span class="submenu-indicator first"><span class="submenu-indicator-chevron"></span></span><span class="submenu-indicator"><span class="submenu-indicator-chevron"></span></span></a>
+                      <ul class="nav-dropdown nav-submenu" style="right: 0px;">
+                          <li><a href="https://www.animaker.com/" target="_blank">English</a></li>
+                          <li><a href="https://www.animaker.es/" target="_blank">Español</a></li>
+                          <li><a href="https://www.animaker.co/" target="_blank">Português</a></li>
+                          <li><a href="https://www.animaker.de/" target="_blank">Deutsch</a></li>
+                          <li><a href="https://www.animaker.fr/" target="_blank">Français</a></li>
+                          <li><a href="https://www.animaker.kr/" target="_blank">한국어</a></li>
+                          <li><a href="https://www.animaker.ru/" target="_blank">Pусский</a></li>
+                          <li><a href="https://www.animaker.it/" target="_blank">Italiano</a></li>
+                          <li><a href="https://www.animaker.jp/" target="_blank">日本人</a></li>
+                          <li><a href="https://www.animaker.pl/" target="_blank">polski</a></li>
+                          <li><a href="https://www.animaker.com/nl" target="_blank">Nederlands</a></li>
+                          <li><a href="https://www.animaker.hk/" target="_blank">繁體中文</a></li>
+                          <li><a href="https://www.animaker.ae/">العربيّة</a></li>
+                      </ul>
+                  </li>
+              </ul>
+            </div>
+          </nav>
+
+
+      </div>
+    </header>
+  </div>
+
+  
+    <section class="hero-section-wrapper">
+      <div class="container">
+        <div class="hero-section-content">
+          <h1>The Future of<br> Video Making Starts Here.</h1>
+          <p>A breakthrough AI-Powered platform to create Animation and Live-Action videos for non-designers<br> &amp; professionals from early-stage startups to seasoned Fortune 500 companies.</p>
+          <!-- <button class="rainbow-btn"></button> -->
+          <a href="https://accounts.animaker.com/register/animaker?trackId=qu5jtuflrvjft05fx0hp" class="rainbow-btn">Create for Free</a>
+        </div>
+        <div class="show-mobile video-holder">
+          <!-- <img src="https://www.animaker.com/Animaker-Home/new-assets/Endless-possiblities-placeholder.webp" alt="" class="video-placeholder" /> -->
+          <video id="hero-video-mobile" class="desk-view video-placeholder hero-video" autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/Homepage-OG.webp" title="Make your first video with Animaker AI" style="border-radius:20px;">
+            <source src="" type="video/mp4" alt="">
+          </video>
+        </div>
+        <div class="user-count-content">
+          <div class="d-flex">
+            <div class="col">
+              <div class="user-count">
+                <h1>20,000,000+</h1>
+                <h2>USERS</h2>
+              </div>
+            </div>
+            <div class="col">
+              <div class="scroll-parent">
+                <div class="scroll-element primary">
+                  <img src="./sliderSection_files/Truist.svg" alt="Truist-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/Amazon.svg" alt="Amazon-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/Bosch.svg" alt="Bosch-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/Visa.svg" alt="Visa-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/Gsk.svg" alt="Gsk-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/McDonalds.svg" alt="McDonalds-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/United HealthCare.svg" alt="UnitedHealthCare-brand-logo" class="brand-logo">
+                  <img src="./sliderSection_files/Aptiv.svg" alt="Aptiv-brand-logo" class="brand-logo">
+                </div>
+            </div>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+        
+    </section>
+    <div class="why-animaker">
+      <div class="why-animaker-content">
+        <div class="hide-mobile video-holder">
+          <!-- <img src="https://www.animaker.com/Animaker-Home/new-assets/Endless-possiblities-placeholder.webp" alt="" class="video-placeholder" /> -->
+          <video id="hero-video-desktop" class="desk-view video-placeholder hero-video" autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/Homepage-OG.webp" title="Make your first video with Animaker AI" style="border-radius:20px;">
+            <source src="https://www.animaker.com/Animaker-Home/new-assets/newhome-loop-video.mp4" type="video/mp4" alt="Make your first video with Animaker AI">
+          </video>
+        </div>
+        <section class="awards-section">
+          <div class="container">
+            <div class="row aos-init aos-animate" data-aos="fade-up">
+              <div class="col-md-4">
+                <h1 style="font: normal normal 800 18px/26px &#39;Inter&#39;,sans-serif;">Awards Galore!</h1>
+                <p>Animaker was voted as the No.4 Best Design Product of the World.</p>
+              </div>
+              <div class="col-md-8">
+                <img src="./sliderSection_files/Badges-Stack.svg" alt="Animaker-Badges-stack" class="badges-stack">
+              </div>
+            </div>
+          </div>
+        </section>  
+        <section class="meet-animation">
+          <div class="container">
+            <div class="meet-animation-content">
+              <div class="row aos-init aos-animate" data-aos="fade-up">
+                <div class="col-md-12">
+                  <h1>Why&nbsp;<img src="./sliderSection_files/Animaker-gradient.svg" alt="Animaker-gradient-text" class="animaker-grad-txt">
+                  </h1>
+                  <p class="bolder">Meet the World’s most complete<br> Animation &amp; Video Making Tool</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="meet-products">
+          <div class="container">
+            <!-- EFFORTLESS AI TOOL -->
+            <div class="row">
+              <div class="col-md-12">
+                <div class="effortless-ai">
+                  <div class="grad-bg"></div>
+                  <div class="grad-video-wrapper">
+                    <div class="bg-vid-container">
+                      <div class="bg-vid-wrapper">
+                        <!-- <video src="https://www.animaker.com/Animaker-Home/new-assets/Animaker-AI.mp4" autoplay muted loop></video> -->
+                        <video autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/effortless-graphic.webp" title="Animaker AI" style="border-radius:20px;">
+                          <source src="https://www.animaker.com/Animaker-Home/new-assets/Animaker-AI.mp4" type="video/mp4" alt="Animaker-AI">
+                        </video>
+                      </div>
+                      <div class="bg-vid-content aos-init aos-animate" data-aos="fade-up"> 
+                        <h2>Effortless Creation Powered by Animaker AI</h2>
+                        <p>Armed with AI powered tools, any person can now <br> create a studio quality animated video in an instant.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- <div class="tile-card effortless-ai ">
+                  <h2>Effortless Creation Powered by Animaker AI</h2>
+                  <p>Armed with AI powered tools, any person can now create a studio quality animated video in an instant.</p>
+                  <img src="https://www.animaker.com/Animaker-Home/new-assets/effortless-graphic.png" alt="" class="effortless-graphic" />
+                  <video src="https://www.animaker.com/Animaker-Home/new-assets/Animaker-AI.mp4" autoplay muted loop></video>
+                </div> -->
+              </div>
+            </div>
+            <!-- CHARACTER BUILDER & ASSET LIBRARY -->
+            <div class="row no-gutters">
+              <div class="col-md-6">
+                  <div class="character-builder">
+                    <div class="bg-vid-container">
+                      <div class="bg-vid-wrapper">
+                        <!-- <video src="https://www.animaker.com/Animaker-Home/new-assets/Character-builder.mp4" autoplay muted loop></video> -->
+                        <video autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/avatar-grapic.webp" title="Character Builder" style="border-radius:20px;">
+                          <source src="https://www.animaker.com/Animaker-Home/new-assets/Character-builder.mp4" type="video/mp4" alt="">
+                        </video>
+                      </div>
+                      <div class="bg-vid-content aos-init aos-animate" data-aos="fade-up"> 
+                        <h2>Super Powerful<br> Character Builder</h2>
+                        <p style="color:#837346;">Take it for a spin and build billions<br> of unique characters for your brand.</p>
+                      </div>
+                    </div>
+                  </div>
+                
+                  <!-- <div class="tile-card yellow-bg">
+                    <h2>Super Powerful<br> Character Builder</h2>
+                    <p>Take it for a spin and build the perfect<br> character for your brand videos.</p>
+                    <img src="https://www.animaker.com/Animaker-Home/new-assets/avatar-grapic.png" alt="" class="avatar-grapic" />
+                    <video src="https://www.animaker.com/Animaker-Home/new-assets/Character-builder.mp4" autoplay muted loop></video>
+                  </div> -->
+              </div>
+              <div class="col-md-6">
+                <div class="video-library">
+                  <div class="bg-vid-container">
+                    <div class="bg-vid-wrapper">
+                      <!-- <video src="https://www.animaker.com/Animaker-Home/new-assets/Assets-Library.mp4" autoplay muted loop></video> -->
+                      <video autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/video-library.webp" title="Asset Library" style="border-radius:20px;">
+                        <source src="https://www.animaker.com/Animaker-Home/new-assets/Assets-Library-new.mp4" type="video/mp4" alt="">
+                      </video>
+                    </div>
+                    <div class="bg-vid-content aos-init aos-animate" data-aos="fade-up" data-aos-delay="200"> 
+                      <h2>World’s largest asset<br> and animation library</h2>
+                      <p style="color: #EFEFEF;">100M+ Stock media, 70K+ icons, and 30K+<br> music tracks &amp; stickers to fuel your creativity.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- TEMPLATES & VIDEO EDITING FEATURES -->
+            <div class="row">
+              <div class="col-md-12">
+                <div class="video-templates">
+                  <div class="bg-vid-container">
+                    <div class="bg-vid-wrapper">
+                      <!-- <video src="https://www.animaker.com/Animaker-Home/new-assets/Templates.mp4" autoplay muted loop></video> -->
+                      <video autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/video-templates-grapic.webp" title="Video Templates" style="border-radius:20px;">
+                        <source src="https://www.animaker.com/Animaker-Home/new-assets/Templates.mp4" type="video/mp4" alt="">
+                      </video>
+                    </div>
+                    <div class="bg-vid-content aos-init aos-animate" data-aos="fade-up"> 
+                      <h2>1000s of Unique Video Templates</h2>
+                      <p style="max-width: 423px;">Pick from 1000s of templates! Use them to create videos in under 5 minutes!</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-12">
+                <div class="video-editing-bg">
+                  <div class="bg-vid-container">
+                    <div class="bg-vid-wrapper">
+                      
+                      <!-- <video src="https://www.animaker.com/Animaker-Home/new-assets/Video-Editing-Tools.mp4" autoplay muted loop></video> -->
+                      <video autoplay="" muted="" loop="" playsinline="" poster="https://www.animaker.com/Animaker-Home/new-assets/video-editing-graphic.webp" title="Video editing tools">
+                        <source src="https://www.animaker.com/Animaker-Home/new-assets/Video-Editing-Tools.mp4" type="video/mp4" alt="">
+                      </video>
+                    </div>
+                    <div class="bg-vid-content aos-init aos-animate" data-aos="fade-up"> 
+                      <h2>25+ Video Editing Tools &amp; Features</h2>
+                      <p>From basic video editing features like trimming and cropping to complex features<br> like video effects controller &amp; green screen editor, Animaker has got it all.</p>
+                    </div>
+                  </div>
+                </div>
+                <!-- <div class="tile-card video-editing-bg">
+                  <h2>25+ Video Editing Tools & Features</h2>
+                  <p>From basic video editing features like trimming and cropping to complex features like video effects controller & green screen editor, Animaker has got it all.</p>
+                </div> -->
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="product-carousal">
+          <div class="container">
+            <div class="product-carousal-content">
+              <div class="product-carousal-head">
+                <div class="row aos-init aos-animate" data-aos="fade-up">
+                  <div class="col-md-12">
+                    <h1><img src="./sliderSection_files/Who is it for.svg" alt="Animaker-video-creation-tool-for-everyone" class="animaker-grad-txt">
+                    </h1>
+                    <p class="bolder">World class video creation<br> tool for everyone</p>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="row aos-init aos-animate" data-aos="zoom-in-up">
+                <div class="col-md-12">
+                  <div class="show-mobile">
+                    <div id="prod-prev" class="icon-left-arrow">
+                      <img src="./sliderSection_files/product-icon-arrow.svg" alt="" class="slider-arrow">
+                    </div>
+                  </div>
+                  <ul id="prod-container" class="blog-head">
+                    <li class="active">L&amp;D<br> Teams</li>
+                    <li>HR<br> Teams</li>
+                    <li>Marketing <br>&amp; Sales</li>
+                    <li>Internal  <br>Comms</li>
+                    <li>Everyone <br>Else</li>
+                  </ul>
+                  <div id="prod-next" class="show-mobile">
+                    <div class="icon-right-arrow">
+                      <img src="./sliderSection_files/product-icon-arrow.svg" alt="" class="slider-arrow">
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+              <div class="carousal-section aos-init aos-animate" data-aos="fade-up">
+                  <!-- Slider main container -->
+                    <div class="swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                      <!-- Additional required wrapper -->
+                      <div class="swiper-wrapper" id="swiper-wrapper-ebc18739c2a963d8" aria-live="polite">
+                        <!-- Slides -->
+                        <div class="swiper-slide two swiper-slide-active" role="group" aria-label="1 / 5" data-swiper-slide-index="0" style="width: 1005px; margin-right: 30px;">
+                          <div class="tile-card">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <img src="./sliderSection_files/Training-and-learning-graphic.webp" alt="Training-and-learning" class="slider-graphic-img">
+                              </div>
+                              <div class="col-md-6">
+                                <div class="slider-content aos-init aos-animate" data-aos="zoom-in">
+                                  <h2>L&amp;D Course Creators</h2>
+                                  <p>Create animated videos that enhances course engagement by simplifying complex concepts, and transforms courses into dynamic, visually compelling learning experiences.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide one swiper-slide-next" role="group" aria-label="2 / 5" data-swiper-slide-index="1" style="width: 1005px; margin-right: 30px;">
+                          <div class="tile-card">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <img src="./sliderSection_files/hr-graphic.webp" alt="Human-resources" class="slider-graphic-img">
+                              </div>
+                              <div class="col-md-6">
+                                <div class="slider-content aos-init aos-animate" data-aos="zoom-in">
+                                  <h2>Human Resources</h2>
+                                  <p>Make super appealing onboarding, orientation, and compliance videos in a jiffy! You don’t need to depend on professional video creators anymore.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide three" role="group" aria-label="3 / 5" data-swiper-slide-index="2" style="width: 1005px; margin-right: 30px;">
+                          <div class="tile-card">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <img src="./sliderSection_files/Marketing-and-sales.webp" alt="Marketing-and-sales" class="slider-graphic-img">
+                              </div>
+                              <div class="col-md-6">
+                                <div class="slider-content aos-init aos-animate" data-aos="zoom-in">
+                                  <h2>Marketers and Sales<br> Professionals</h2>
+                                  <p>Make videos that make an impact both internally and externally. Create engaging video content to entice your followers and clients!</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide four" role="group" aria-label="4 / 5" data-swiper-slide-index="3" style="width: 1005px; margin-right: 30px;">
+                          <div class="tile-card">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <img src="./sliderSection_files/Internal-communications.webp" alt="Internal-communications" class="slider-graphic-img">
+                              </div>
+                              <div class="col-md-6">
+                                <div class="slider-content aos-init aos-animate" data-aos="zoom-in">
+                                  <h2>Internal Communications</h2>
+                                  <p>Effective communication is essential for an empowering company culture. Guide your colleagues effectively with a well-crafted animated video!</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide five" role="group" aria-label="5 / 5" data-swiper-slide-index="4" style="width: 1005px; margin-right: 30px;">
+                          <div class="tile-card">
+                            <div class="row">
+                              <div class="col-md-6">
+                                <img src="./sliderSection_files/Everyone-else.webp" alt="Animaker-video-creation-tool-for-everyone" class="slider-graphic-img">
+                              </div>
+                              <div class="col-md-6">
+                                <div class="slider-content aos-init aos-animate" data-aos="zoom-in">
+                                  <h2>Everyone Else</h2>
+                                  <p>Be it a birthday wish, a wedding invite, or even a personal resume, Animaker has got you covered! Create anything you want, just the way you want!</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+
+                      </div>
+                      
+                      <!-- If we need navigation buttons -->
+                      <!-- <div class="swiper-button-prev"></div> -->
+                      <!-- <div class="swiper-button-next"></div> -->
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="animaker-products">
+          <div class="container">
+            <div class="animaker-products-content aos-init" data-aos="fade-up">
+              <div class="product-head">
+                <div class="row">
+                  <div class="col-md-12">
+                    <h1>Top-notch <br class="mobile-show">Products <br>for
+                      <img src="./sliderSection_files/Top-notch Creators.svg" alt="Top-notch-products-for-top-notch-creators" class="animaker-grad-txt">
+                    </h1>
+                    <p class="bolder">Dive deep into Animaker’s ecosystem<br> of Products designed for every type of creator</p>
+                  </div>
+                </div>
+              </div>
+              <div class="product-cards">
+                <div class="row no-gutters">
+                  <div class="col-md-8 aos-init" data-aos="zoom-in-up">
+                    <div class="product-wrapper animaker">
+                      <a href="https://www.animaker.com/" target="_blank" aria-label="animaker">
+                        <img src="./sliderSection_files/Graphic-Animaker.webp" class="product-graphic" alt="Animaker-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-animaker.svg" alt="Animaker-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Animaker-product-arrow-icon" class="product-arrow">
+                          <p>Breakthrough<br> AI-powered platform<br> to create studio-<br> quality Animation<br> and Live videos.</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-4">   
+                    <div class="product-wrapper vmaker aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.vmaker.com/" target="_blank" aria-label="vmaker">
+                        <img src="./sliderSection_files/Graphic-Vmaker.webp" class="product-graphic" alt="Vmaker-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-vmaker.svg" alt="Vmaker-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Vmaker-product-arrow-icon" class="product-arrow">
+                          <p>Record screen, webcam,<br> or both with audio to create<br> engaging video content.</p></div>
+                      </a></div><a href="https://www.vmaker.com/" target="_blank" aria-label="vmaker">
+                    </a>
+                  </div>  
+                </div>
+                <div class="row no-gutters">
+                  <div class="col-md-4">
+                    <div class="product-wrapper deck aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.animaker.com/deck" target="_blank" aria-label="deck">
+                        <img src="./sliderSection_files/Graphic-Deck.webp" class="product-graphic" alt="Deck-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-deck.svg" alt="Deck-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Deck-product-arrow-icon" class="product-arrow">
+                          <p>Break presentation<br> stereotypes with an Avatar-<br> powered Presentation Maker!</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="product-wrapper steve aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.steve.ai/" target="_blank" aria-label="steveai">
+                        <img src="./sliderSection_files/Graphic-SteveAI.webp" class="product-graphic" alt="SteveAI-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-steve-ai.svg" alt="SteveAI-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="SteveAI-product-arrow-icon" class="product-arrow">
+                          <p>Create Videos using Text<br> within seconds with the help<br> of a patented AI platform.</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="product-wrapper subtitle aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.animaker.com/subtitle-generator" target="_blank" aria-label="subtitle">
+                        <img src="./sliderSection_files/Graphic-Subtitles.webp" class="product-graphic" alt="Animaker-subtitles-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-subtitle.svg" alt="Animaker-subtitles-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Animaker-subtitles-product-arrow-icon" class="product-arrow">
+                          <p>Generate subtitles in a click<br> with Animaker’s AI-powered<br> Subtitle Generator!</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="row no-gutters">
+                  <div class="col-md-4">
+                    <div class="product-wrapper show aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.getshow.io/" target="_blank" aria-label="getshow">
+                        <img src="./sliderSection_files/Graphic-Show.webp" class="product-graphic" alt="Show-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-show.svg" alt="Show-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Show-product-arrow-icon" class="product-arrow">
+                          <p>First-of-a-kind AI-Powered<br> Emailer to send flawless<br> Outbound Video Emails.</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="product-wrapper picmaker aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.picmaker.com/" target="_blank" aria-label="picmaker">
+                        <img src="./sliderSection_files/Graphic-Picmaker.webp" class="product-graphic" alt="Picmaker-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-picmaker.svg" alt="Picmaker-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Picmaker-product-arrow-icon" class="product-arrow">
+                          <p>Create unique designs in<br> minutes with our online<br> graphic design software.</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="product-wrapper voice aos-init" data-aos="zoom-in-up">
+                      <a href="https://www.animaker.com/voice" target="_blank" aria-label="voice">
+                        <img src="./sliderSection_files/Graphic-Voice.webp" class="product-graphic" alt="Animaker-voice-product">
+                        <div class="product-content">
+                          <img src="./sliderSection_files/logo-voice.svg" alt="Animaker-voice-product-logo" class="product-logo">
+                          <img src="./sliderSection_files/product-icon-arrow.svg" alt="Animaker-voice-product-arrow-icon" class="product-arrow">
+                          <p>Convert any text into ultra-<br> realistic voiceovers using an<br> AI-based Neural TTS Engine.</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="animaker-testimonials">
+          <div class="container">
+            <div class="animaker-testimonials-content">
+              <div class="testimonials-head">
+                <div class="row aos-init" data-aos="fade-up">
+                  <div class="col-md-12">
+                    <h1>
+                      <img src="./sliderSection_files/Our users love us.svg" alt="" class="animaker-grad-txt"><br>
+                      For A Good Reason
+                    </h1>
+                    <!-- <p class="bolder">Dive deep into Animaker’s ecosystem of Products<br> designed for every type of creator</p> -->
+                  </div>
+                </div>
+              </div>
+              <div class="carousal-section">
+                <div class="row aos-init" data-aos="fade-up">
+                  <div class="col-md-12">
+                    <div class="tile-card review-section">
+                      <!-- Slider main container -->
+                    <div class="swiper swiper-initialized swiper-horizontal swiper-backface-hidden">
+                      <!-- Additional required wrapper -->
+                      <div class="swiper-wrapper" id="swiper-wrapper-121924510fc131ff4" aria-live="polite">
+                        <!-- Slides -->
+                        <div class="swiper-slide swiper-slide-active aos-init" data-aos="zoom-in" role="group" aria-label="1 / 4" data-swiper-slide-index="0" style="width: 805px; margin-right: 30px;">
+                          <div class="d-flex">
+                            <div class="col author-section">
+                              <img src="./sliderSection_files/Laurence-Chung.webp" alt="Laurence-chung-testimonial" class="author-img">
+                              <h1>Laurence Chung</h1>
+                              <h3>Global Brand Manager</h3>
+                              <p>At GSK, we wanted to use animated videos for a plethora of different use cases. From marketing to L&amp;D, animated videos helped us communicate easily and effectively. We have created over 2000+ videos using Animaker &amp; saved $1.4 Million dollars.</p>
+                            </div>
+                            <div class="col stats-section">
+                              <h1>2000+</h1>
+                              <h6>Videos created so far</h6>
+                              <h1>$1.4 Million</h1>
+                              <h6>Cost saved for the server</h6>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide swiper-slide-next aos-init" data-aos="zoom-in" role="group" aria-label="2 / 4" data-swiper-slide-index="1" style="width: 805px; margin-right: 30px;">
+                          <div class="d-flex">
+                            <div class="col author-section">
+                              <img src="./sliderSection_files/martin.webp" alt="Martin-testimonial" class="author-img">
+                              <h1>Martin Miller</h1>
+                              <h3>Instructional designer</h3>
+                              <p>Since training videos are always content-heavy, presenting them in an interesting way has always been a challenge. That’s when I came across Animaker. With its animated icons, charts, graphs, and characters, video creation is a dream now!</p>
+                            </div>
+                            <div class="col stats-section">
+                              <h1>70+</h1>
+                              <h6>training videos created</h6>
+                              <h1>60%</h1>
+                              <h6>less time on video creations</h6>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide aos-init" data-aos="zoom-in" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 805px; margin-right: 30px;">
+                          <div class="d-flex">
+                            <div class="col author-section">
+                              <img src="./sliderSection_files/stephen.webp" alt="Stephen-testimonial" class="author-img">
+                              <h1>Stephen A. Gruner</h1>
+                              <h3>Video Marketer</h3>
+                              <p>We were really blown away by Animaker’s character builder. I could literally build an animated version of any person I can imagine. With this customized video, we’re able to 2X our sales conversion.</p>
+                            </div>
+                            <div class="col stats-section">
+                              <h1>2X</h1>
+                              <h6>Sales Conversions</h6>
+                              <h1>80% </h1>
+                              <h6>less time on video creation</h6>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="swiper-slide aos-init" data-aos="zoom-in" role="group" aria-label="4 / 4" data-swiper-slide-index="3" style="width: 805px; margin-right: 30px;">
+                          <div class="d-flex">
+                            <div class="col author-section">
+                              <img src="./sliderSection_files/Rachel.webp" alt="Rachel-testimonial" class="author-img">
+                              <h1>Rachel Hunter McCoy</h1>
+                              <h3>HR Manager</h3>
+                              <p>I think one of Animaker’s best benefits is their super useful support. They responded very promptly whenever I tackled an issue or had a question. I never had to wait too long.</p>
+                            </div>
+                            <div class="col stats-section">
+                              <h1>10+ </h1>
+                              <h6>onboarding/relations videos</h6>
+                              <h1>15+  </h1>
+                              <h6>employee activity videos</h6>
+                            </div>
+                          </div>
+                        </div>
+
+                      </div>
+                      
+                      
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                      <div class="row">
+                        <div class="col-md-12 navigation-toggle">
+                          <!-- If we need navigation buttons -->
+                          <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-121924510fc131ff4">
+                            <img src="./sliderSection_files/icon-leftarrow.svg" alt="left-arrow-icon" class="nav-arrow-icon previous">
+                          </div>
+                          <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-121924510fc131ff4">
+                            <img src="./sliderSection_files/icon-rightarrow.svg" alt="right-arrow-icon" class="nav-arrow-icon next">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="security-section">
+          <div class="container">
+            <div class="d-flex aos-init" data-aos="fade-up">
+              <div class="col-md-6">
+                <h4>All the security you will ever need</h4>
+              </div>
+              <div class="col-md-6">
+                <div class="d-flex security-badge-grp">
+                  <img src="./sliderSection_files/GDPR.png" alt="GDPR-security-badge" class="security-badge" style="max-width: 125px;">
+                  <img src="./sliderSection_files/ISO.webp" alt="ISO-security-badge" class="security-badge" style="max-width: 113px;">
+                  <img src="./sliderSection_files/CyberGRX.png" alt="CyberGRX-security-badge" class="security-badge" style="max-width: 113px;">
+                </div>
+              </div>
+            </div>
+          </div>  
+        </section>
+
+        
+
+        <section class="faq-questions">
+          <div class="faqs">
+            <div class="container">
+                <div class="row aos-init" data-aos="fade-up" data-aos-duration="600">
+                    <div class="col-md-12">
+                        <h1>Frequently Asked Questions</h1>
+                    </div>
+                </div>
+                <div class="row aos-init" data-aos="fade-up" data-aos-duration="600">
+                    <div class="col-md-12">
+                         <div class="accordion" id="faqs">
+                             <!-- Quesion -->
+                             <div class="card">
+                                 <div class="card-header " id="h1" data-toggle="collapse" data-target="#q1">
+                                  What is Animaker?
+                                 </div>
+                                 <div id="q1" class="collapse show" aria-labelledby="h1" data-parent="#faqs" style="">
+                                     <div class="card-body">
+                                         <p>Animaker is an online video-making platform that can help beginners, professionals, and everyone else create animated and live-action videos in a matter of minutes.</p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <!-- Quesion -->
+                             <div class="card">
+                                 <div class="card-header collapsed" id="h2" data-toggle="collapse" data-target="#q2">
+                                  How to use Animaker?
+                                 </div>
+                                 <div id="q2" class="collapse" aria-labelledby="h2" data-parent="#faqs" style="">
+                                     <div class="card-body">
+                                      <p>Sign up with a free account on <a href="https://www.animaker.com/" target="_blank" style="color: #873DE9 !important;">animaker.com</a>, and that’s it. You can now use this awesome platform to create super cool videos.</p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <!-- Quesion -->
+                             <div class="card">
+                                 <div class="card-header collapsed" id="h3" data-toggle="collapse" data-target="#q3">
+                                  How much does Animaker cost?
+                                 </div>
+                                 <div id="q3" class="collapse" aria-labelledby="h3" data-parent="#faqs">
+                                     <div class="card-body">
+                                         <p>There are different pricing plans (Free, Basic, Starter, Pro) available on Animaker. Check out the <a href="https://app.animaker.com/pricing" target="_blank" style="color: #873DE9 !important;">pricing page</a> to know more about each plan.</p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <!-- Quesion -->
+                             <div class="card">
+                                 <div class="card-header collapsed" id="h4" data-toggle="collapse" data-target="#q4">
+                                  Is Animaker free?
+                                 </div>
+                                 <div id="q4" class="collapse" aria-labelledby="h4" data-parent="#faqs">
+                                     <div class="card-body">
+                                         <p>Yes, there is a free-forever plan for Animaker available. You can signup for this plan via <a href="https://www.animaker.com/" target="_blank" style="color: #873DE9 !important;">animaker.com</a>. To enjoy other premium features, you can upgrade your subscription. Check out the <a href="https://app.animaker.com/pricing" target="_blank" style="color: #873DE9 !important;">pricing page</a> to learn more about the different pricing plans available.</p>
+                                     </div>
+                                 </div>
+                             </div>
+                             <!-- Quesion -->
+                             <div class="card">
+                                 <div class="card-header collapsed" id="h5" data-toggle="collapse" data-target="#q5">
+                                  Is there a common plan to access the premium features of Animaker and its product ecosystem premium features?
+                                 </div>
+                                 <div id="q5" class="collapse" aria-labelledby="h5" data-parent="#faqs">
+                                     <div class="card-body">
+                                         <p>We are in the process of building such a common plan to give access to Animaker’s suite of products. Kindly contact our support team for more details.</p>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+
+        <section class="first-video">
+          <div class="container">
+            <div class="first-video-content">
+              <h1 data-aos="fade-up" class="aos-init">The world is waiting <br>for your first video!</h1>
+              <!-- <button class="first-video-cta">Create for Free</button> -->
+              <a href="https://accounts.animaker.com/register/animaker?trackId=qu5jtuflrvjft05fx0hp" class="rainbow-btn aos-init" data-aos="fade-up"></a>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+</div>
+
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12"><h5>Animaker Use Cases</h5></div>
+            <div class="col-md-3">
+                <h6>Trending now</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/video-collage-maker" style="">Video Collage Maker</a></li>
+                  <li><a href="https://www.animaker.com/ppt-to-video" style="">PPT to Video</a></li>
+                  <li><a href="https://www.animaker.com/presentation-software" style="">Presentation Software</a></li>
+                  <li><a href="https://www.animaker.com/voice-generator" style="">Voice Generator</a></li>
+                  <li><a href="https://www.animaker.com/gif-meme-maker" style="">Gif Meme Maker</a></li>
+                  <li><a href="https://www.animaker.com/deck" style="">Animaker Deck</a></li>
+                  <li><a href="https://www.animaker.com/youtube-intro-maker" style="">Youtube Intro</a></li>
+                  <li><a href="https://www.animaker.com/linkedin-video-maker" style="">LinkedIn Video</a></li>
+                  <li><a href="https://www.animaker.com/trailer-maker" style="">Trailer Video</a></li>
+                  <li><a href="https://www.animaker.com/birthday-video-maker" style="">Birthday Video</a></li>
+                  <li><a href="https://www.animaker.com/tutorial-video" style="">Tutorial Video</a></li>
+                  <li><a href="https://www.animaker.com/invitation-video-maker" style="">Invitation Video</a></li>
+                  <li><a href="https://www.animaker.com/music-video-maker" style="">Music Video</a></li>
+                  <li><a href="https://www.animaker.com/cartoon-maker" style="">Cartoon Video </a></li>
+                  <li><a href="https://www.animaker.com/book-trailer-maker" style="">Book Trailer</a></li>
+                  <li><a href="https://www.animaker.com/anniversary-video" style="">Anniversary video</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h6>For Business</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/training-video" style="">Training Video</a></li>
+                  <li><a href="https://www.animaker.com/explainer-video-software" style="">Explainer Video</a></li>
+                  <li><a href="https://www.animaker.com/business-video" style="">Business Video</a></li>
+                  <li><a href="https://www.animaker.com/video-presentation-maker" style="">Video Presentation</a></li>
+                  <li><a href="https://www.animaker.com/marketing-video-maker" style="">Marketing Video</a></li>
+                  <li><a href="https://www.animaker.com/corporate-video" style="">Corporate Video</a></li>
+                  <li><a href="https://www.animaker.com/slideshow-video-maker" style="">Slideshow Video</a></li>
+                  <li><a href="https://www.animaker.com/facebook-video-maker" style="">Facebook Video</a></li>
+                  <li><a href="https://www.animaker.com/instagram-video-maker" style="">Instagram Video</a></li>
+                  <li><a href="https://www.animaker.com/youtube-video-maker" style="">Youtube Video</a></li>
+                  <li><a href="https://www.animaker.com/advertisement-maker" style="">Advertisement Video</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h6>For Work</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/video-resume-software" style="">Resume Video</a></li>
+                  <li><a href="https://www.animaker.com/intro-maker" style="">Intro Video </a></li>
+                  <li><a href="https://www.animaker.com/outro-video-maker" style="">Outro Video</a></li>
+                  <li><a href="https://www.animaker.com/text-animation-maker" style="">Text Animation</a></li>
+                  <li><a href="https://www.animaker.com/logo-animation" style="">Logo Animation</a></li>
+                  <li><a href="https://www.animaker.com/promo-video-maker" style="">Promo Video</a></li>
+                  <li><a href="https://www.animaker.com/video-marketing-software" style="">Video Marketing</a></li>
+                  <li><a href="https://www.animaker.com/commercial-maker" style="">Commercial Video</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h6>For Everything else</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/christmas-video-maker" style="">Christmas Video</a></li>
+                  <li><a href="https://www.animaker.com/new-year-video" style="">New Year Video</a></li>
+                  <li><a href="https://www.animaker.com/holiday-video-maker" style="">Holiday Video</a></li>
+                  <li><a href="https://www.animaker.com/halloween-video" style="">Halloween Video</a></li>
+                  <li><a href="https://www.animaker.com/valentines-day-video" style="">Valentine's Day Video</a></li>
+                  <li><a href="https://www.animaker.com/black-friday-video-maker" style="">Black Friday Video</a></li>
+                  <li><a href="https://www.animaker.com/cyber-monday-video-maker" style="">Cyber Monday Video</a></li>
+                  <li><a href="https://www.animaker.com/thanksgiving-video-maker" style="">Thanksgiving Video</a></li>
+                  <li><a href="https://www.animaker.com/friendship-video" style="">Friendship Video</a></li>
+                  <li><a href="https://www.animaker.com/ramadan-video" style="">Ramadan Video</a></li>
+                  <li><a href="https://www.animaker.com/holi-video" style="">Holi Video</a></li>
+                  <li><a href="https://www.animaker.com/st-patricks-day" style="">St. Patrick's day video</a></li>
+                  <li><a href="https://www.animaker.com/independence-day-video" style="">Independence Day Video</a></li>
+                  <li><a href="https://www.animaker.com/mothers-day-video" style="">Mother's Day Video</a></li>
+                  <li><a href="https://www.animaker.com/easter-video" style="">Easter Video</a></li>
+                  <li><a href="https://www.animaker.com/womens-day-video" style="">Women's day Video</a></li>
+                  <li><a href="https://www.animaker.com/hanukkah-video-maker" style="">Hanukkah Video</a></li>
+                  <li><a href="https://www.animaker.com/lyric-video-maker" style="">Lyric Video</a></li>
+                  <li><a href="https://www.animaker.com/doodle-video-maker" style="">Doodle Video</a></li>
+                  <li><a href="https://www.animaker.com/video-scribing-software" style="">Video Scribing</a></li>
+                  <li><a href="https://www.animaker.com/photo-video-maker" style="">Photo Video</a></li>
+                  <li><a href="https://www.animaker.com/social-video" style="">Social Video</a></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-12"><h5>Helpful Links</h5></div>
+            <div class="col-md-3">
+                <h6>Products</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/video-maker" style="">Video maker</a></li>
+                  <li><a href="https://www.animaker.com/2d-animation-software" style="">2D animation software</a></li>
+                  <li><a href="https://www.animaker.com/whiteboard" style="">Whiteboard video maker</a></li>
+                  <li><a href="https://www.animaker.com/infographics" style="">Infographic Video maker</a></li>
+                  <li><a href="https://www.animaker.com/vertical-video" style="">Vertical Video maker</a></li>
+                  <li><a href="https://www.vmaker.com/screen-recorder" style="">Screen Recorder</a></li>
+                  <li><a href="https://www.gifmaker.com/" style="">GIF maker</a></li>
+                  <li><a href="https://www.picmaker.com/" style="">Picmaker - Graphic Design</a></li>
+                  <li><a href="https://www.picmaker.com/youtube-thumbnail-maker" style="">YouTube Thumbnail Maker</a></li>
+                  <li><a href="https://www.picmaker.com/youtube-banner" style="">Youtube Banner Maker</a></li>
+                  <li><a href="https://www.picmaker.com/photo-editor" style="">Photo Editor</a></li>
+                  <li><a href="https://www.animaker.com/voice" style="">Animaker voice</a></li>
+                  <li><a href="https://academy.animaker.com/" style="">Makers Academy</a></li>
+                  <li><a href="https://apple.co/3DHzN3B" style="">Animaker: Animation Maker - iOS App</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h6>Company</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/company" style="">About us</a></li>
+                  <li><a href="https://www.animaker.com/jobs" style="">Jobs</a></li>
+                  <li><a href="https://www.animaker.com/affiliate" style="">Affiliate</a></li>
+                  <li><a href="https://www.animaker.com/terms-policy" style="">Terms</a></li>
+                  <li><a href="https://www.animaker.com/security-policy" style="">Security Policy</a></li>
+                  <!-- <li><a href="/blog" style="">Blog</a></li>
+                  <li><a href="/hub" style="">Hub</a></li> -->
+                  <li><a href="https://www.animaker.com/press" style="">Press</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h6>Support</h6>
+                <ul>
+                  <li><a href="https://www.animaker.com/tutorials" style="">Tutorials</a></li>
+                  <li><a href="https://www.animaker.com/templates" style="">Templates</a></li>
+                  <li><a href="https://support.animaker.com/en/" style="">FAQ</a></li>
+                  <li><a href="https://app.animaker.com/webinar" style="">Training</a></li>
+                  <li><a href="https://app.animaker.com/support" style="">Contact</a></li>
+                  <li><a href="https://new.animaker.com/">What's New</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 address">
+                <h6>Animaker</h6>
+                <p>1160 Battery Street Suite 100, <br>San Francisco, CA 94111, USA. <br><a href="mailto:help@animaker.com">help@animaker.com</a></p>
+                <div class="social">
+                  <a href="https://www.facebook.com/theanimaker" target="_blank" aria-label="facebook">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="6.964" height="13.299" viewBox="0 0 6.964 13.299">
+                      <g id="icon_facebook" data-name="icon/facebook" transform="translate(-822.415 -8927.13)">
+                        <path id="Path_2" data-name="Path 2" d="M26.154,12.9h1.41V10.68H25.441a2.858,2.858,0,0,0-2.174,1.066,3,3,0,0,0-.586,2.123h0v1.664H20.6v2.352h2.089v6.093H25.1V17.9h2.072l.289-2.352H25.1V13.882h0a.968.968,0,0,1,1.057-.985Z" transform="translate(801.815 8916.45)" fill="#fff"></path>
+                      </g>
+                    </svg>
+                  </a>
+                  <a href="https://www.instagram.com/animakerhq" target="_blank" aria-label="instagram"><svg xmlns="http://www.w3.org/2000/svg" width="13.639" height="13.64" viewBox="0 0 13.639 13.64">
+                          <g id="icon_instagram" data-name="icon/instagram" transform="translate(-876 -9203.052)">
+                            <path id="instagram" d="M6.954,13.641H6.818c-1.069,0-2.057-.025-3.018-.083a4.034,4.034,0,0,1-2.325-.88A3.732,3.732,0,0,1,.221,10.653,8.972,8.972,0,0,1,.015,8.51C.009,8.012,0,7.422,0,6.822S.009,5.63.015,5.132A8.973,8.973,0,0,1,.221,2.989,3.732,3.732,0,0,1,1.475.965,4.034,4.034,0,0,1,3.8.085C4.761.026,5.749,0,6.821,0S8.878.026,9.838.085a4.034,4.034,0,0,1,2.325.88,3.732,3.732,0,0,1,1.254,2.025,8.972,8.972,0,0,1,.206,2.142c.007.5.014,1.088.015,1.688v0c0,.6-.009,1.19-.015,1.688a8.968,8.968,0,0,1-.206,2.142,3.732,3.732,0,0,1-1.254,2.025,4.034,4.034,0,0,1-2.325.88C8.918,13.613,7.973,13.641,6.954,13.641Zm-.136-1.066c1.052,0,2.017-.024,2.955-.081a2.935,2.935,0,0,0,1.716-.642,2.69,2.69,0,0,0,.9-1.462A8.162,8.162,0,0,0,12.558,8.5c.007-.495.014-1.08.015-1.675s-.009-1.18-.015-1.675a8.164,8.164,0,0,0-.173-1.894,2.69,2.69,0,0,0-.9-1.462,2.936,2.936,0,0,0-1.716-.642c-.938-.057-1.9-.083-2.953-.081s-2.017.024-2.955.081a2.936,2.936,0,0,0-1.716.642,2.69,2.69,0,0,0-.9,1.462,8.163,8.163,0,0,0-.173,1.894c-.007.5-.014,1.081-.015,1.676S1.074,8,1.081,8.5a8.162,8.162,0,0,0,.173,1.893,2.69,2.69,0,0,0,.9,1.462,2.936,2.936,0,0,0,1.716.642C4.8,12.551,5.769,12.577,6.818,12.575Zm-.025-2.424a3.33,3.33,0,1,1,3.33-3.33A3.334,3.334,0,0,1,6.793,10.151Zm0-5.594A2.264,2.264,0,1,0,9.057,6.821,2.267,2.267,0,0,0,6.793,4.557Zm3.7-2.131a.8.8,0,1,0,.8.8A.8.8,0,0,0,10.5,2.426Zm0,0" transform="translate(876 9203.051)" fill="#fff"></path>
+                          </g>
+                        </svg>
+                        </a>
+                  <a href="https://www.youtube.com/Animakervideos" target="_blank" aria-label="Youtube">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16.904" height="11.836" viewBox="0 0 16.904 11.836"><defs><style>.a{fill:#afafaf;}</style></defs><g transform="translate(-972.98 -9204.545)"><path class="a" d="M16.556-4.23a2.118,2.118,0,0,0-1.49-1.49,49.48,49.48,0,0,0-6.614-.362,51.407,51.407,0,0,0-6.614.348,2.161,2.161,0,0,0-1.49,1.5A22.315,22.315,0,0,0,0-.164,22.233,22.233,0,0,0,.348,3.9a2.118,2.118,0,0,0,1.49,1.49,49.569,49.569,0,0,0,6.614.362,51.407,51.407,0,0,0,6.614-.348,2.118,2.118,0,0,0,1.49-1.49A22.322,22.322,0,0,0,16.9-.15,21.183,21.183,0,0,0,16.556-4.23ZM6.767,2.37V-2.7l4.4,2.534Zm0,0" transform="translate(972.98 9210.627)"></path></g></svg>
+                  </a>
+  
+                  <a href="https://twitter.com/animakerhq" target="_blank" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="15.086" height="12.235" viewBox="0 0 15.086 12.235">
+                      <g id="icon_twitter" data-name="icon/twitter" transform="translate(-887.263 -8928.089)">
+                        <path id="Path_1" data-name="Path 1" d="M11.08,24.4a8.836,8.836,0,0,0,13.557-7.47c0-.123,0-.239,0-.362a6.939,6.939,0,0,0,1.529-1.6,7.213,7.213,0,0,1-1.751.455h0a3.411,3.411,0,0,0,1.348-1.716,10.674,10.674,0,0,1-1.506.624c-.146.047-.3.1-.455.14A3.1,3.1,0,0,0,18.55,17.3a9.3,9.3,0,0,1-6.361-3.216s-1.482,2.025.881,4.085a3.2,3.2,0,0,1-1.336-.4,2.918,2.918,0,0,0,2.451,3.076,2.883,2.883,0,0,1-1.371.058,3.064,3.064,0,0,0,2.848,2.165,5.958,5.958,0,0,1-4.552,1.3Zm0,0" transform="translate(876.183 8914.553)" fill="#fff"></path>
+                      </g>
+                    </svg>
+                    </a>
+                  <a href="http://www.linkedin.com/company/animaker" target="_blank" aria-label="LinkedIn"><svg xmlns="http://www.w3.org/2000/svg" width="11.93" height="11.924" viewBox="0 0 11.93 11.924">
+                      <g id="icon_linkedin" data-name="icon/linkedin" transform="translate(-1011.035 -6054.03)">
+                        <path id="Path_8" data-name="Path 8" d="M13.678,17.439h2.472v7.938H13.678Zm1.236-3.969a2.25,2.25,0,1,0-.006.017" transform="translate(997.555 6040.561)" fill="#fff"></path>
+                        <path id="Path_9" data-name="Path 9" d="M20.92,20.321h2.37V21.41h.034a2.608,2.608,0,0,1,2.342-1.281c2.5,0,2.965,1.644,2.965,3.788v4.36H26.159V24.409c0-.924,0-2.109-1.287-2.109s-1.48,1-1.48,2.041v3.935H20.92Z" transform="translate(994.333 6037.678)" fill="#fff"></path>
+                      </g>
+                    </svg>
+                  </a>
+  
+              </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="logo"><a href="https://www.animaker.com/"><img src="./sliderSection_files/footer-logo.webp" alt="Animaker"></a></div>
+                <div class="slogan">Videos, <span>Done Right!</span></div>
+                <div class="copyright">Copyright © <span id="fullyear">2024</span> <a href="https://www.animaker.com/#">Animaker Inc</a>, All rights reserved</div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- App Open Popup for mobile devices IOS-->
+<div class="appopen">
+  <div class="apppopup">
+      <h6>Open Animaker in <img class="popclosed" src="./sliderSection_files/cancel.png" alt=""> </h6>
+      <div class="popcnt">
+          <div class="item">
+              <div class="applogo">
+                  <img src="./sliderSection_files/animakerlogo.png" alt="animaker-footer-logo"> Animaker App
+              </div>
+              <div class="imgbtn">
+                  <a href="https://www.animaker.com/"><img src="./sliderSection_files/ios-store.webp" alt=""></a>
+              </div>
+          </div>
+          <!-- <div class="item">
+              <div class="applogo">
+                  <img src="assets/img/chrome.png" alt="chrome"> Chrome
+              </div>
+              <div class="imgbtn">
+                  <a href="/" class="btn">Continue</a>
+              </div>
+          </div> -->
+      </div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript" src="./sliderSection_files/sprintf-v4.min.js.download"></script>
+
+
+
+<script>
+
+  $(document).ready(function() {
+    var d = new Date();
+    document.getElementById("fullyear").innerHTML = d.getFullYear();
+    if(check_cookie_policy()){
+      // console.log("ad_cookie_set");
+        $(".cookie_section").css('display','none');
+    }
+  
+  
+  if(!checkad_cookie()){
+      $(".ad_bar").delay(2500).fadeIn(100);
+    }
+  
+  
+    $(document).on('click','.ad_bar_close',function() {
+      // console.log('checked',checkad_cookie());
+      if(checkad_cookie()){
+        // console.log("ad_cookie_set");
+          $(".ad_bar").css('display','none');
+      } else {
+        // console.log("ad_cookie_not_set");
+         $(".ad_bar").delay(2500).fadeIn(100);
+         setCookie("ad_bar_cookie", "AD_COOKIE", 1);
+         $(".ad_bar").remove();
+      }
+  
+  });
+  $(document).on('click','.accept_button',function() {
+    // console.log('checked',checkad_cookie());
+    if(check_cookie_policy()){
+      // console.log("ad_cookie_set");
+        $(".cookie_section").css('display','none');
+    } else {
+      // console.log("ad_cookie_not_set");
+       setCookie("anim_cookie_policy", "ANIM_COOKIE", 1);
+       $(".cookie_section").remove();
+    }
+  
+  });
+  });
+  var partnerkey_getparams = new URLSearchParams(window.location.search);
+  var partner_key = partnerkey_getparams.get("gspk")
+  // 60 days expiry
+  if(partner_key != null){
+  setCookieforsubdomain("partner_key",partner_key , 60);
+  }
+  
+  
+  function getCookie(cname) {
+    var name = cname + "=";
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "";
+  }
+  
+  function setCookieforsubdomain(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=animaker.com";
+  }
+  
+  function setCookie(cname, cvalue, exdays) {
+    // console.log("cookie set");
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+  }
+  function checkad_cookie(){
+    // console.log("ad cookie check");
+    var ad_bar = getCookie("ad_bar_cookie");
+    if (ad_bar == "" ) {
+      return false;
+    }
+    else{
+    return true;
+    }
+  }
+  function check_cookie_policy(){
+    // console.log("ad cookie check");
+    var cookie_bar = getCookie("anim_cookie_policy");
+    if (cookie_bar == "" ) {
+      return false;
+    }
+    else{
+    return true;
+    }
+  }
+  </script>
+
+<script>
+  // App Open Popup for mobile devices IOS
+  
+  var $window = $(window);
+  var appopen = $(".appopen");
+  var isMobile = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+  
+  function resize() {
+      if ($window.width() < 579) {
+        return appopen.addClass("popopen");
+      }
+      appopen.removeClass("popopen");
+    }
+    if (isMobile) {
+        // $window.resize(resize).trigger("resize");
+        $("#g_id_onload").remove()
+        $(".imgbtn a").attr('href','https://apple.co/3oAtrO1')
+        $('#credential_picker_container').hide()
+        appopen.addClass("popopen");
+
+        $(document).on('click','.appopen',function(){
+            appopen.removeClass("popopen");
+      })
+      $(document).on('click','.apppopup',function(event){
+           event.stopPropagation();
+      })
+      // if ($window.width() < 579) {
+      //   return appopen.addClass("popopen");
+      // }
+    }
+
+    else{
+      // $('body').append('<div id="g_id_onload" data-client_id="503029046724-lm63a9ie522hrgm783uit8ai2s1v59os.apps.googleusercontent.com"data-login_uri="https://accounts.animaker.com/googleonetap/?trackId=qu5jtuflrvjft05fx0hp&language=en">')
+        // $('<div id="g_id_onload" data-client_id="503029046724-lm63a9ie522hrgm783uit8ai2s1v59os.apps.googleusercontent.com"data-login_uri="https://accounts.animaker.com/googleonetap/?trackId=qu5jtuflrvjft05fx0hp&language=en">').insertBefore(".cookie_section");
+    }
+  
+  
+  $(".popclosed").on("click", function() {
+      $(".appopen").removeClass("popopen");
+  });
+  </script>
+
+  <script>
+  $(document).ready(function(){
+    // var autologin = getCookie("autologin");
+    // if((autologin != null)&&(autologin !="")){
+
+    //   window.location.href="https://snbx.animaker.com/dashboard"
+
+    // }
+    $('.helobar_close').on('click', function(){
+    $('.header_helobar_div .helobar').hide();
+    $('header.header_area').css('top','0');
+});
+    $(document).on('mouseenter',".multimenu",function(e) {
+      $(".menu_box.desktop").show();
+    });
+    $(document).on('mouseleave',".multimenu",function(e) {
+      $(".menu_box.desktop").hide();
+    });
+
+    $(document).on('click','.multimenu',function(e) {
+      var parentTarget,target;
+      parentTarget = $(e.target).parent().prop('class');
+      target = $(e.target).prop('class');
+      if(target == 'product_text') {
+        $(".cat_list.category1,.cat_list.category2,.cat_list.category3").removeClass('open');
+        $(".menu_box.mobile").toggleClass('open');
+        $(".mob-menu").removeClass('mob-menu-overflow');
+      } else if((parentTarget == 'categories product_list') || (parentTarget == 'category_head video')) {
+          $(".cat_list.category2,.cat_list.category3").removeClass('open');
+          $(".cat_list.category1").toggleClass('open');
+          $(".mob-menu").addClass('mob-menu-overflow');
+      } else if((parentTarget == 'categories other_list') || (parentTarget == 'category_head products')) {
+          $(".cat_list.category1,.cat_list.category3").removeClass('open');
+          $(".cat_list.category2").toggleClass('open');
+          $(".mob-menu").addClass('mob-menu-overflow');
+      } else if((parentTarget == 'categories blog_list') || (parentTarget == 'category_head article')) {
+          $(".cat_list.category1,.cat_list.category2").removeClass('open');
+          $(".cat_list.category3").toggleClass('open');
+          $(".mob-menu").addClass('mob-menu-overflow');
+      }
+    });
+    // console.log('In ready 2')
+    
+    // DETECT BROWSER LANGUAGE FROM PREFERENCE
+    // var userLang = navigator.language || navigator.userLanguage; 
+    // var langList = ['es','pt','de','fr','ko','ru','it','ja','pl','nl','zh-HK'];
+    // var xtnsnList = ['esp','co','de','fr','kr','ru','it','jp','pl','nl','hk'];
+    // console.log("User Preferred language is: " + userLang);
+    // // console.log("Lang after split "+userLang.split('-')[0]);
+    // console.log("Lang found index "+langList.findIndex(checkUserLang));
+    // console.log("document referrer "+document.referrer);  
+    
+    // // REDIRECTION GOES HERE
+    // if(userLang && langList.findIndex(checkUserLang) > -1){
+    //   if(document.referrer != 'https://web.animaker.'+xtnsnList[langList.findIndex(checkUserLang)]+'/'){
+    //     window.location.href='https://web.animaker.'+xtnsnList[langList.findIndex(checkUserLang)]+'/';
+          
+    //   }else{
+        
+    //   }
+    //   console.log('Preferred Language Page : https://web.animaker.'+xtnsnList[langList.findIndex(checkUserLang)]+'/');
+    // }else{
+    //   if(document.referrer != 'https://www.animaker.com/'){
+    //     window.location.href="https://www.animaker.com/";
+    //   }else{
+
+    //   }
+    //   console.log('Default Language Page : https://www.animaker.com/');
+    // }
+
+    // function checkUserLang(currentLang){
+    //   if(currentLang == userLang) {
+    //     return true;
+    //   }else{
+    //     return false;
+    //   }
+    // }
+
+    //FIND THE BROKEN URL
+    function isUrlBroken(url){
+
+    }
+    // <ul class="nav-dropdown nav-submenu" style="display: none; right: 0px;">
+    //     <li class=""><a href="https://www.animaker.com/" target="_blank">English</a></li>
+    //     <li class=""><a href="https://www.animaker.es/" target="_blank">Español</a></li>
+    //     <li class=""><a href="https://www.animaker.co/" target="_blank">Português</a></li>
+    //     <li class=""><a href="https://www.animaker.de/" target="_blank">Deutsch</a></li>
+    //     <li class=""><a href="https://www.animaker.fr/" target="_blank">Français</a></li>
+    //     <li class=""><a href="https://www.animaker.kr/" target="_blank">한국어</a></li>
+    //     <li class=""><a href="https://www.animaker.ru/" target="_blank">Pусский</a></li>
+    //     <li class=""><a href="https://www.animaker.it/" target="_blank">Italiano</a></li>
+    //     <li class=""><a href="https://www.animaker.jp/" target="_blank">日本人</a></li>
+    //     <li class=""><a href="https://www.animaker.pl/" target="_blank">polski</a></li>
+    //     <li class=""><a href="https://www.animaker.com/nl" target="_blank">Nederlands</a></li>
+    //     <li class=""><a href="https://www.animaker.hk/" target="_blank">繁體中文</a></li>                      
+    // </ul>      
+  })
+
+
+  var x,y;
+  function onpageload(event){
+    x = event.clientX;
+    y = event.clientY;
+  }
+
+  function animatebackgroundelements(event){
+    // console.log("check123");
+
+    x1=event.clientX;
+    y1 = event.clientY;
+
+    if(x1>x || y1>y){
+        $(".doggy").css("animation", "animateddogbackground 2s ease-in-out infinite alternate")
+        $(".maker").css("animation", "animateddogbackground 2s ease-in-out infinite alternate")
+    }
+    else{
+        $(".doggy").css("animation", "animateddogbackground 2s ease-in-out infinite alternate")
+        $(".maker").css("animation", "animateddogbackground 2s ease-in-out infinite alternate")
+    }
+
+    x = event.clientX;
+    y = event.clientY;
+
+  }
+  
+
+
+
+
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      console.log('Home Page Dom Ready');
+
+      // HIDE HELOBAR BY DEFAULT
+      $('.header_helobar_div .helobar').hide();
+      $('header.header_area').css('top','0');
+      
+      // PRODUCT CAROUSAL CONTENT
+      const swiper1 = new Swiper('.product-carousal-content .swiper', {
+        // Optional parameters
+        loop: true,
+        allowTouchMove:false,
+        speed:1200,
+        spaceBetween:30,
+
+        
+        // Navigation arrows
+        navigation: {
+          nextEl: '.swiper-button-next',
+          prevEl: '.swiper-button-prev',
+        },
+
+      });
+
+
+      $('.product-carousal-content ul.blog-head > li').on('click', function() {
+          $('.product-carousal-content ul.blog-head > li').removeClass('active');
+          // console.log($(this).index());
+          let clickedIndex = $(this).index();
+          swiper1.slideToLoop(clickedIndex);
+          setTimeout(function(){
+            let currentChild = clickedIndex+1;
+            let selector = '.product-carousal-content ul.blog-head > li:nth-child('+currentChild+')';
+            $(selector).addClass('active');
+          },0)
+      });
+
+      // TESTIMONIAL CAROUSAL SECTIONS
+      
+      const swiper2 = new Swiper('.animaker-testimonials .swiper', {
+        // Optional parameters
+        loop: true,
+        allowTouchMove:false,
+        speed:1200,
+        spaceBetween:30,
+        
+        // Navigation arrows
+        navigation: {
+          nextEl: '.animaker-testimonials .swiper-button-next',
+          prevEl: '.animaker-testimonials .swiper-button-prev',
+        },
+
+      });
+
+      // BLOG CAROUSAL CTA
+      
+      const swiper3 = new Swiper('.swiper.blog', {
+        // Optional parameters
+        // loop: true,
+        slidesPerView:3,
+        slidesPerGroup:3,
+        // slidesPerGroupSkip: 2,
+        allowTouchMove:false,
+        spaceBetween:30,
+        speed:1200,
+
+      });
+
+      $('.blog-link ul.blog-head > li').on('click', function() {
+          $('.blog-link ul.blog-head > li').removeClass('active');
+          // console.log($(this).index());
+          let clickedIndex = $(this).index();
+          let nextIndex;
+          if (clickedIndex == 0){
+            nextIndex = 0;
+          }else if(clickedIndex == 1){
+            nextIndex = 3;
+          }else if(clickedIndex == 2){
+            nextIndex = 6;
+          }
+          swiper3.slideTo(nextIndex);
+          setTimeout(function(){
+            let currentChild = clickedIndex+1;
+            let selector = '.blog-link ul.blog-head > li:nth-child('+currentChild+')';
+            $(selector).addClass('active');
+          },0)
+      });
+
+      AOS.init({
+          duration: 1200,
+          disable: 'mobile',
+        });
+
+
+      // .product-carousal-content.icon-left-arrow
+      // .product-carousal-content.icon-right-arrow
+
+      // PRODUCT CAROUSAL HORIZONTAL NAVIGATION FOR MOBILE
+      var button = document.getElementById('prod-next');
+        button.onclick = function () {
+            var container = document.getElementById('prod-container');
+            sideScroll(container,'right',25,100,10);
+        };
+
+        var back = document.getElementById('prod-prev');
+        back.onclick = function () {
+            var container = document.getElementById('prod-container');
+            sideScroll(container,'left',25,100,10);
+        };
+
+        function sideScroll(element,direction,speed,distance,step){
+            scrollAmount = 0;
+            var slideTimer = setInterval(function(){
+                if(direction == 'left'){
+                    element.scrollLeft -= step;
+                } else {
+                    element.scrollLeft += step;
+                }
+                scrollAmount += step;
+                if(scrollAmount >= distance){
+                    window.clearInterval(slideTimer);
+                }
+            }, speed);
+        }
+        
+        var videoSourceHero = 'https://www.animaker.com/Animaker-Home/new-assets/newhome-loop-video.mp4';
+        if ($(window).width() > 768) {
+          console.log('Desktop View');
+          $('video#hero-video-desktop source').attr('src', videoSourceHero);
+          $("video#hero-video-desktop")[0].load();
+        }else {
+          console.log('Mobile View');
+          $('video#hero-video-mobile source').attr('src', videoSourceHero);
+          $("video#hero-video-mobile")[0].load();
+        }
+      
+
+    });
+    
+  </script>
+
+<script src="./sliderSection_files/headerjsnew.js.download" rel="preload"></script>
+
+<script>
+  var intercomLoader = function(){
+  (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/s87fnug5';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);};if(document.readyState==='complete'){l();}else if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+      window.Intercom('boot', {
+        app_id: "s87fnug5",
+      })
+      
+      window.removeEventListener('scroll', intercomLoader)
+  }
+window.addEventListener('scroll', intercomLoader)
+</script>
+ 
+
+
+
+<iframe id="intercom-frame" style="position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important; pointer-events: none;" aria-hidden="true" tabindex="-1" title="Intercom" src="./sliderSection_files/saved_resource.html"></iframe><div class="intercom-lightweight-app"><div class="intercom-lightweight-app-launcher intercom-launcher" role="button" tabindex="0" aria-label="Open Intercom Messenger" aria-live="polite"><div class="intercom-lightweight-app-launcher-icon intercom-lightweight-app-launcher-icon-open"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32"><path d="M28 32s-4.714-1.855-8.527-3.34H3.437C1.54 28.66 0 27.026 0 25.013V3.644C0 1.633 1.54 0 3.437 0h21.125c1.898 0 3.437 1.632 3.437 3.645v18.404H28V32zm-4.139-11.982a.88.88 0 00-1.292-.105c-.03.026-3.015 2.681-8.57 2.681-5.486 0-8.517-2.636-8.571-2.684a.88.88 0 00-1.29.107 1.01 1.01 0 00-.219.708.992.992 0 00.318.664c.142.128 3.537 3.15 9.762 3.15 6.226 0 9.621-3.022 9.763-3.15a.992.992 0 00.317-.664 1.01 1.01 0 00-.218-.707z"></path></svg></div><div class="intercom-lightweight-app-launcher-icon intercom-lightweight-app-launcher-icon-minimize"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M18.601 8.39897C18.269 8.06702 17.7309 8.06702 17.3989 8.39897L12 13.7979L6.60099 8.39897C6.26904 8.06702 5.73086 8.06702 5.39891 8.39897C5.06696 8.73091 5.06696 9.2691 5.39891 9.60105L11.3989 15.601C11.7309 15.933 12.269 15.933 12.601 15.601L18.601 9.60105C18.9329 9.2691 18.9329 8.73091 18.601 8.39897Z" fill="white"></path>
+</svg>
+</div></div><style id="intercom-lightweight-app-style" type="text/css">
+  @keyframes intercom-lightweight-app-launcher {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes intercom-lightweight-app-gradient {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes intercom-lightweight-app-messenger {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    40% {
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .intercom-lightweight-app {
+    position: fixed;
+    z-index: 2147483001;
+    width: 0;
+    height: 0;
+    font-family: intercom-font, "Helvetica Neue", "Apple Color Emoji", Helvetica, Arial, sans-serif;
+  }
+
+  .intercom-lightweight-app-gradient {
+    position: fixed;
+    z-index: 2147483002;
+    width: 500px;
+    height: 500px;
+    bottom: 0;
+    right: 0;
+    pointer-events: none;
+    background: radial-gradient(
+      ellipse at bottom right,
+      rgba(29, 39, 54, 0.16) 0%,
+      rgba(29, 39, 54, 0) 72%);
+    animation: intercom-lightweight-app-gradient 200ms ease-out;
+  }
+
+  .intercom-lightweight-app-launcher {
+    position: fixed;
+    z-index: 2147483003;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    max-width: 48px;
+    width: 48px;
+    max-height: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #916EFA;
+    cursor: pointer;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.06), 0 2px 32px 0 rgba(0, 0, 0, 0.16);
+    transition: transform 167ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    box-sizing: content-box;
+  }
+
+
+  .intercom-lightweight-app-launcher:hover {
+    transition: transform 250ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    transform: scale(1.1)
+  }
+
+  .intercom-lightweight-app-launcher:active {
+    transform: scale(0.85);
+    transition: transform 134ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+
+
+  .intercom-lightweight-app-launcher:focus {
+    outline: none;
+
+    
+  }
+
+  .intercom-lightweight-app-launcher-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48px;
+    height: 48px;
+    transition: transform 100ms linear, opacity 80ms linear;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg {
+    height: 44px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-custom-icon-open {
+    max-height: 24px;
+    max-width: 24px;
+
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize {
+    
+        opacity: 0;
+        transform: rotate(-60deg) scale(0);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-messenger {
+    position: fixed;
+    z-index: 2147483003;
+    overflow: hidden;
+    background-color: white;
+    animation: intercom-lightweight-app-messenger 250ms cubic-bezier(0, 1, 1, 1);
+    transform-origin: bottom right;
+
+    
+        width: 400px;
+        height: calc(100% - 104px);
+        max-height: 704px;
+        min-height: 250px;
+        right: 20px;
+        bottom: 84px;
+        box-shadow: 0 5px 40px rgba(0,0,0,0.16);
+      
+
+    border-radius: 16px;
+  }
+
+  .intercom-lightweight-app-messenger-header {
+    height: 64px;
+    border-bottom: none;
+    background: #916EFA
+
+    
+  }
+
+  .intercom-lightweight-app-messenger-footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
+    
+  }
+
+  @media print {
+    .intercom-lightweight-app {
+      display: none;
+    }
+  }
+</style></div></body></html>
