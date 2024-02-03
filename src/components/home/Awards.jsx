@@ -7,22 +7,24 @@ export default function Awards() {
             <div className='mx-auto'>
 
                 <video
-                    // controls
                     loop
                     autoPlay
-                    width="1000" height="auto"
+                    muted
+                    width="1000"
+                    height="auto"
                     className='relative bottom-36 rounded-xl mx-auto shadow-lg hidden md:block'
                 >
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
+
             </div>
 
             {/* the div below the video tag */}
             <div className='md:flex justify-between px-3 md:px-5 py-5' data-aos="zoom-in-up" data-aos-duration="1000">
 
                 {/* Right div */}
-                
+
                 <div>
                     <h3 className='text-xl font-bold  md:text-start'> Awards Galore!</h3>
                     <p className='mx-auto sm:text-center md:text-start text-zinc-400 md:w-[300px]'>Animaker was voted as the No.4 Best Design Product of the World.</p>

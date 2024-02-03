@@ -30,11 +30,11 @@ export default function Header() {
                     <img src={logo} alt='logo' className='w-[180px]' />
                 </div>
                 <div>
-                    <ul className='flex gap-x-5 hover:cursor-pointer'>
-                        <li>Product</li>
-                        <li>Resources</li>
-                        <li>Features</li>
-                        <li>Pricing</li>
+                    <ul className='flex gap-x-5 font-semibold hover:cursor-pointer'>
+                        <li className='hover:text-[#ffa56d] hover:scale-105 duration-200'>Product</li>
+                        <li className='hover:text-[#ffa56d] hover:scale-105 duration-200'>Resources</li>
+                        <li className='hover:text-[#ffa56d] hover:scale-105 duration-200'>Features</li>
+                        <li className='hover:text-[#ffa56d] hover:scale-105 duration-200'>Pricing</li>
                     </ul>
                 </div>
                 <div className='flex gap-x-5'>
@@ -88,19 +88,19 @@ export default function Header() {
                 >
                     <ul className='block items-center gap-x-11 flex-wrap'>
 
-                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:transition-all ease-in-out duration-300'>
+                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:text-[#ffa56d] hover:scale-105 duration-200'>
                             Product
                         </li>
 
-                        <li className='text-[18px] py-2 md:text-[24px] border-b-2 my-2  hover:transition-all ease-in-out duration-300'>
+                        <li className='text-[18px] py-2 md:text-[24px] border-b-2 my-2  hover:text-[#ffa56d] hover:scale-105 duration-200'>
                             Resources
                         </li>
 
-                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:transition-all ease-in-out duration-300 xl:block'>
+                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:text-[#ffa56d] hover:scale-105 duration-200'>
                             Features
                         </li>
 
-                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:transition-all ease-in-out duration-300'>
+                        <li className='text-[18px] py-2 md:text-[24px]  border-b-2 my-2 hover:text-[#ffa56d] hover:scale-105 duration-200'>
                             Pricing
                         </li>
 

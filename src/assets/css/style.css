@@ -12,33 +12,46 @@ header, footer{
 @tailwind components;
 @tailwind utilities;
 
-/* Add this CSS to your styles or style tag */
-/* In your CSS or Tailwind CSS configuration file */
-.border-gradient-purple-pink {
-    /* border-image: linear-gradient(to right, #8a2be2, #ff69b4);
-    border-image-slice: 1; */
-    /* border-radius: 50px; */
-}
-.btn-style{
-    /* border-top-left-radius: 50px !important;
-    border-top-right-radius: 50px !important; */
-    
-}
 .gradient-border {
-    padding: 2px; /* Adjust based on border thickness */
-    background: linear-gradient(45deg, red, blue); /* Your gradient */
-    display: inline-block; /* To fit the size of the button */
-    border-radius: 80px; /* Match the border-radius of the button if any */
+    padding: 2px;
+    background: linear-gradient(45deg, purple, pink);
+    display: inline-block;
+    border-radius: 80px; 
   }
   .inner-button {
-    background-color: white; /* Button color */
-    border: none; /* Remove default border */
-    padding: 10px 20px; /* Adjust based on your needs */
-    border-radius: 80px; /* Match the wrapper's border-radius if any */
-    cursor: pointer; /* Optional: Changes the cursor on hover */
+    border: none; 
+    padding: 10px 60px;
+    border-radius: 80px; 
+    cursor: pointer; 
   }
   
+  /* In your CSS or Tailwind CSS configuration file */
+.shadow-purple:hover {
+  box-shadow: 0 4px 6px -1px rgba(127, 0, 255, 0.1), 0 2px 4px -1px rgba(127, 0, 255, 0.06);
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
   
+ul li::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0;
+  background-color: #ffa56d;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  /* transition: width 0.3s ease; */
+}
+
+ul li:hover::after {
+  width: 100%;
+}
+
   
   
 

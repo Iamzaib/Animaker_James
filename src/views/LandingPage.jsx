@@ -22,7 +22,7 @@ export default function LandingPage() {
           <WhyAnimaker />
           <Template />
           <EditingTools />
-          {/* <TopProductsSection /> */}
+          <TopProductsSection />
           <Reviews/>
           <FaqSection />
           <FirstVideo/>
