@@ -35,15 +35,19 @@ const WhyAnimaker = () => {
                         </video>
                     </div>
                     {/* Video-2 Video 3 Outer-Div */}
-                    <div className=" flex flex-col md:flex-row mx-auto  border-none gap-2">
+                    <div className=" flex flex-col md:flex-row mx-auto  border-none md:gap-2 gap-4 ">
                         {/* Video-2  */}
-                        <div className=" md:mt-[-100px] mt-[-50px] ">
-                            <div className=" relative top-32 ">
-                                <h2 className=" ml-4 font-bold text-[#0A0F40] md:text-start text-center text-[25px] md:w-[70%]  ">
-                                    Super Powerful Character Builder
+                        <div className="  mt-[-90px] ">
+                            <div className=" relative top-32  ">
+                                <h2
+                                    className="  font-bold text-[#0A0F40] flex justify-center md:justify-start md:ml-12 
+                                 text-[25px] "
+                                >
+                                    Super Powerfull <br /> Character Builder
                                 </h2>
-                                <p className=" ml-4 mt-2 md:w-[70%] text-[#787346] md:text-start text-center font-semibold">
-                                    Take it for a spin and build billions of
+                                <p className="  text-[#787346] font-semibold w-[80%] flex text-center md:justify-start  mx-auto">
+                                    Take it for a spin and build billions{" "}
+                                    <br className=" hidden md:block" /> of
                                     unique characters for your brand.
                                 </p>
                             </div>
@@ -60,17 +64,22 @@ const WhyAnimaker = () => {
                                 Your browser does not support the video tag.
                             </video>
                         </div>
-                        <div className=" md:mt-[-100px] ">
+                        <div className="  mt-[-90px] ">
                             {/* Video-3  */}
-                            <div className=" relative top-32   ">
-                                <h2 className="  font-bold text-[#0A0F40] md:text-start text-center text-[25px] md:w-[70%]  ">
-                                    World’s largest asset and animation library
+                            <div className=" relative sm:top-32 top-44 mx-auto  ">
+                                <h2
+                                    className="  font-bold text-[#ffffff] flex justify-center md:ml-4
+                                 text-[25px] "
+                                >
+                                    World’s largest asset <br /> and animation library
                                 </h2>
-                                <p className="  mt-2 md:w-[70%] text-[#787346] md:text-start text-center font-semibold">
-                                    Take it for a spin and build billions of
-                                    unique characters for your brand.
+                                <p className="  text-[#787346] font-semibold     md:w-[100%] w-[70%] flex  justify-center mx-auto">
+                                    100M+ Stock media, 70K+ icons, and 30K+ <br className=" hidden md:block" />
+                                    music tracks & stickers to fuel your
+                                    creativity.
                                 </p>
                             </div>
+
                             <video
                                 loop
                                 // controls
