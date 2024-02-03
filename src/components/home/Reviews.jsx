@@ -8,7 +8,7 @@ import image from '../../assets/img/review-img1.webp'
 export default function Reviews() {
     return (
         // This is outer div
-        <div className='mt-5' >
+        <div className='mt-5'>
 
             {/* This div is for heading */}
             <div >
@@ -17,7 +17,7 @@ export default function Reviews() {
 
                 {/* This div is for review */}
 
-                <div className='bg-white md:flex mx-auto rounded-xl mt-5 py-24'>
+                <div className='bg-white md:flex mx-auto rounded-xl mt-5 py-24' data-aos="zoom-in-up" data-aos-duration="1000">
                     {/* This is the left side of the review */}
                     <div className='md:w-[50%] px-5 py-3'>
                         <img
@@ -53,11 +53,12 @@ export default function Reviews() {
                     </div>
 
                 </div>
-            </div>
+                </div>
+          
 
             {/* This div is for three logo and etc */}
 
-            <div className='md:flex justify-between items-center py-5 px-3'>
+            <div className='md:flex justify-between items-center py-5 px-3' data-aos="zoom-in-up" data-aos-duration="1000">
                 <p className='text-2xl font-semibold sm:text-center md:text-start py-3'>All the security you will ever need</p>
                 <div className='md:flex justify-between  gap-x-4'>
 

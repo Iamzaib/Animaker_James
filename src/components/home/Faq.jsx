@@ -13,7 +13,7 @@ const Faq = ({ question, answer }) => {
         // This is outer div
         <div>
 
-            <Card className="mb-3 border-0 p-2 bg-zinc-200">
+            <Card className="mb-3 border-0 p-2 bg-zinc-200" data-aos="zoom-in-up" data-aos-duration="1000">
                 <CardHeader onClick={toggleAccordion} className="cursor-pointer bg-zinc-200">
                     <div className="flex items-center justify-between">
                         <div className="text-xl">
@@ -62,10 +62,10 @@ const FaqSection = () => {
     return (
         // This is the outer div
         <div className="">
-            <h1 className='text-center text-2xl  md:text-5xl font-bold  mx-auto mt-6 mb-4'>
+            <h1 className='text-center text-2xl  md:text-5xl font-bold  mx-auto mt-6 mb-4' data-aos="zoom-in-up" data-aos-duration="2000">
                 Frequently Asked Questions
             </h1>
-            <div>
+            <div data-aos="zoom-in-up" data-aos-duration="2000">
                 {faqs.map((faq, index) => (
                     <Faq key={index} question={faq.question} answer={faq.answer} />
                 ))}

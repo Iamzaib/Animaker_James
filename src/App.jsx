@@ -4,8 +4,17 @@ import Auth from "./layout/Auth";
 import Main from "./layout/Main";
 import routes from "./routes";
 import store from "./store";
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from "react";
 
 function App() {
+    useEffect(() => {
+        AOS.init({
+            duration: 1000, 
+        });
+        // AOS.refresh();
+    }, []);
     return (
         <>
             <Provider store={store}>
