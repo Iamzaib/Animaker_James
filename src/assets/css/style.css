@@ -11,3 +11,47 @@ header, footer{
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.gradient-border {
+    padding: 2px;
+    background: linear-gradient(45deg, purple, pink);
+    display: inline-block;
+    border-radius: 80px; 
+  }
+  .inner-button {
+    border: none; 
+    padding: 10px 60px;
+    border-radius: 80px; 
+    cursor: pointer; 
+  }
+  
+  /* In your CSS or Tailwind CSS configuration file */
+.shadow-purple:hover {
+  box-shadow: 0 4px 6px -1px rgba(127, 0, 255, 0.1), 0 2px 4px -1px rgba(127, 0, 255, 0.06);
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+  
+ul li::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0;
+  background-color: #ffa56d;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  /* transition: width 0.3s ease; */
+}
+
+ul li:hover::after {
+  width: 100%;
+}
+
+  
+  
+
