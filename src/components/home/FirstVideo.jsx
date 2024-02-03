@@ -17,9 +17,13 @@ export default function FirstVideo() {
     Create For Free
 </button> */}
 
-                <button class="border-2 h-[58px] hero-btn sm:w-[314px] w-[200px] text-white rounded-full btn-style font-bold sm:text-[25px] text-[15px]  border-gradient-purple-pink  bg-[#5925C3]  px-4 py-2 mt-4 transition-all duration-300">
+                {/* <button class="border-2 h-[58px] hero-btn sm:w-[314px] w-[200px] text-white rounded-full btn-style font-bold sm:text-[25px] text-[15px]  border-gradient-purple-pink  bg-[#5925C3]  px-4 py-2 mt-4 transition-all duration-300">
                     Create for free
-                </button>
+                </button> */}
+
+<div className="gradient-border">
+      <button className="inner-button">Click Me</button>
+    </div>
 
             </div>
         </div>
