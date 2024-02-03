@@ -6,14 +6,19 @@ const HeroSection = () => {
         <div className="flex flex-col lg:w-full sm:w-[80%] justify-center items-center font-sans gap-4">
           <h1 className="w-fit text-center h-fit text-[40px] md:text-[60px] font-extrabold text-white mb-[16px]">
             The Future of <br />
-            Video Making Starts Here. 
+            Video Making Starts Here.
           </h1>
           <p className="text-center font-semibold text-[18px] text-white w-[80%]">
             A breakthrough AI-Powered platform to create Animation and Live-Action videos for non-designers & professionals from early-stage startups to seasoned Fortune 500 companies.
           </p>
-          <a href="">
-            <button className="h-[58px]  sm:w-[314px] w-[200px] text-white font-bold sm:text-[25px] text-[15px] border-4 rounded-full border-[#FF7DAC] border-r-[#FCB654] border-l-[#FCB654] to-90% text-center">Create for Free</button>
-          </a>
+
+          {/* <button className="h-[58px]  sm:w-[314px] w-[200px] text-white font-bold sm:text-[25px] text-[15px] border-4 rounded-full border-purple-400 border-r-[#6944f0] border-l-[#ec49bb] to-90% text-center">Create for Free</button> */}
+          <button class="border-2 h-[58px] hero-btn sm:w-[314px] w-[200px] text-white font-bold sm:text-[25px] text-[15px]  border-gradient-purple-pink  bg-[#5925C3]  px-4 py-2 mt-4 transition-all duration-300">
+            Create for free
+          </button>
+
+
+
         </div>
         <div className="inline-flex h-[100px] justify-center gap-4"> {/* Set the height to 100px */}
           <div className="flex flex-col justify-center">

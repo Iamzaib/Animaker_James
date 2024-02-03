@@ -11,3 +11,17 @@ header, footer{
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Add this CSS to your styles or style tag */
+/* In your CSS or Tailwind CSS configuration file */
+.border-gradient-purple-pink {
+    /* border-image: linear-gradient(to right, #8a2be2, #ff69b4);
+    border-image-slice: 1; */
+    /* border-radius: 50px; */
+}
+.btn-style{
+    /* border-top-left-radius: 50px !important;
+    border-top-right-radius: 50px !important; */
+    
+}
+

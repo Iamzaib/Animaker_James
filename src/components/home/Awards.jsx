@@ -19,16 +19,17 @@ export default function Awards() {
             </div>
 
             {/* the div below the video tag */}
-            <div className='md:flex justify-between px-3 md:px-5 py-5'>
+            <div className='md:flex justify-between px-3 md:px-5 py-5' data-aos="zoom-in-up" data-aos-duration="1000">
 
                 {/* Right div */}
-                <div className=''>
+                
+                <div>
                     <h3 className='text-xl font-bold  md:text-start'> Awards Galore!</h3>
                     <p className='mx-auto sm:text-center md:text-start text-zinc-400 md:w-[300px]'>Animaker was voted as the No.4 Best Design Product of the World.</p>
                 </div>
 
                 {/* Left div */}
-                <div className=''>
+                <div>
                     <img src="https://www.animaker.com/Animaker-Home/new-assets/Badges-Stack.svg" alt="logo" className='mx-auto' />
                 </div>
             </div>
