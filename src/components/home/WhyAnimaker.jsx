@@ -24,6 +24,7 @@ const WhyAnimaker = () => {
                     {/* Video 1 */}
                     <div className="mx-auto border ">
                         <video
+                        // controls
                             loop
                             autoPlay
                             width="1000"

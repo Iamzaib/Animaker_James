@@ -1,7 +1,7 @@
 import React from "react";
 const HeroSection = () => {
   return (
-    <div className="pt-20 pb-20 md:pb-[300px] bg-gradient-to-b from-[#2F37CC] to-[#5925C3]  w-[100%] flex justify-center">
+    <div className="pt-36 pb-20 md:pb-[300px] bg-gradient-to-b from-[#2F37CC] to-[#5925C3]  w-[100%] flex justify-center">
       <div className="flex flex-col w-[95%]  items-center justify-between">
         <div className="flex flex-col lg:w-full sm:w-[80%] justify-center items-center font-sans gap-4">
           <h1 className="w-fit text-center h-fit text-[40px] md:text-[60px] font-extrabold text-white mb-[16px]">
