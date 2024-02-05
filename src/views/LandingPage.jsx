@@ -23,13 +23,11 @@ export default function LandingPage() {
           <WhyAnimaker />
           <Template />
           <EditingTools />
-          <SliderSection />
+          <SliderSection/>
           <TopProductsSection />
           <Reviews/>
           <FaqSection />
           <FirstVideo/>
-
-          
         </div>
       </div>
 

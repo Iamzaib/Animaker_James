@@ -18,9 +18,11 @@ export default function Template() {
             <div className='mt-4 p-3'>
                 <video
                     // controls
-                    className=' rounded-xl'
+                    
                     loop 
                     autoPlay
+                    muted
+                    className=' rounded-xl'
                 >
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.

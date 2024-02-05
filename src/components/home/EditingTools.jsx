@@ -16,9 +16,11 @@ export default function EditingTools() {
             <div className=''>
                 <video
                     // controls
-                    className='w-[100%] rounded-xl'
+                    
                     loop
                     autoPlay
+                    muted
+                    className='w-[100%] rounded-xl'
                 >
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.

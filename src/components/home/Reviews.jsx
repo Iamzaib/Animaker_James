@@ -60,7 +60,7 @@ export default function Reviews() {
 
             <div className='md:flex justify-between items-center py-5 px-3' data-aos="zoom-in-up" data-aos-duration="1000">
                 <p className='text-2xl font-semibold sm:text-center md:text-start py-3'>All the security you will ever need</p>
-                <div className='md:flex justify-between  gap-x-4'>
+                <div className='md:flex justify-between  gap-x-2 px-3'>
 
                     {/* First image */}
                     <img 

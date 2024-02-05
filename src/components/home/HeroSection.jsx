@@ -22,7 +22,7 @@ const HeroSection = () => {
           </p>
 
           <div className="gradient-border mt-5">
-            <button className="inner-button bg-[#482dc7] font-bold text-white text-[26px]">Create for free</button>
+            <button className="inner-button bg-[#482dc7] py-2 px-[30px] lg:px-[50px] lg:py-10 font-bold text-white text-[26px]">Create for free</button>
           </div>
         </div>
 
