@@ -90,7 +90,7 @@ export default function Reviews() {
                         <img
                             src={data[activeIndex].picture}
                             alt="image"
-                            className="rounded-full h-[180px] w-[180px] sm:mx-auto md:mx-1"
+                            className="rounded-full object-cover h-[180px] w-[180px] sm:mx-auto md:mx-1"
                         />
                         <h3 className="font-bold text-2xl sm:text-center md:text-start">
                             {data[activeIndex].heading}
