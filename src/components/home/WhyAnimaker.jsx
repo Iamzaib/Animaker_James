@@ -48,12 +48,12 @@ const WhyAnimaker = () => {
                         <div className="  mt-[-90px] ">
                             <div className=" relative top-32  ">
                                 <h2
-                                    className="  font-bold text-[#0A0F40] flex justify-center md:justify-start md:ml-12 
+                                    className="  font-bold text-[#0A0F40] flex justify-center  
                                  text-[25px] "
                                 >
                                     Super Powerfull <br /> Character Builder
                                 </h2>
-                                <p className="  text-[#787346] font-semibold w-[80%] flex text-center md:justify-start  mx-auto">
+                                <p className="  text-[#787346] font-semibold w-[80%] flex text-center justify-center  mx-auto">
                                     Take it for a spin and build billions{" "}
                                     <br className=" hidden md:block" /> of
                                     unique characters for your brand.
