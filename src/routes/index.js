@@ -1,5 +1,7 @@
+import Animate from '../views/Animate';
 import AuthView from '../views/auth/AuthView';
 import MainView from '../views/MainView';
+import LandingPage from '../views/LandingPage';
 
 
 let routes = [
@@ -8,9 +10,19 @@ let routes = [
 		component: AuthView,
 		layout: 'auth',
 	},
+	// {
+	// 	path: '/',
+	// 	component: MainView,
+	// 	layout: 'main',
+	// },
 	{
-		path: '/',
-		component: MainView,
+		path:"/",
+		component: LandingPage,
+		layout:"main",
+	},
+	{
+		path:"/animate",
+		component: Animate,
 		layout: 'main',
 	},
 ];
