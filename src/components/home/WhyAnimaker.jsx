@@ -22,10 +22,10 @@ const WhyAnimaker = () => {
                 {/* Video Tags */}
                 <div className="flex flex-col w-full mx-auto h-fit p-2 gap-2 ">
                     {/* Video 1 */}
-                    <div className="  md:bg-opacity-0 bg-[white] rounded-3xl flex flex-col w-full ">
-                        <div className='md:w-[70%] md:relative md:text-[#0A0F40] left-32 top-44 p-2  '>
+                    <div className="  md:bg-opacity-0 bg-[white] rounded-3xl  flex flex-col w-full ">
+                        <div className=' md:relative md:text-[#0A0F40] xl:left-32 max-w-[700px] lg:left-20 left-12 top-44 p-2  '>
                             <h1 className='text-2xl md:text-3xl font-bold mb-2 flex text-center '>Effortless Creation  Powered by Animaker AI</h1>
-                            <p className='md:w-[55%] text-xl flex justify-center md:justify-start text-[#bcc5ce]'>Armed with AI powered tools, any person  can now create a studio quality animated video in an instant</p>
+                            <p className=' text-xl flex justify-center md:justify-start text-[#bcc5ce]'>Armed with AI powered tools, any person  can now <br className=" hidden md:block" /> create a studio quality animated video in an instant</p>
                         </div>
                         <div class="">
                             <video
