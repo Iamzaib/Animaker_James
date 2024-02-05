@@ -81,15 +81,16 @@ export default function Reviews() {
                 {/* This div is for review */}
 
                 <div
-                    className="bg-white md:flex mx-auto rounded-xl mt-5 py-24"
+                    className="bg-white flex flex-col  mx-auto rounded-xl mt-5 py-24"
                     data-aos="zoom-in-up"
                     data-aos-duration="1000"
                 >
+                    <div className=" flex md:flex-row flex-col">
                     <div className="md:w-[50%] px-5 py-3">
                         <img
                             src={data[activeIndex].picture}
                             alt="image"
-                            className="rounded-full w-[180px] sm:mx-auto md:mx-1"
+                            className="rounded-full h-[180px] w-[180px] sm:mx-auto md:mx-1"
                         />
                         <h3 className="font-bold text-2xl sm:text-center md:text-start">
                             {data[activeIndex].heading}
@@ -97,7 +98,7 @@ export default function Reviews() {
                         <h5 className="font-semibold text-lg pt-2 sm:text-center md:text-start">
                             {data[activeIndex].heading2}
                         </h5>
-                        <p className="text-lg mt-4 text-gray-500 sm:text-center md:text-start">
+                        <p className="text-lg mt-4 text-gray-500 sm:text-center md:text-start h-[100px]">
                             {data[activeIndex].paragraph}
                         </p>
                     </div>
@@ -117,7 +118,12 @@ export default function Reviews() {
                                 {data[activeIndex].perPara}
                             </p>
                             </div>
-                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2">
+
+                        
+                    </div>
+                    </div>
+                    
+                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%]">
                        
                             <button  onClick={() => {
                                         handleClickMinus(activeIndex);
@@ -144,9 +150,8 @@ export default function Reviews() {
                                 </button>
                            
                     </div>
-                        
                     </div>
-                </div>
+                
             </div>
 
             {/* This div is for three logo and etc */}

@@ -52,5 +52,64 @@ ul li:hover::after {
 }
 
   
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.logos {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  position: relative;
+}
+
+.logos:before,
+.logos:after {
+  position: absolute;
+  top: 0;
+  width: 250px;
+  content: "";
+  z-index: 2;
+}
+
+.logos:before {
+  left: 0;
+
+}
+
+.logos:after {
+  right: 0;
+}
+
+.logos:hover .logos-slide {
+  animation-play-state: paused;
+}
+
+.logos-slide {
+  display: flex;
+  flex-direction: row;
+  animation: 16s slide infinite linear;
+}
+
+.logos-slide img {
+  height: 50px;
+  margin: 0 40px;
+}
   
 
