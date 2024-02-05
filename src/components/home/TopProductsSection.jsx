@@ -9,6 +9,7 @@ import image7 from "../../assets/img/topimg7.png";
 import image8 from "../../assets/img/topimg8.png";
 import logo from "../../assets/img/animaker-logo.png";
 import { IoIosArrowDropright } from "react-icons/io";
+// import { IoIosArrowForward } from "react-icons/io";
 
 export default function TopProductsSection() {
   const data = [
@@ -19,37 +20,37 @@ export default function TopProductsSection() {
     },
     {
       id: 1,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image3,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
     {
       id: 2,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image4,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
     {
       id: 3,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image5,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
     {
       id: 4,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image6,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
     {
       id: 5,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image7,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
     {
       id: 6,
-      icon: <IoIosArrowDropright />,
+      icon: <IoIosArrowDropright size={30}/>,
       picture: image8,
       text: "Dive deep into Animakers ecosystem of Products designed for every type of creator"
     },
@@ -86,13 +87,16 @@ export default function TopProductsSection() {
         {data.slice(1).map((item) => (
           <div key={item.id} className="cursor-pointer mx-auto" data-aos="zoom-in-up" data-aos-duration="2000">
             <div className="relative hover:scale-95 duration-200">
+            <span className='flex relative justify-end top-12 pr-8 z-10 text-white rounded-full'>{item.icon}</span>
               <img
                 src={item.picture}
                 className="rounded-xl xl:max-w-[350px] w-fit h-auto"
                 alt={`Animaker Image ${item.id}`}
                 data-aos="zoom-in-up" data-aos-duration="2000"
               />
+              
               <div className="absolute  w-full h-full flex ">
+
               
                 <p className="relative bottom-28 px-3 lg:px-0 font-semibold text-[12px] sm:text-[15px] md:text-[15px] text-black ">
                   {item.text}
