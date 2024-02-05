@@ -78,7 +78,7 @@ export default function AnimakerPage() {
                 </div>
 
                 {/* This div is for the video that is made after apply */}
-                <div className='col-span-3 lg:col-span-1'>
+                <div className='col-span-3 lg:col-span-1 px-2'>
                     <video
                         src={video}
                         className='w-[300px]'
