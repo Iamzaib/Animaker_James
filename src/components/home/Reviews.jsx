@@ -90,7 +90,7 @@ export default function Reviews() {
                         <img
                             src={data[activeIndex].picture}
                             alt="image"
-                            className="rounded-full h-[180px] w-[180px] sm:mx-auto md:mx-1"
+                            className="rounded-full object-cover h-[180px] w-[180px] sm:mx-auto md:mx-1"
                         />
                         <h3 className="font-bold text-2xl sm:text-center md:text-start">
                             {data[activeIndex].heading}
@@ -103,7 +103,7 @@ export default function Reviews() {
                         </p>
                     </div>
 
-                    <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200">
+                    <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200 md:mt-0 mt-28">
                         <div className="flex flex-col justify-center p-5">
                             <h1 className="font-bold text-[65px]">
                                 {data[activeIndex].Addition}
