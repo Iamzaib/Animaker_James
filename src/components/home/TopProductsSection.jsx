@@ -75,9 +75,9 @@ export default function TopProductsSection() {
             <img src={image} alt="" />
           </div>
 
-          <div className='lg:w-[40%] hover:scale-105 duration-200 hover:cursor-pointer mt-4 ' data-aos="zoom-in-up" data-aos-duration="2000">
+          <div className='lg:w-[40%] hover:scale-105 duration-200 hover:cursor-pointer sm:mt-4 md:mt-1 lg:mt-24 ' data-aos="zoom-in-up" data-aos-duration="2000">
             <p className='relative px-4 top-36 w-[80%] mx-auto text-white font-semibold text-[19px]'>Record screen, webcam, or both with audio to create engaging video content</p>
-            <img src={image2} alt="" className='lg:w-[330px] lg:h-[260px] mx-auto ' />
+            <img src={image2} alt="" className='lg:w-[330px] lg:h-[290px] mx-auto ' />
           </div>
         </div>
       </div>
@@ -85,7 +85,7 @@ export default function TopProductsSection() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-8 mt-8">
         {data.slice(1).map((item) => (
           <div key={item.id} className="cursor-pointer mx-auto" data-aos="zoom-in-up" data-aos-duration="2000">
-            <div className="relative hover:scale-105 duration-200">
+            <div className="relative hover:scale-95 duration-200">
               <img
                 src={item.picture}
                 className="rounded-xl xl:max-w-[350px] w-fit h-auto"

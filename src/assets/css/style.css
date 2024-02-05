@@ -104,7 +104,7 @@ body {
 .logos-slide {
   display: flex;
   flex-direction: row;
-  animation: 16s slide infinite linear;
+  animation: 10s slide infinite linear;
 }
 
 .logos-slide img {

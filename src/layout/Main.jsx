@@ -6,8 +6,6 @@ const Main = props => {
 		<>
 			<Header />
 			{props.children}
-			{/* <footer>Main Footer</footer> */}
-			{/* <LandingPage/> */}
 			<Footer/>
 		</>
 	);
