@@ -724,20 +724,9 @@ function AnimatePrompt() {
   };
   const getImage = async (filename, subfolder, folderType) => {
     const response = await axios.get(`http://${serverAddress}/view`, {
-      params: { filename, subfolder, type: folderType },
-      responseType: 'arraybuffer'
+      params: { filename, subfolder, type: folderType }
     });
-    console.log("response",response)
-    return new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onloadend = () => {
-        const base64data = reader.result;
-        resolve(base64data);
-      };
-      reader.onerror = reject;
-      const blob = new Blob([response.data], { type: 'image/jpeg' });
-      reader.readAsDataURL(blob);
-    });
+    return response.data;
   };
   const getHistory = async (promptId) => {
     const response = await axios.get(`http://${serverAddress}/history/${promptId}`);
