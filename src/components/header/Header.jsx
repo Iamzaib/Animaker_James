@@ -182,7 +182,7 @@ export default function Header() {
                     <Link to="/animate">
 
                         <button className='bg-gradient-to-r from-[#ff6c10] to-[#ffc450] rounded-full px-3 py-1 font-bold'>
-                            Try for free
+                            Try Demo
                         </button>
                     </Link>
                 </div>
@@ -255,7 +255,7 @@ export default function Header() {
                         <Link to="/animate">
 
                             <button className='bg-gradient-to-r from-[#ff6c10] to-[#ffc450] rounded-full px-3 py-1 font-bold'>
-                                Try for free
+                                Try Demo
                             </button>
                         </Link>
                     </div>
