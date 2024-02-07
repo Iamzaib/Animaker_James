@@ -1,28 +1,28 @@
-import { AUTH_NOTIFICATION, AUTH_SET_LOADING } from "../types";
+import { IMAGE_DATA, LOADER } from "../types";
 
 const initialState = {
-  notification: {
-    message: "",
-    type: "",
-  },
-  loading: false,
+    imageData: null,
+    loading: false,
 };
 
-export default function animakerReducer(state = initialState, { action, payload }) {
-  switch (action) {
-    case AUTH_NOTIFICATION:
-      return {
-        ...state,
-        notification: payload,
-      };
-    case AUTH_SET_LOADING:
-      return {
-        ...state,
-        loading: payload,
-      };
-    default:
-      return {
-        ...state,
-      };
-  }
+export default function animakerReducer(
+    state = initialState,
+    { type, payload }
+) {
+    switch (type) {
+        case IMAGE_DATA:
+            return {
+                ...state,
+                imageData: payload,
+            };
+        case LOADER:
+            return {
+                ...state,
+                loading: payload,
+            };
+        default:
+            return {
+                ...state,
+            };
+    }
 }
