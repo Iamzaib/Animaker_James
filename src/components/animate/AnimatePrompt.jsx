@@ -527,12 +527,19 @@ export default function AnimatePrompt() {
                     }}
                     className="h-[300px] my-2 mx-auto bg-danger rounded-xl w-[300px] bg-white border-dashed border-2 border-gray-600 hover:cursor-pointer"
                 >
-                    <img src={imgFile && URL.createObjectURL(imgFile)} />
-                    {imgFile == "" && (
-                        <FaUpload
-                            size={50}
-                            className="mx-auto relative bottom-44 text-gray-600"
-                        />
+                    {imgFile == "" ? (
+                        <div className="my-5">
+                            <FaUpload
+                                size={50}
+                                className="mx-auto  text-gray-600"
+                            />
+                        </div>
+                    ) : (
+                        <>
+                            <img
+                                src={imgFile && URL.createObjectURL(imgFile)}
+                            />
+                        </>
                     )}
                 </div>
                 <button
@@ -554,6 +561,7 @@ export default function AnimatePrompt() {
             <div className="text-center">
                 <input
                     type="text"
+                    required
                     placeholder="Enter your desired prompt..."
                     value={promptValue}
                     onChange={handleInput}
