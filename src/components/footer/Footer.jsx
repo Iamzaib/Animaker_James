@@ -11,21 +11,21 @@ export default function Footer() {
         // This is the outer div
         <div className='bg-[#0a0f40] pt-20 pb-10 px-4'>
 
-            <h1 className='text-[30px] font-bold text-[#f99420] lg:ml-20 pb-10'>Animaker Use Cases</h1>
+            <h1 className='text-[25px] md:text-[33px] font-bold text-[#f99420] lg:ml-20 pb-10'>Animaker Use Cases</h1>
             <div className='md:flex justify-around gap-x-10'>
                 {/* This div is for first col */}
                 <div>
                     <h1 className='text-white font-bold text-[20px] py-7'>Products</h1>
                     <ul>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Video Maker</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>2D animation softwares</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Whiteboard video maker</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Infographics</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Vertical Video Maker</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Screen Recorder</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>GIF Maker</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Photo Editor</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Animaker</li>
+                        <li className='footer-styling'>Video Maker</li>
+                        <li className='footer-styling'>2D animation softwares</li>
+                        <li className='footer-styling'>Whiteboard video maker</li>
+                        <li className='footer-styling'>Infographics</li>
+                        <li className='footer-styling'>Vertical Video Maker</li>
+                        <li className='footer-styling'>Screen Recorder</li>
+                        <li className='footer-styling'>GIF Maker</li>
+                        <li className='footer-styling'>Photo Editor</li>
+                        <li className='footer-styling'>Animaker</li>
                     </ul>
                 </div>
 
@@ -35,13 +35,13 @@ export default function Footer() {
                 <div>
                     <h1 className='text-white font-bold text-[20px] py-7'>Company</h1>
                     <ul>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>About Us</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Jobs</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Affiliate</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Terms</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Security Policy</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Screen Recorder</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Prees</li>
+                        <li className='footer-styling'>About Us</li>
+                        <li className='footer-styling'>Jobs</li>
+                        <li className='footer-styling'>Affiliate</li>
+                        <li className='footer-styling'>Terms</li>
+                        <li className='footer-styling'>Security Policy</li>
+                        <li className='footer-styling'>Screen Recorder</li>
+                        <li className='footer-styling'>Prees</li>
 
                     </ul>
                 </div>
@@ -51,13 +51,13 @@ export default function Footer() {
                 <div>
                     <h1 className='text-white font-bold text-[20px] py-7'>Support</h1>
                     <ul>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Tutorials</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Templates</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Affiliate</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>FAQ</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Traning</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>Contact</li>
-                        <li className='text-gray-400 text-lg py-1 hover:cursor-pointer'>What's New</li>
+                        <li className='footer-styling'>Tutorials</li>
+                        <li className='footer-styling'>Templates</li>
+                        <li className='footer-styling'>Affiliate</li>
+                        <li className='footer-styling'>FAQ</li>
+                        <li className='footer-styling'>Traning</li>
+                        <li className='footer-styling'>Contact</li>
+                        <li className='footer-styling'>What's New</li>
 
                     </ul>
                 </div>
@@ -67,15 +67,15 @@ export default function Footer() {
                 <div className='w-[250p'>
                     <h1 className='text-white font-bold text-[20px] py-7'>Animaker</h1>
 
-                    <p className='w-[250px] text-gray-400 text-lg py-1 hover:cursor-pointer'>1160 Battery Street Suite 100,
+                    <p className='w-[250px] text-gray-400 hover:text-[#ffa56d] hover:scale-105 duration-200'>1160 Battery Street Suite 100,
                         San Francisco, CA 94111, USA.
                         help@animaker.com</p>
                     <ul className='flex pt-3'>
-                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-white'><FaFacebookF size={20} /></li>
-                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-white'><FaInstagram size={20} /></li>
-                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-white'><FaYoutube size={20} /></li>
-                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-white'><IoLogoTwitter size={20} /></li>
-                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-white'><FaLinkedinIn size={20} /></li>
+                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-[#ffa56d]'><FaFacebookF size={20} /></li>
+                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-[#ffa56d]'><FaInstagram size={20} /></li>
+                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-[#ffa56d]'><FaYoutube size={20} /></li>
+                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-[#ffa56d]'><IoLogoTwitter size={20} /></li>
+                        <li className='text-gray-400 py-1 px-2 hover:cursor-pointer hover:text-[#ffa56d]'><FaLinkedinIn size={20} /></li>
 
                     </ul>
                 </div>

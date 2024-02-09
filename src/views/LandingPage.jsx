@@ -13,11 +13,11 @@ import SliderSection from '../components/home/SliderSection'
 
 export default function LandingPage() {
   return (
-    <div className='bg-gradient-to-b from-[#2543ca] to-[#0a0f40]'>
+    <div className='bg-gradient-to-b from-[#7b22e8] to-[#0a0f40]'>
       <HeroSection />
 
       {/* This div is for wrap the other component */}
-      <div className='bg-zinc-200 py-10 rounded-[120px]'>
+      <div className='bg-zinc-200 py-2 lg:py-10 lg:rounded-[120px]'>
         <div className='lg:mx-36'>
           <Awards />
           <WhyAnimaker />
