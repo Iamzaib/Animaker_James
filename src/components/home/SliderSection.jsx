@@ -25,7 +25,7 @@ const SliderSection = () => {
     const headings = [
         "L&D Course  Creators",
         "Human Resources",
-        "Marketers and Sales Professionals",
+        "Marketers & Sales Professionals",
         "Internal Communications",
         "Everyone Else"
     ]
@@ -45,10 +45,10 @@ const SliderSection = () => {
         <div className="flex flex-col w-full mx-auto h-fit px-2">
             {/* Heading Div */}
             <div className="flex flex-col md:mx-20 mt-24 ">
-                <h1 className="flex justify-center md:justify-start md:text-[55px] text-[40px] bg-gradient-to-b from-[#3939D4] font-sans-serif to-[#8F3CEB] font-extrabold text-transparent bg-clip-text">
+                <h1 className="flex justify-center lg:justify-start text-[33px] md:text-[55px]  bg-gradient-to-b from-[#3939D4] font-sans-serif to-[#8F3CEB] font-extrabold text-transparent bg-clip-text" data-aos="fade-up" data-aos-duration="2000">
                     Who is it for?
                 </h1>
-                <p className="flex justify-center md:justify-start text-[#A7B2BF] md:w-80 text-[25px] text-left md:font-bold mt-2">
+                <p className="flex justify-center lg:justify-start text-[#A7B2BF] lg:w-80 px-2 text-[21px] text-left md:font-bold mt-2" data-aos="fade-up" data-aos-duration="2000">
                     World-class video creation tool for everyone
                 </p>
             </div>
@@ -73,7 +73,8 @@ const SliderSection = () => {
             <div className=" flex md:flex-row flex-col w-full p-1  h-fit bg-white md:mt-32 mt-16 mx-auto rounded-3xl">
                 <div className="md:relative flex  ">
                     {images.map((image, index) => (
-                        <div className="md:relative md:bottom-16 md:left-4 lg:left-6"
+                        <div className="md:relative py-2 md:left-4 lg:left-6"
+                        data-aos="fade-up" data-aos-duration="2000"
                         >
                             {activeIndex === index ?
                                 <><img src={image} className="  object-fit" data-aos="fade-up" data-aos-duration="1000" /></>
@@ -84,14 +85,14 @@ const SliderSection = () => {
                     ))}
                 </div>
                 {/* Headings && Description Div */}
-                <div className="flex flex-col h-full items-center justify-center w-full md:mt-12 gap-4 ">
+                <div className="flex flex-col h-full items-center px-2 justify-center w-full md:mt-12 gap-4 ">
                     <div className="flex  justify-center  ">
                         {headings.map((heading, index) => (
                             <div
                                 key={index}
                             >
                                 {activeIndex === index ?
-                                    <><h2 className="font-bold text-[25px]  text-[#0a0f40] p-4" data-aos="fade-up" data-aos-duration="1000">{heading}</h2></>
+                                    <><h2 className="font-bold  text-[25px]  text-[#0a0f40] p-1 lg:py-4 lg:px-6" data-aos="fade-up" data-aos-duration="2000">{heading}</h2></>
                                     :
                                     ''
                                 }
@@ -106,7 +107,7 @@ const SliderSection = () => {
 
                             >
                                 {activeIndex === index ?
-                                    <><p className="font-normal px-1 text-[18px] mx-auto text-[#0a0f40d8] md:w-96 " data-aos="fade-up" data-aos-duration="1000">{description}</p></>
+                                    <><p className="font-normal flex justify-center items-center px-1 text-[24px] mx-auto text-[#0a0f40d8] md:w-96 " data-aos="fade-up" data-aos-duration="2000">{description}</p></>
                                     :
                                     ''
                                 }

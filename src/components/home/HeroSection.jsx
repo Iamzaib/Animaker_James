@@ -8,8 +8,8 @@ import img3 from "../../assets/img/GDPR.png";
 import HeroImg from "../../assets/img/HomepageOG.png";
 
 const HeroSection = () => {
-    return (
-        <div className="pt-14 pb-20 md:pb-[200px] bg-gradient-to-b from-[#2F37CC] to-[#5925C3]  flex justify-center">
+    return ( 
+        <div className="pt-14 px-4 pb-20 md:pb-[200px] bg-gradient-to-b from-[#2F37CC] to-[#7b22e8]  flex justify-center">
             <div className="flex flex-col w-[90%]  items-center justify-between">
                 <div className="flex flex-col justify-center items-center font-sans gap-4 mx-auto pt-20">
                     <h1 className="  text-center   text-[42px] md:text-[60px] font-extrabold text-white mb-[5px] text-balance">
@@ -24,27 +24,27 @@ const HeroSection = () => {
                     </p>
 
                     <div className="gradient-border mt-5 mb-5">
-                        <button className="inner-button bg-[#482dc7] py-2 px-[30px] lg:px-[50px] lg:py-10 font-bold text-white text-[26px]">
+                        <button className="inner-button bg-[#482dc7] py-2 px-[20px] lg:px-[50px] lg:py-10 font-bold text-white text-[26px]">
                             Create for free
                         </button>
                     </div>
                 </div>
-              <div className=" block md:hidden">
-                <img src={HeroImg} className="" />
-              </div>
+                <div className=" block md:hidden">
+                    <img src={HeroImg} className="" />
+                </div>
                 {/* This div is for slider */}
-                <div className=" flex w-[70%] justify-center md:flex-row flex-col   ">
+                <div className=" flex w-[70%] justify-center md:flex-row flex-col   text-[#c7bbff]">
                     <div className=" flex-col flex justify-center md:border-r-2 md:pr-4">
-                        <p className="text-center font-bold text-white p-2 text-[14px] md:text-[24px]">
+                        <p className="text-center font-bold pt-4 p-2 text-[24px]">
                             20,000,000+
                         </p>
-                        <h2 className="text-center font-bold text-white p-2 text-[14px] md:text-[24px]">
+                        <h2 className="text-center font-bold p-2 text-[14px] md:text-[24px]">
                             USERS
                         </h2>
                     </div>
                     {/* This div is for image slider */}
 
-                    <div className="image-slider-container flex w-full  overflow-hidden  ">
+                    <div className="image-slider-container flex w-full  overflow-hidden  text-[#c7bbff]">
                         <div className="image-slider inline-flex gap-8 w-[100%] ">
                             <div class="logos">
                                 <div class="logos-slide">

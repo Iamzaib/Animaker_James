@@ -8,13 +8,20 @@ header, footer{
     color: #ffffff;
 }
 
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* This styling is for hero section */
+
 .gradient-border {
-    padding: 2px;
-    background: linear-gradient(45deg, purple, pink);
+    padding: 4px;
+    background: linear-gradient(to right, #8266ff, #d787f9, #befc6e);
     display: inline-block;
     border-radius: 80px; 
   }
@@ -22,9 +29,21 @@ header, footer{
     border: none; 
     border-radius: 80px; 
     cursor: pointer; 
+    transition: box-shadow 0.3s ease-in-out;
   }
   
-  /* In your CSS or Tailwind CSS configuration file */
+  .inner-button:hover {
+    box-shadow: 0 0 30px #8266ff, 0 0 30px #d787f9, 0 0 30px #befc6e;
+  }
+
+  .gradient-text {
+    background: linear-gradient(to right, #482dc7, #8e44ad, #3498db);
+    /* -webkit-background-clip: text; */
+    color: transparent;
+    display: inline-block; 
+}
+  
+  
 .shadow-purple:hover {
   box-shadow: 0 4px 6px -1px rgba(127, 0, 255, 0.1), 0 2px 4px -1px rgba(127, 0, 255, 0.06);
 }
@@ -104,12 +123,26 @@ body {
 .logos-slide {
   display: flex;
   flex-direction: row;
-  animation: 10s slide infinite linear;
+  animation: 20s slide infinite linear;
 }
 
 .logos-slide img {
   height: 50px;
   margin: 0 40px;
 }
-  
 
+/* Footer styling start from here: */
+.footer-styling {
+  color: #babcba;
+  font-size: 1.125rem; 
+  padding-top: 0.25rem; 
+  padding-bottom: 0.25rem;
+  cursor: pointer;
+  transition: color 0.2s ease-in-out, transform 0.2s ease-in-out; 
+}
+
+.footer-styling:hover {
+  color: #ffa56d;
+  width: fit-content; 
+  transform: scale(1.05);
+}
