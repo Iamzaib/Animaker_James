@@ -27,10 +27,10 @@ const Faq = ({ question, answer }) => {
             >
                 <CardHeader
                     onClick={toggleAccordion}
-                    className={`${isOpen ? "border-0" :"border-1"} cursor-pointer bg-zinc-200`}
+                    className={`${isOpen ? "border-0" :"border-1"} cursor-pointer bg-zinc-200 p-0`}
                 >
                     
-                    <div className={`${isOpen ? "font-bold bg-white" : ""} px-3 relative py-2 rounded-lg text-xl flex items-center justify-between`}>
+                    <div className={`${isOpen ? "font-bold bg-white" : ""} px-3 relative pt-3 pb-2 mx-3 rounded-t-lg text-xl flex items-center justify-between`}>
                         <div className='text-xl'>
                             {question}
                         </div>
@@ -50,9 +50,9 @@ const Faq = ({ question, answer }) => {
                         </div>
                     </div>
                 </CardHeader>
-                <Collapse isOpen={isOpen} className="bg-white mx-3 rounded-lg m-0">
+                <Collapse isOpen={isOpen} className="bg-white mx-3 rounded-b-lg m-0">
                     <CardBody>
-                        <div className="list-unstyled text-xl">{answer}</div>
+                        <div className="list-unstyled text-xl py-2">{answer}</div>
                     </CardBody>
                 </Collapse>
             </Card>

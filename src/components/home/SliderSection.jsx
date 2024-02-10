@@ -103,8 +103,6 @@ const SliderSection = () => {
                         {descriptions.map((description, index) => (
                             <li
                                 key={index}
-
-
                             >
                                 {activeIndex === index ?
                                     <><p className="font-normal flex justify-center items-center px-1 text-[24px] mx-auto text-[#0a0f40d8] md:w-96 " data-aos="fade-up" data-aos-duration="2000">{description}</p></>
