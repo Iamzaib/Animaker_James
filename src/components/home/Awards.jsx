@@ -25,14 +25,14 @@ export default function Awards() {
 
                 {/* Right div */}
 
-                <div>
-                    <h3 className='text-xl font-bold  md:text-start'> Awards Galore!</h3>
-                    <p className='mx-auto sm:text-center md:text-start text-zinc-400 md:w-[300px]'>Animaker was voted as the No.4 Best Design Product of the World.</p>
+                <div className='max-lg:text-center min-lg:text-left'>
+                    <h3 className='text-xl font-bold  py-2  '> Awards Galore!</h3>
+                    <p className='pb-2 text-zinc-400  '>Animaker was voted as the No.4 Best Design Product of the World.</p>
                 </div>
 
                 {/* Left div */}
-                <div>
-                    <img src="https://www.animaker.com/Animaker-Home/new-assets/Badges-Stack.svg" alt="logo" className='mx-auto' />
+                <div className='lg:w-60%'>
+                    <img src="https://www.animaker.com/Animaker-Home/new-assets/Badges-Stack.svg" alt="logo" className='mx-auto px-4 md:px-1' />
                 </div>
             </div>
         </div>

@@ -30,7 +30,7 @@ const Faq = ({ question, answer }) => {
                     className={`${isOpen ? "border-0" :"border-1"} cursor-pointer bg-zinc-200 p-0`}
                 >
                     
-                    <div className={`${isOpen ? "font-bold bg-white" : ""} px-3 relative pt-3 pb-2 mx-3 rounded-t-lg text-xl flex items-center justify-between`}>
+                    <div className={`${isOpen ? "font-bold bg-white" : "duration-700"} px-3 relative pt-3 pb-2 mx-3 rounded-t-lg text-xl flex items-center justify-between`}>
                         <div className='text-xl'>
                             {question}
                         </div>

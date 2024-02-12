@@ -74,14 +74,14 @@ export default function Reviews() {
                 <h2
                     className="px-2 text-[#2727d0] flex justify-center lg:justify-start text-2xl md:text-[55px] font-bold"
                     data-aos="fade-up"
-                    data-aos-duration="2000"
+                    data-aos-duration="1000"
                 >
                     Our Users Love Us
                 </h2>
                 <h2
-                    className="px-2 text-2xl md:mt-4 flex justify-center lg:justify-start md:text-[55px] font-bold"
+                    className="px-2 text-2xlnpt-2 md:mt-4 flex justify-center lg:justify-start md:text-[55px] font-bold"
                     data-aos="fade-up"
-                    data-aos-duration="000"
+                    data-aos-duration="1000"
                 >
                     For A Good Reason
                 </h2>
@@ -89,9 +89,9 @@ export default function Reviews() {
                 {/* This div is for review */}
 
                 <div
-                    className="bg-white flex flex-col mx-3  lg:mx-auto rounded-xl mt-5 lg:pl-5 py-16"
+                    className="bg-white  flex flex-col mx-3  lg:mx-auto rounded-xl mt-5 lg:pl-5 py-16"
                     data-aos="zoom-in-up"
-                    data-aos-duration="1000"
+                    data-aos-duration="2000"
                 >
                     <div className=" lg:flex flex-row lg:flex-col ">
                         <div className="lg:w-[65%] px-5 py-3 mx-auto text-center">

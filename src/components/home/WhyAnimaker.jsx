@@ -9,9 +9,9 @@ const WhyAnimaker = () => {
             {/* Outer Div */}
             <div className=" flex flex-col w-full mx-auto h-fit ">
                 {/* Heading Div */}
-                <div className=" flex flex-col md:mx-28">
+                <div className=" flex flex-col max-lg:text-center min-lg:text-left md:mx-28">
                     <h1
-                        className=" flex justify-center lg:justify-start text-[33px] md:text-[55px] bg-gradient-to-r from-[#3939D4] to-[#8F3CEB] font-bold text-transparent bg-clip-text"
+                        className="  text-[33px] md:text-[55px] bg-gradient-to-r from-[#3939D4] to-[#8F3CEB] font-bold text-transparent bg-clip-text"
                         data-aos="fade-up"
                         data-aos-duration="1000"
                     >
@@ -19,7 +19,7 @@ const WhyAnimaker = () => {
                         Animaker?
                     </h1>
                     <p
-                        className="flex justify-center lg:justify-start text-[#A7B2BF] lg:w-96 text-[22px] text-center md:font-bold mt-2"
+                        className="text-[#A7B2BF] lg:w-96 px-3 lg:px-2 text-[22px]  md:font-bold mt-2"
                         data-aos="fade-up"
                         data-aos-duration="2000"
                     >
@@ -31,12 +31,12 @@ const WhyAnimaker = () => {
                 <div className="flex flex-col w-full mx-auto h-fit p-2 gap-2 pt-5 md:pt-1 ">
                     {/* Video 1 */}
                     <div className="  md:bg-opacity-0 bg-[white] rounded-3xl  flex flex-col w-full ">
-                        <div className=" md:relative md:text-[#0A0F40] xl:left-32 max-w-[700px] lg:left-20 left-12 top-44 p-2  ">
+                        <div className=" md:relative md:text-[#0A0F40] xl:left-32 max-w-[700px] lg:left-20 left-12 top-44 p-2 px-4 md:px-1  ">
                             <h1 className="text-2xl md:text-3xl font-bold mb-2 flex text-center pt-3">
                                 Effortless Creation Powered by Animaker AI
                             </h1>
                             <p className=" text-xl flex justify-center md:justify-start text-[#bcc5ce]">
-                                Armed with AI powered tools, any person can now{" "}
+                                Armed with AI powered tools, any person can now
                                 <br className=" hidden md:block" /> create a
                                 studio quality animated video in an instant
                             </p>
@@ -48,7 +48,7 @@ const WhyAnimaker = () => {
                                 muted
                                 width="1000"
                                 height="auto"
-                                className="rounded-xl mx-auto shadow-lg md:border-4 md:border-l-[#6FFEE3] md:border-t-[#6FFEE3] md:border-b-[#95bffd] md:border-r-[#9CC2FD]"
+                                className="rounded-2xl mx-auto shadow-lg md:border-4 md:border-l-[#6FFEE3] md:border-t-[#6FFEE3] md:border-b-[#95bffd] md:border-r-[#9CC2FD]"
                             >
                                 <source src={video} type="video/mp4" />
                                 Your browser does not support the video tag.
@@ -79,7 +79,7 @@ const WhyAnimaker = () => {
                                     muted
                                     width="500"
                                     height="auto"
-                                    className=" rounded-xl mx-auto shadow-lg"
+                                    className=" rounded-2xl mx-auto shadow-lg"
                                 >
                                     <source src={video1} type="video/mp4" />
                                     Your browser does not support the video tag.

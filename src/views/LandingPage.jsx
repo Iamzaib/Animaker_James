@@ -18,7 +18,7 @@ export default function LandingPage() {
 
       {/* This div is for wrap the other component */}
       <div className='bg-zinc-200 py-2 lg:py-10 lg:rounded-[120px]'>
-        <div className='lg:mx-36'>
+        <div className='lg:mx-36 xl:mx-44 2xl:mx-64'>
           <Awards />
           <WhyAnimaker />
           <Template />

@@ -2,13 +2,19 @@ import React, { useEffect, useState } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import img1 from "../../assets/img/ISO.webp";
-import img2 from "../../assets/img/demo.png";
-import img3 from "../../assets/img/GDPR.png";
+import img1 from "../../assets/img/Amazon.jpeg";
+import img2 from "../../assets/img/Aptiv.jpeg";
+import img3 from "../../assets/img/Bosch.jpeg";
+import img4 from "../../assets/img/Gsk.jpeg";
+import img5 from "../../assets/img/McDonalds.jpeg";
+// import img6 from '../../assets/img/Truist-_1_.jpeg';
+import img7 from "../../assets/img/United-HealthCare.jpeg";
+import img8 from "../../assets/img/Visa.jpeg";
+
 import HeroImg from "../../assets/img/HomepageOG.png";
 
 const HeroSection = () => {
-    return ( 
+    return (
         <div className="pt-14 px-4 pb-20 md:pb-[200px] bg-gradient-to-b from-[#2F37CC] to-[#7b22e8]  flex justify-center">
             <div className="flex flex-col w-[90%]  items-center justify-between">
                 <div className="flex flex-col justify-center items-center font-sans gap-4 mx-auto pt-20">
@@ -33,7 +39,7 @@ const HeroSection = () => {
                     <img src={HeroImg} className="" />
                 </div>
                 {/* This div is for slider */}
-                <div className=" flex w-[70%] justify-center md:flex-row flex-col   text-[#c7bbff]">
+                <div className=" flex w-[98%] md:w-[70%] justify-center md:flex-row flex-col   text-[#d99efb]">
                     <div className=" flex-col flex justify-center md:border-r-2 md:pr-4">
                         <p className="text-center font-bold pt-4 p-2 text-[24px]">
                             20,000,000+
@@ -44,22 +50,51 @@ const HeroSection = () => {
                     </div>
                     {/* This div is for image slider */}
 
-                    <div className="image-slider-container flex w-full  overflow-hidden  text-[#c7bbff]">
-                        <div className="image-slider inline-flex gap-8 w-[100%] ">
+                    <div className="flex w-full  overflow-hidden  text-[#c7bbff]">
+                        <div className="inline-flex gap-8 w-[100%] ">
                             <div class="logos">
                                 <div class="logos-slide">
-                                    <img src={img1} />
+                                    {/* <img src={img1}/>
                                     <img src={img2} />
                                     <img src={img3} />
-                                    <img src={img1} />
-                                    <img src={img2} />
-                                    <img src={img3} />
-                                    <img src={img1} />
-                                    <img src={img2} />
-                                    <img src={img3} />
-                                    <img src={img1} />
-                                    <img src={img2} />
-                                    <img src={img3} />
+                                    <img src={img4} />
+                                    <img src={img5} /> */}
+                                    {/* <img src={img6} /> */}
+                                    {/* <img src={img7} />
+                                    <img src={img8} /> */}
+
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/Truist.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/Amazon.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/Bosch.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="	https://www.animaker.com/Animaker-Home/new-assets/Visa.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/Gsk.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/McDonalds.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="	https://www.animaker.com/Animaker-Home/new-assets/United%20HealthCare.svg"
+                                        alt=""
+                                    />
+                                    <img
+                                        src="https://www.animaker.com/Animaker-Home/new-assets/Aptiv.svg"
+                                        alt=""
+                                    />
                                 </div>
                             </div>
                         </div>
