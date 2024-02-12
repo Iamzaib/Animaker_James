@@ -1,7 +1,7 @@
 import React from 'react'
 import video from '../../assets/img/Video editing tools.mp4';
 export default function EditingTools() {
-  
+  console.log()
     return (
         // this is outer div
         <div className='p-3 rounded-3xl'>
