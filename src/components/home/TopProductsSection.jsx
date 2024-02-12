@@ -9,7 +9,6 @@
     import image8 from "../../assets/img/topimg8.png";
     import logo from "../../assets/img/animaker-logo.png";
     import { IoIosArrowDropright } from "react-icons/io";
-    // import { IoIosArrowForward } from "react-icons/io";
 
     export default function TopProductsSection() {
         const data = [

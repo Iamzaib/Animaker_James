@@ -15,8 +15,6 @@ export default function EditingTools() {
 
             <div className=''>
                 <video
-                    // controls
-                    
                     loop
                     autoPlay
                     muted
@@ -25,7 +23,6 @@ export default function EditingTools() {
                     <source src={video} type="video/mp4" />
                     Your browser does not support the video tag.
                 </video>
-
             </div>
         </div>
     )
