@@ -96,7 +96,7 @@ export default function Reviews() {
                     <div className=" lg:flex flex-row lg:flex-col ">
                         <div className="lg:w-[65%] px-5 py-3 mx-auto text-center">
                             <img
-                                src={data[activeIndex].picture} 
+                                src={data[activeIndex].picture}
                                 alt="image"
                                 className="rounded-full object-cover lg:mx-0 h-[180px] w-[180px] sm:mx-auto "
                             />
@@ -129,14 +129,12 @@ export default function Reviews() {
                         </div>
                     </div>
 
-                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%] "
-                    >
+                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%] ">
                         <button
                             onClick={() => {
                                 handleClickMinus(activeIndex);
                             }}
                             disabled={activeIndex === 0}
-                            
                         >
                             <IoIosArrowBack
                                 size={30}
