@@ -2,8 +2,8 @@ import React from "react";
 import image from "../../assets/img/GraphicAnimaker.png";
 import image2 from "../../assets/img/GraphicVmaker.png";
 import image3 from "../../assets/img/topimg3.png";
-import image4 from "../../assets/Img/topimg4.png";
-import image5 from "../../assets/Img/topimg5.png";
+import image4 from "../../assets/Img/topImg4.png";
+import image5 from "../../assets/Img/topImg5.png";
 import image6 from "../../assets/img/topimg6.png";
 import image7 from "../../assets/img/topimg7.png";
 import image8 from "../../assets/img/topimg8.png";
@@ -94,14 +94,21 @@ export default function TopProductsSection() {
                 >
                     <div className="lg:w-[60%] hover:scale-105 duration-200 hover:cursor-pointer">
                         <div className="relative flex justify-between items-center sm:top-[140px] md:top-[150px] lg:top-[220px] pb-2 mx-4 lg:pl-12 lg:pr-14">
-                            <img src={logo} alt="logo" className="w-[130px] relative top-3 xl:mt-4" />
-                            <IoIosArrowDropright size={30} className="mt-3 mr-3" />
+                            <img
+                                src={logo}
+                                alt="logo"
+                                className="w-[130px] relative top-3 xl:mt-4"
+                            />
+                            <IoIosArrowDropright
+                                size={30}
+                                className="mt-3 mr-3"
+                            />
                         </div>
                         <p className="relative py-2 sm:top-[150px] sm:w-[300px] md:top-[200px] lg:top-[230px] md:w-[300px] lg:w-[220px] px-4 lg:ml-5">
                             Breakthrough AI-powered plateform to create
                             studio-quality animation and live videos
                         </p>
-                        <img src={image} alt=""/>
+                        <img src={image} alt="" />
                     </div>
 
                     <div
