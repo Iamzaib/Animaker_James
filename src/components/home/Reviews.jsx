@@ -10,20 +10,9 @@ import imageC from "../../assets/img/review-img3.png";
 import imageD from "../../assets/img/review-img4.png";
 export default function Reviews() {
     const data = [
+       
         {
             id: 1,
-            picture: imageA,
-            heading: "Martin Miller",
-            heading2: "Instructional designer",
-            paragraph:
-                "Since training videos are always content-heavy, presenting them in an interesting way has always been a challenge. That’s when I came across Animaker. With its animated icons, charts, graphs, and characters, video creation is a dream now!",
-            Addition: "70+",
-            addPara: "training videos created",
-            percentage: "60%",
-            perPara: "less time on video creations",
-        },
-        {
-            id: 2,
             picture: imageB,
             heading: "Stephen A. Gruner",
             heading2: "Video Marketer",
@@ -33,6 +22,18 @@ export default function Reviews() {
             addPara: "Sales Conversions",
             percentage: "80%",
             perPara: "less time on video creation",
+        },
+        {
+            id: 2,
+            picture: imageA,
+            heading: "Martin Miller",
+            heading2: "Instructional designer",
+            paragraph:
+                "Since training videos are always content-heavy, presenting them in an interesting way has always been a challenge. That’s when I came across Animaker. With its animated icons, charts, graphs, and characters, video creation is a dream now!",
+            Addition: "70+",
+            addPara: "training videos created",
+            percentage: "60%",
+            perPara: "less time on video creations",
         },
         {
             id: 3,
@@ -59,12 +60,31 @@ export default function Reviews() {
             perPara: "Cost saved for the server",
         },
     ];
-    const [activeIndex, setActiveIndex] = useState(1);
+    const [activeIndex, setActiveIndex] = useState(0);
     const handleClickPlus = (index) => {
-        setActiveIndex(index + 1);
+        console.log("This is the index",index)
+        if(index === 3)
+        {
+            index = 0;
+        setActiveIndex(index + 0);
+        }
+        else
+
+        {
+            setActiveIndex(index + 1);
+        }
     };
     const handleClickMinus = (index) => {
-        setActiveIndex(index - 1);
+        if(index === 0)
+        {
+            index = 3;
+        setActiveIndex(index - 0);
+        }
+        else
+
+        {
+            setActiveIndex(index - 1);
+        }
     };
     return (
         // This is outer div
@@ -94,32 +114,35 @@ export default function Reviews() {
                     data-aos-duration="2000"
                 >
                     <div className=" lg:flex flex-row lg:flex-col ">
-                        <div className="lg:w-[65%] px-5 py-3 mx-auto text-center">
+                        <div className="lg:w-[65%] px-5 py-3 mx-auto ">
+                            {/* Div to Align Text and image */}
+                             <div className=" w-full flex flex-col lg:items-start items-center  ">
                             <img
                                 src={data[activeIndex].picture}
                                 alt="image"
-                                className="rounded-full object-cover lg:mx-0 h-[180px] w-[180px] sm:mx-auto "
+                                className="rounded-full object-cover   h-[180px] w-[180px]  "
                             />
-                            <h3 className="font-bold text-2xl mt-2 sm:text-center lg:text-start">
+                            <h3 className="font-bold text-2xl mt-2 ">
                                 {data[activeIndex].heading}
                             </h3>
-                            <h5 className="font-semibold text-lg pt-2 sm:text-center lg:text-start">
+                            <h5 className="font-semibold text-lg pt-2">
                                 {data[activeIndex].heading2}
                             </h5>
-                            <p className="text-lg mt-4 text-gray-500 sm:text-center lg:text-start h-[100px]">
+                            </div>
+                            <p className="text-lg mt-4 text-gray-500 stext-center lg:text-start sm:h-[170px]">
                                 {data[activeIndex].paragraph}
                             </p>
                         </div>
 
-                        <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200 mt-52 md:mt-0 ">
-                            <div className="flex flex-col justify-center p-5">
-                                <h1 className="font-bold text-[65px]">
+                        <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200  md:mt-0  ">
+                            <div className="flex flex-col justify-start pr-5 lg:h-[500px] h-[400px]">
+                                <h1 className="font-bold text-[65px] ">
                                     {data[activeIndex].Addition}
                                 </h1>
                                 <p className="mt-6 text-gray-500 text-lg">
                                     {data[activeIndex].addPara}
                                 </p>
-                                <h1 className="font-bold mt-4 text-[65px]">
+                                <h1 className="font-bold mt-4 text-[65px] xl:w-[400px]">
                                     {data[activeIndex].percentage}
                                 </h1>
                                 <p className="mt-6 text-gray-500 text-lg">
@@ -129,12 +152,12 @@ export default function Reviews() {
                         </div>
                     </div>
 
-                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%] ">
+                    <div className="flex lg:justify-end justify-center hover:cursor-pointer px-2 lg:w-[90%] w-full mt-2  ">
                         <button
                             onClick={() => {
                                 handleClickMinus(activeIndex);
                             }}
-                            disabled={activeIndex === 0}
+                            // disabled={activeIndex === 0}
                         >
                             <IoIosArrowBack
                                 size={30}
@@ -146,7 +169,7 @@ export default function Reviews() {
                             onClick={() => {
                                 handleClickPlus(activeIndex);
                             }}
-                            disabled={activeIndex === 3}
+                            // disabled={activeIndex === 3}
                         >
                             <IoIosArrowForward
                                 size={30}
