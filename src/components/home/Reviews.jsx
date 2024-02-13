@@ -109,7 +109,7 @@ export default function Reviews() {
                 {/* This div is for review */}
 
                 <div
-                    className="bg-white  flex flex-col mx-3  lg:mx-auto rounded-xl mt-5 lg:pl-5 py-16"
+                    className="bg-white  flex flex-col mx-3  lg:mx-auto rounded-xl mt-5 lg:pl-5 py-4"
                     data-aos="zoom-in-up"
                     data-aos-duration="2000"
                 >
@@ -152,7 +152,7 @@ export default function Reviews() {
                         </div>
                     </div>
 
-                    <div className="flex lg:justify-end justify-center hover:cursor-pointer px-2 lg:w-[90%] w-full mt-2  ">
+                    <div className="flex lg:justify-end justify-center hover:cursor-pointer px-2 lg:w-[95%] w-full mt-2  ">
                         <button
                             onClick={() => {
                                 handleClickMinus(activeIndex);
