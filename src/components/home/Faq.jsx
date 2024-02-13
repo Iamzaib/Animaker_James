@@ -1,5 +1,13 @@
 import React, { useState } from "react";
-import { Row, Col, Card, Collapse, CardHeader, CardBody, Container } from "reactstrap";
+import {
+    Row,
+    Col,
+    Card,
+    Collapse,
+    CardHeader,
+    CardBody,
+    Container,
+} from "reactstrap";
 import { LuMinus } from "react-icons/lu";
 import { GoPlus } from "react-icons/go";
 const Faq = ({ question, answer }) => {
@@ -12,20 +20,39 @@ const Faq = ({ question, answer }) => {
     return (
         // This is outer div
         <div>
-
-            <Card className="mb-3 border-0 p-2 bg-zinc-200" data-aos="zoom-in-up" data-aos-duration="1000">
-                <CardHeader onClick={toggleAccordion} className="cursor-pointer bg-zinc-200">
-                    <div className="flex items-center justify-between">
-                        <div className="text-xl">
+            <Card
+                className="mb-3 border-0 p-2 bg-zinc-200"
+                data-aos="zoom-in-up"
+                data-aos-duration="1000"
+            >
+                <CardHeader
+                    onClick={toggleAccordion}
+                    className={`${isOpen ? "border-0" :"border-1"} cursor-pointer bg-zinc-200 p-0`}
+                >
+                    
+                    <div className={`${isOpen ? "font-bold bg-white" : "duration-700"} px-3 relative pt-3 pb-2 mx-3 rounded-t-lg text-xl flex items-center justify-between`}>
+                        <div className='text-xl'>
                             {question}
                         </div>
-                        <div>{isOpen ? <LuMinus size={30} className='mx-2 text-gray-400' /> : <GoPlus size={30} className='mx-2 text-gray-400' />}</div>
 
+                        <div>
+                            {isOpen ? (
+                                <LuMinus
+                                    size={30}
+                                    className="mx-2 text-gray-400"
+                                />
+                            ) : (
+                                <GoPlus
+                                    size={30}
+                                    className="mx-2 text-gray-400 font-bold"
+                                />
+                            )}
+                        </div>
                     </div>
                 </CardHeader>
-                <Collapse isOpen={isOpen} className="bg-white rounded-lg mt-2">
+                <Collapse isOpen={isOpen} className="bg-white mx-3 rounded-b-lg m-0">
                     <CardBody>
-                        <div className="list-unstyled text-xl">{answer}</div>
+                        <div className="list-unstyled text-xl py-2">{answer}</div>
                     </CardBody>
                 </Collapse>
             </Card>
@@ -45,29 +72,36 @@ const FaqSection = () => {
         },
         {
             question: "How much does Animaker cost?",
-            answer: "There are different pricing plans (Free, Basic, Starter, Pro) available on Animaker. Check out the pricing page to know more about each plan."
+            answer: "There are different pricing plans (Free, Basic, Starter, Pro) available on Animaker. Check out the pricing page to know more about each plan.",
         },
         {
             question: "Is Animaker free?",
-            answer: `Yes, there is a free-forever plan for Animaker available. You can signup for this plan via animaker.com. To enjoy other premium features, you can upgrade your subscription. Check out the pricing page to learn more about the different pricing plans available.`
+            answer: `Yes, there is a free-forever plan for Animaker available. You can signup for this plan via animaker.com. To enjoy other premium features, you can upgrade your subscription. Check out the pricing page to learn more about the different pricing plans available.`,
         },
         {
-            question: "Is there a common plan to access the premium features of Animaker and its product ecosystem premium features?",
-            answer: `We are in the process of building such a common plan to give access to Animaker’s suite of products. Kindly contact our support team for more details.`
-        }
-
-
+            question:
+                "Is there a common plan to access the premium features of Animaker and its product ecosystem premium features?",
+            answer: `We are in the process of building such a common plan to give access to Animaker’s suite of products. Kindly contact our support team for more details.`,
+        },
     ];
 
     return (
         // This is the outer div
         <div className="">
-            <h1 className='text-center text-2xl  md:text-5xl font-bold  mx-auto mt-6 mb-4' data-aos="zoom-in-up" data-aos-duration="2000">
+            <h1
+                className="text-center text-2xl  md:text-5xl font-bold  mx-auto mt-6 mb-4"
+                data-aos="zoom-in-up"
+                data-aos-duration="2000"
+            >
                 Frequently Asked Questions
             </h1>
             <div data-aos="zoom-in-up" data-aos-duration="2000">
                 {faqs.map((faq, index) => (
-                    <Faq key={index} question={faq.question} answer={faq.answer} />
+                    <Faq
+                        key={index}
+                        question={faq.question}
+                        answer={faq.answer}
+                    />
                 ))}
             </div>
         </div>

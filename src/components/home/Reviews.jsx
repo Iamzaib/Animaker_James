@@ -71,119 +71,128 @@ export default function Reviews() {
         <div className="mt-5">
             {/* This div is for heading */}
             <div>
-                <h2 className="px-2 text-[#2727d0] text-center md:text-start text-2xl md:text-5xl font-bold">
+                <h2
+                    className="px-2 text-[#2727d0] flex justify-center lg:justify-start text-2xl md:text-[55px] font-bold"
+                    data-aos="fade-up"
+                    data-aos-duration="1000"
+                >
                     Our Users Love Us
                 </h2>
-                <h2 className="px-2 text-2xl text-center md:text-start md:text-5xl font-bold">
+                <h2
+                    className="px-2 text-2xlnpt-2 md:mt-4 flex justify-center lg:justify-start md:text-[55px] font-bold"
+                    data-aos="fade-up"
+                    data-aos-duration="1000"
+                >
                     For A Good Reason
                 </h2>
 
                 {/* This div is for review */}
 
                 <div
-                    className="bg-white flex flex-col  mx-auto rounded-xl mt-5 py-24"
+                    className="bg-white  flex flex-col mx-3  lg:mx-auto rounded-xl mt-5 lg:pl-5 py-16"
                     data-aos="zoom-in-up"
-                    data-aos-duration="1000"
+                    data-aos-duration="2000"
                 >
-                    <div className=" flex md:flex-row flex-col">
-                    <div className="md:w-[50%] px-5 py-3">
-                        <img
-                            src={data[activeIndex].picture}
-                            alt="image"
-                            className="rounded-full object-cover h-[180px] w-[180px] sm:mx-auto md:mx-1"
-                        />
-                        <h3 className="font-bold text-2xl sm:text-center md:text-start">
-                            {data[activeIndex].heading}
-                        </h3>
-                        <h5 className="font-semibold text-lg pt-2 sm:text-center md:text-start">
-                            {data[activeIndex].heading2}
-                        </h5>
-                        <p className="text-lg mt-4 text-gray-500 sm:text-center md:text-start h-[100px]">
-                            {data[activeIndex].paragraph}
-                        </p>
-                    </div>
+                    <div className=" lg:flex flex-row lg:flex-col ">
+                        <div className="lg:w-[65%] px-5 py-3 mx-auto text-center">
+                            <img
+                                src={data[activeIndex].picture}
+                                alt="image"
+                                className="rounded-full object-cover lg:mx-0 h-[180px] w-[180px] sm:mx-auto "
+                            />
+                            <h3 className="font-bold text-2xl mt-2 sm:text-center lg:text-start">
+                                {data[activeIndex].heading}
+                            </h3>
+                            <h5 className="font-semibold text-lg pt-2 sm:text-center lg:text-start">
+                                {data[activeIndex].heading2}
+                            </h5>
+                            <p className="text-lg mt-4 text-gray-500 sm:text-center lg:text-start h-[100px]">
+                                {data[activeIndex].paragraph}
+                            </p>
+                        </div>
 
-                    <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200 md:mt-0 mt-28">
-                        <div className="flex flex-col justify-center p-5">
-                            <h1 className="font-bold text-[65px]">
-                                {data[activeIndex].Addition}
-                            </h1>
-                            <p className="mt-6 text-gray-500 text-lg">
-                                {data[activeIndex].addPara}
-                            </p>
-                            <h1 className="font-bold mt-4 text-[65px]">
-                                {data[activeIndex].percentage}
-                            </h1>
-                            <p className="mt-6 text-gray-500 text-lg">
-                                {data[activeIndex].perPara}
-                            </p>
+                        <div className="flex justify-between flex-col text-center border-l-[2px] border-gray-200 mt-52 md:mt-0 ">
+                            <div className="flex flex-col justify-center p-5">
+                                <h1 className="font-bold text-[65px]">
+                                    {data[activeIndex].Addition}
+                                </h1>
+                                <p className="mt-6 text-gray-500 text-lg">
+                                    {data[activeIndex].addPara}
+                                </p>
+                                <h1 className="font-bold mt-4 text-[65px]">
+                                    {data[activeIndex].percentage}
+                                </h1>
+                                <p className="mt-6 text-gray-500 text-lg">
+                                    {data[activeIndex].perPara}
+                                </p>
                             </div>
+                        </div>
+                    </div>
 
-                        
-                    </div>
-                    </div>
-                    
-                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%]">
-                       
-                            <button  onClick={() => {
-                                        handleClickMinus(activeIndex);
-                                    }}
-                                    disabled={activeIndex === 0}
-                                   >
-                                <IoIosArrowBack
-                                    size={30}
-                                    className="bg-gray-300 p-1 rounded-full mx-1"
-                                   
-                                />
-                                </button>
-                            
-                              <button 
-                              onClick={() => {
+                    <div className="flex justify-between md:justify-end hover:cursor-pointer px-2 w-[90%] ">
+                        <button
+                            onClick={() => {
+                                handleClickMinus(activeIndex);
+                            }}
+                            disabled={activeIndex === 0}
+                        >
+                            <IoIosArrowBack
+                                size={30}
+                                className="bg-gray-300 p-1 rounded-full mx-1"
+                            />
+                        </button>
+
+                        <button
+                            onClick={() => {
                                 handleClickPlus(activeIndex);
-                            }} 
-                            disabled={activeIndex === 3} >
-                                <IoIosArrowForward
-                                    size={30}
-                                    className="bg-gray-300 p-1 rounded-full mx-1"
-                                            
-                                />
-                                </button>
-                           
+                            }}
+                            disabled={activeIndex === 3}
+                        >
+                            <IoIosArrowForward
+                                size={30}
+                                className="bg-gray-300 p-1 rounded-full mx-1 "
+                            />
+                        </button>
                     </div>
-                    </div>
-                
+                </div>
             </div>
 
             {/* This div is for three logo and etc */}
 
-            <div
-                className="md:flex justify-between items-center py-5 px-3"
-                data-aos="zoom-in-up"
-                data-aos-duration="1000"
-            >
-                <p className="text-2xl font-semibold sm:text-center md:text-start py-3">
+            <div className="md:flex justify-between items-center py-5 px-3">
+                <p
+                    className="text-2xl font-semibold text-center md:text-start py-3"
+                    data-aos="zoom-in-up"
+                    data-aos-duration="2000"
+                >
                     All the security you will ever need
                 </p>
-                <div className="md:flex justify-between  gap-x-2 px-3">
+                <div className="md:flex justify-between  gap-x-2 px-3 ">
                     {/* First image */}
                     <img
                         src={img1}
                         alt="image"
-                        className="w-[150px] h-[150px] mx-auto py-1"
+                        className="w-[170px] md:w-[115px]  mx-auto py-3"
+                        data-aos="zoom-in-up"
+                        data-aos-duration="2000"
                     />
 
                     {/* Second image */}
                     <img
                         src={img2}
                         alt="image"
-                        className="w-[140px] h-[140px] mx-auto py-1"
+                        className="w-[170px] md:w-[115px]  mx-auto py-3"
+                        data-aos="zoom-in-up"
+                        data-aos-duration="2000"
                     />
 
                     {/* Third image */}
                     <img
                         src={img3}
                         alt="image"
-                        className="w-[140px] h-[140px] mx-auto py-1"
+                        className="w-[170px] md:w-[115px]  mx-auto py-3"
+                        data-aos="zoom-in-up"
+                        data-aos-duration="2000"
                     />
                 </div>
             </div>
